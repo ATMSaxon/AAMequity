@@ -1,0 +1,2079 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1590573,
+     37.4615473
+    ]
+   },
+   "properties": {
+    "osm_id": 1256830720,
+    "osm_type": "node",
+    "name": "Menlo Park Surgical Hospital",
+    "operator": "Sutter Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3896641,
+     37.7647716
+    ]
+   },
+   "properties": {
+    "osm_id": 5555408498,
+    "osm_type": "node",
+    "name": "UCSF Benioff Children's Hospital San Francisco",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.255023,
+     37.4795113
+    ]
+   },
+   "properties": {
+    "osm_id": 5805243057,
+    "osm_type": "node",
+    "name": "Sequoia Hospital",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.858653,
+     37.7033003
+    ]
+   },
+   "properties": {
+    "osm_id": 6816256205,
+    "osm_type": "node",
+    "name": "Dublin Medical Offices and Cancer Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9418173,
+     37.4046509
+    ]
+   },
+   "properties": {
+    "osm_id": 9146826825,
+    "osm_type": "node",
+    "name": "Brilliance Dental Care",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9417338,
+     37.4045464
+    ]
+   },
+   "properties": {
+    "osm_id": 9146826840,
+    "osm_type": "node",
+    "name": "Stanford Express Care Clinic - San Jose",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4570483,
+     37.7630641
+    ]
+   },
+   "properties": {
+    "osm_id": 9865529017,
+    "osm_type": "node",
+    "name": "UC Medical Center Moffett & Long Hospitals",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5524959,
+     37.9587062
+    ]
+   },
+   "properties": {
+    "osm_id": 10866477264,
+    "osm_type": "node",
+    "name": "Kentfield Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.476299,
+     37.7496669
+    ]
+   },
+   "properties": {
+    "osm_id": 11992820909,
+    "osm_type": "node",
+    "name": "The Avenues Transitional Care Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.416707,
+     37.7590075
+    ]
+   },
+   "properties": {
+    "osm_id": 12092036107,
+    "osm_type": "node",
+    "name": "Double Happiness Health - Acupuncture San Francisco",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9332862,
+     37.3151936
+    ]
+   },
+   "properties": {
+    "osm_id": 12597079493,
+    "osm_type": "node",
+    "name": "Valley Specialty Center",
+    "operator": "Santa Clara Valley Healthcare",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0587352,
+     37.8915338
+    ]
+   },
+   "properties": {
+    "osm_id": 12750632901,
+    "osm_type": "node",
+    "name": "Walnut Creek Main Pharmacy Medical Office Building",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5186078,
+     37.9430248
+    ]
+   },
+   "properties": {
+    "osm_id": 12778085808,
+    "osm_type": "node",
+    "name": "Aesthetx",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7032021,
+     37.7147698
+    ]
+   },
+   "properties": {
+    "osm_id": 12978791990,
+    "osm_type": "node",
+    "name": "Unknown",
+    "operator": "Sutter Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9753702,
+     37.5530827
+    ]
+   },
+   "properties": {
+    "osm_id": 13343563786,
+    "osm_type": "node",
+    "name": "Kaiser Permanente Fremont Emergency Department",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0585295,
+     37.8911543
+    ]
+   },
+   "properties": {
+    "osm_id": 13584225202,
+    "osm_type": "node",
+    "name": "Kaiser Permanente Walnut Creek Medical Center Emergency Room",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9712187,
+     37.3911398
+    ]
+   },
+   "properties": {
+    "osm_id": 13715088301,
+    "osm_type": "node",
+    "name": "Sutter Urgent Care - Santa Clara",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2676417,
+     37.8370683
+    ]
+   },
+   "properties": {
+    "osm_id": 22942804,
+    "osm_type": "way",
+    "name": "Children's Hospital & Research Center Oakland",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4052172,
+     37.7567781
+    ]
+   },
+   "properties": {
+    "osm_id": 24446045,
+    "osm_type": "way",
+    "name": "San Francisco General Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4394713,
+     37.6595195
+    ]
+   },
+   "properties": {
+    "osm_id": 24561476,
+    "osm_type": "way",
+    "name": "Kaiser Permanente South San Francisco Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.231433,
+     37.7981756
+    ]
+   },
+   "properties": {
+    "osm_id": 28404502,
+    "osm_type": "way",
+    "name": "Highland Hospital",
+    "operator": "Alameda Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2643458,
+     37.8207593
+    ]
+   },
+   "properties": {
+    "osm_id": 28459583,
+    "osm_type": "way",
+    "name": "Alta Bates Summit Medical Center - Summit Campus",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0655721,
+     37.376164
+    ]
+   },
+   "properties": {
+    "osm_id": 30906584,
+    "osm_type": "way",
+    "name": "PAMF Mountain View Center",
+    "operator": "Sutter Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.132542,
+     38.006747
+    ]
+   },
+   "properties": {
+    "osm_id": 31532102,
+    "osm_type": "way",
+    "name": "Contra Costa Regional Medical Center",
+    "operator": "Contra Costa Health Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.803181,
+     37.9826454
+    ]
+   },
+   "properties": {
+    "osm_id": 31556915,
+    "osm_type": "way",
+    "name": "Sutter Delta Medical Center",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0403934,
+     37.9123991
+    ]
+   },
+   "properties": {
+    "osm_id": 31741127,
+    "osm_type": "way",
+    "name": "John Muir Medical Center",
+    "operator": "John Muir Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4701474,
+     37.7012726
+    ]
+   },
+   "properties": {
+    "osm_id": 33967913,
+    "osm_type": "way",
+    "name": "IQ Laser Vision & ScottHyver Visioncare",
+    "operator": "Scott Hyver",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9482986,
+     37.2444031
+    ]
+   },
+   "properties": {
+    "osm_id": 37622850,
+    "osm_type": "way",
+    "name": "Mission Oaks Hospital",
+    "operator": "HCA",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9747427,
+     37.5523445
+    ]
+   },
+   "properties": {
+    "osm_id": 37862115,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Fremont Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8008829,
+     37.2400148
+    ]
+   },
+   "properties": {
+    "osm_id": 38060492,
+    "osm_type": "way",
+    "name": "Kaiser Permanente San Jose",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9456645,
+     37.2523269
+    ]
+   },
+   "properties": {
+    "osm_id": 38061549,
+    "osm_type": "way",
+    "name": "Good Samaritan Hospital",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9150893,
+     37.3114795
+    ]
+   },
+   "properties": {
+    "osm_id": 38098752,
+    "osm_type": "way",
+    "name": "Crestwood San Jose Psychiatric Health Facility",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9991897,
+     37.3358468
+    ]
+   },
+   "properties": {
+    "osm_id": 38198942,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Santa Clara Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9382598,
+     37.3281384
+    ]
+   },
+   "properties": {
+    "osm_id": 38899283,
+    "osm_type": "way",
+    "name": "O\u2019Connor Hospital",
+    "operator": "Verity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9513321,
+     38.3551254
+    ]
+   },
+   "properties": {
+    "osm_id": 39359077,
+    "osm_type": "way",
+    "name": "VacaValley Hospital",
+    "operator": "NorthBay Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.286096,
+     37.4735507
+    ]
+   },
+   "properties": {
+    "osm_id": 40188454,
+    "osm_type": "way",
+    "name": "Cordilleras Mental Health Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.081046,
+     37.3686082
+    ]
+   },
+   "properties": {
+    "osm_id": 40719759,
+    "osm_type": "way",
+    "name": "El Camino Hospital",
+    "operator": "El Camino Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7633724,
+     37.6255298
+    ]
+   },
+   "properties": {
+    "osm_id": 43985625,
+    "osm_type": "way",
+    "name": "VA Palo Alto Health Care System - Livermore Division",
+    "operator": "Veterans Health Administration",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1606326,
+     37.4662628
+    ]
+   },
+   "properties": {
+    "osm_id": 53364481,
+    "osm_type": "way",
+    "name": "VA Medical Center Menlo Park",
+    "operator": "Veterans Health Administration",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2579905,
+     37.8244811
+    ]
+   },
+   "properties": {
+    "osm_id": 104334210,
+    "osm_type": "way",
+    "name": "Oakland Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4346212,
+     37.7682569
+    ]
+   },
+   "properties": {
+    "osm_id": 112073351,
+    "osm_type": "way",
+    "name": "CPMC Davies Campus",
+    "operator": "California Pacific Medical Center",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7748562,
+     37.9508127
+    ]
+   },
+   "properties": {
+    "osm_id": 123074822,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Antioch Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8808269,
+     37.6936709
+    ]
+   },
+   "properties": {
+    "osm_id": 129008826,
+    "osm_type": "way",
+    "name": "Stanford Health Care Tri-Valley",
+    "operator": "Stanford Health Care",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4536158,
+     37.7739399
+    ]
+   },
+   "properties": {
+    "osm_id": 160702015,
+    "osm_type": "way",
+    "name": "Saint Mary's Medical Center",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4090035,
+     37.7954771
+    ]
+   },
+   "properties": {
+    "osm_id": 160703804,
+    "osm_type": "way",
+    "name": "Chinese Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4322447,
+     37.7906634
+    ]
+   },
+   "properties": {
+    "osm_id": 160705973,
+    "osm_type": "way",
+    "name": "California Pacific Medical Center",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4210918,
+     37.7472485
+    ]
+   },
+   "properties": {
+    "osm_id": 160709337,
+    "osm_type": "way",
+    "name": "CPMC Mission Bernal Campus",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4168672,
+     37.7896083
+    ]
+   },
+   "properties": {
+    "osm_id": 160710807,
+    "osm_type": "way",
+    "name": "Saint Francis Memorial Hospital",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4559321,
+     37.7865654
+    ]
+   },
+   "properties": {
+    "osm_id": 160833241,
+    "osm_type": "way",
+    "name": "CPMC California Campus",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4418781,
+     37.7828588
+    ]
+   },
+   "properties": {
+    "osm_id": 160833245,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Medical Center Geary Campus",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4393802,
+     37.7848676
+    ]
+   },
+   "properties": {
+    "osm_id": 160833250,
+    "osm_type": "way",
+    "name": "UCSF Mount Zion Campus",
+    "operator": "University of California, San Francisco",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4573186,
+     37.7492051
+    ]
+   },
+   "properties": {
+    "osm_id": 160835902,
+    "osm_type": "way",
+    "name": "Laguna Honda Hospital And Rehabilitation Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2383367,
+     38.1311841
+    ]
+   },
+   "properties": {
+    "osm_id": 174612708,
+    "osm_type": "way",
+    "name": "Sutter Solano Medical Center",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2473943,
+     38.1266763
+    ]
+   },
+   "properties": {
+    "osm_id": 174614552,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Vallejo Hospital & Medical Offices",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2576518,
+     37.8554582
+    ]
+   },
+   "properties": {
+    "osm_id": 209305484,
+    "osm_type": "way",
+    "name": "Alta Bates Summit Medical Center - Alta Bates Campus",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3609568,
+     37.9370449
+    ]
+   },
+   "properties": {
+    "osm_id": 222473837,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Richmond Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2539513,
+     37.7625985
+    ]
+   },
+   "properties": {
+    "osm_id": 231055907,
+    "osm_type": "way",
+    "name": "Alameda Hospital",
+    "operator": "Alameda Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3002084,
+     37.530899
+    ]
+   },
+   "properties": {
+    "osm_id": 251737719,
+    "osm_type": "way",
+    "name": "San Mateo Medical Center",
+    "operator": "San Mateo County",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.029279,
+     37.9279872
+    ]
+   },
+   "properties": {
+    "osm_id": 278755523,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Medical Offices",
+    "operator": "Kaiser Permanente",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.938125,
+     38.3881575
+    ]
+   },
+   "properties": {
+    "osm_id": 286962347,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Vacaville Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0475872,
+     38.2622081
+    ]
+   },
+   "properties": {
+    "osm_id": 287807844,
+    "osm_type": "way",
+    "name": "NorthBay Medical Center",
+    "operator": "NorthBay Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4223676,
+     37.7860517
+    ]
+   },
+   "properties": {
+    "osm_id": 288533921,
+    "osm_type": "way",
+    "name": "CPMC Van Ness Campus",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.165165,
+     37.7060235
+    ]
+   },
+   "properties": {
+    "osm_id": 307484649,
+    "osm_type": "way",
+    "name": "San Leandro Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6318357,
+     38.2548092
+    ]
+   },
+   "properties": {
+    "osm_id": 330700899,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9581364,
+     37.7764219
+    ]
+   },
+   "properties": {
+    "osm_id": 331050828,
+    "osm_type": "way",
+    "name": "San Ramon Regional Medical Center",
+    "operator": "TH Medical",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1405628,
+     37.4046252
+    ]
+   },
+   "properties": {
+    "osm_id": 358960996,
+    "osm_type": "way",
+    "name": "VA Palo Alto Health Care System",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1184135,
+     37.7085337
+    ]
+   },
+   "properties": {
+    "osm_id": 361820477,
+    "osm_type": "way",
+    "name": "Fairmont Rehabilitation and Wellness",
+    "operator": "Alameda Health System",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3262487,
+     37.5651332
+    ]
+   },
+   "properties": {
+    "osm_id": 384941781,
+    "osm_type": "way",
+    "name": "Mills Health Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5357287,
+     37.9475822
+    ]
+   },
+   "properties": {
+    "osm_id": 385484809,
+    "osm_type": "way",
+    "name": "Marin Health Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3837085,
+     37.5920659
+    ]
+   },
+   "properties": {
+    "osm_id": 391773657,
+    "osm_type": "way",
+    "name": "Mills-Peninsula Medical Center",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14283,
+     37.7132086
+    ]
+   },
+   "properties": {
+    "osm_id": 403124170,
+    "osm_type": "way",
+    "name": "San Leandro Hospital",
+    "operator": "Alameda Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8493737,
+     37.3620815
+    ]
+   },
+   "properties": {
+    "osm_id": 403207487,
+    "osm_type": "way",
+    "name": "Regional Medical Center of San Jose",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1305936,
+     37.7165424
+    ]
+   },
+   "properties": {
+    "osm_id": 403579332,
+    "osm_type": "way",
+    "name": "Kindred Hospital - San Francisco Bay Area",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9503035,
+     37.2506634
+    ]
+   },
+   "properties": {
+    "osm_id": 422727538,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2965806,
+     38.3252983
+    ]
+   },
+   "properties": {
+    "osm_id": 463598674,
+    "osm_type": "way",
+    "name": "Queen of the Valley Medical Center",
+    "operator": "Saint Joseph Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1153154,
+     37.9939295
+    ]
+   },
+   "properties": {
+    "osm_id": 465063220,
+    "osm_type": "way",
+    "name": "Martinez Outpatient Clinic",
+    "operator": "Veterans Health Administration",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0372715,
+     37.9857071
+    ]
+   },
+   "properties": {
+    "osm_id": 548492917,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.031161,
+     37.3686443
+    ]
+   },
+   "properties": {
+    "osm_id": 560216342,
+    "osm_type": "way",
+    "name": "Sutter Health Sunnyvale Center",
+    "operator": "Sutter Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.224299,
+     37.4892388
+    ]
+   },
+   "properties": {
+    "osm_id": 560407431,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Redwood City Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4340372,
+     37.7444966
+    ]
+   },
+   "properties": {
+    "osm_id": 578229087,
+    "osm_type": "way",
+    "name": "Sutter Tracy Community Hospital",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9692126,
+     37.2628657
+    ]
+   },
+   "properties": {
+    "osm_id": 579665920,
+    "osm_type": "way",
+    "name": "El Camino Hospital Los Gatos",
+    "operator": "El Camino Hospital",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9793278,
+     37.5572513
+    ]
+   },
+   "properties": {
+    "osm_id": 579805948,
+    "osm_type": "way",
+    "name": "Washington Hospital",
+    "operator": "Washington Hospital Healthcare System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8193474,
+     38.3972399
+    ]
+   },
+   "properties": {
+    "osm_id": 579955632,
+    "osm_type": "way",
+    "name": "Sonoma West Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6318574,
+     38.2545664
+    ]
+   },
+   "properties": {
+    "osm_id": 579959366,
+    "osm_type": "way",
+    "name": "Petaluma Valley Hospital",
+    "operator": "Saint Joseph Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4653592,
+     38.2881077
+    ]
+   },
+   "properties": {
+    "osm_id": 579963758,
+    "osm_type": "way",
+    "name": "Sonoma Valley Hospital",
+    "operator": "Sonoma Valley Health Care District",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5603002,
+     38.0987785
+    ]
+   },
+   "properties": {
+    "osm_id": 579979418,
+    "osm_type": "way",
+    "name": "Novato Community Hospital",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5544845,
+     38.004505
+    ]
+   },
+   "properties": {
+    "osm_id": 579983524,
+    "osm_type": "way",
+    "name": "Kaiser Permanente San Rafael Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0878995,
+     37.6330866
+    ]
+   },
+   "properties": {
+    "osm_id": 580000443,
+    "osm_type": "way",
+    "name": "Saint Rose Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1193133,
+     37.710422
+    ]
+   },
+   "properties": {
+    "osm_id": 580152822,
+    "osm_type": "way",
+    "name": "John George Psychiatric Hospital",
+    "operator": "Alameda Health System",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5075423,
+     37.526393
+    ]
+   },
+   "properties": {
+    "osm_id": 580229406,
+    "osm_type": "way",
+    "name": "Seton Coastside Hospital",
+    "operator": "Verity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4742787,
+     37.67939
+    ]
+   },
+   "properties": {
+    "osm_id": 580239673,
+    "osm_type": "way",
+    "name": "Seton Medical Center",
+    "operator": "AHMC Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3907516,
+     37.7655773
+    ]
+   },
+   "properties": {
+    "osm_id": 580277612,
+    "osm_type": "way",
+    "name": "UCSF Medical Center at Mission Bay",
+    "operator": "University of California San Francisco",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.089207,
+     37.6981684
+    ]
+   },
+   "properties": {
+    "osm_id": 586913467,
+    "osm_type": "way",
+    "name": "Eden Medical Center",
+    "operator": "Sutter Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0528186,
+     37.9258199
+    ]
+   },
+   "properties": {
+    "osm_id": 608778056,
+    "osm_type": "way",
+    "name": "Walnut Creek Outpatient Center",
+    "operator": "John Muir Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9353094,
+     37.3135065
+    ]
+   },
+   "properties": {
+    "osm_id": 609630707,
+    "osm_type": "way",
+    "name": "Santa Clara Valley Medical Center",
+    "operator": "County of Santa Clara",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0296781,
+     37.9295984
+    ]
+   },
+   "properties": {
+    "osm_id": 609820044,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0262972,
+     37.9251641
+    ]
+   },
+   "properties": {
+    "osm_id": 609820045,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0232425,
+     37.9252758
+    ]
+   },
+   "properties": {
+    "osm_id": 609820047,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9797455,
+     37.5463831
+    ]
+   },
+   "properties": {
+    "osm_id": 691981592,
+    "osm_type": "way",
+    "name": "Fremont Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1842244,
+     37.8831591
+    ]
+   },
+   "properties": {
+    "osm_id": 701135456,
+    "osm_type": "way",
+    "name": "Orinda Rehabilitation",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4693682,
+     37.6653587
+    ]
+   },
+   "properties": {
+    "osm_id": 726622105,
+    "osm_type": "way",
+    "name": "Chinese Hospital Outpatient Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.249123,
+     38.1175678
+    ]
+   },
+   "properties": {
+    "osm_id": 787331201,
+    "osm_type": "way",
+    "name": "Adventist Health Vallejo",
+    "operator": "Adventist Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.031305,
+     37.3015893
+    ]
+   },
+   "properties": {
+    "osm_id": 830183625,
+    "osm_type": "way",
+    "name": "Palo Alto Medical Foundation",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4321769,
+     37.7437529
+    ]
+   },
+   "properties": {
+    "osm_id": 963148716,
+    "osm_type": "way",
+    "name": "Sutter Gould Medical Foundation",
+    "operator": "Sutter Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2408398,
+     38.1302847
+    ]
+   },
+   "properties": {
+    "osm_id": 1023435112,
+    "osm_type": "way",
+    "name": "Crestwood Manor",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2393818,
+     38.2668694
+    ]
+   },
+   "properties": {
+    "osm_id": 1066834082,
+    "osm_type": "way",
+    "name": "Napa State Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.363425,
+     38.3897914
+    ]
+   },
+   "properties": {
+    "osm_id": 1180728018,
+    "osm_type": "way",
+    "name": "Holderman Memorial Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2734132,
+     38.1004298
+    ]
+   },
+   "properties": {
+    "osm_id": 1196300000,
+    "osm_type": "way",
+    "name": "U.S. Department of Veterans Affairs",
+    "operator": "Veterans Health Administration",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5678909,
+     38.0263133
+    ]
+   },
+   "properties": {
+    "osm_id": 1254576792,
+    "osm_type": "way",
+    "name": "Jeannette Prandi Children's Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0347187,
+     37.9834871
+    ]
+   },
+   "properties": {
+    "osm_id": 1261800767,
+    "osm_type": "way",
+    "name": "John Muir Medical Center, Concord",
+    "operator": "John Muir Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9476371,
+     37.2598531
+    ]
+   },
+   "properties": {
+    "osm_id": 1341407770,
+    "osm_type": "way",
+    "name": "Children's Healthcare Organization Of Northern California - Pediatric Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2670044,
+     38.2780195
+    ]
+   },
+   "properties": {
+    "osm_id": 1348099802,
+    "osm_type": "way",
+    "name": "Napa State Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8048022,
+     37.981493
+    ]
+   },
+   "properties": {
+    "osm_id": 1389686825,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": "Sutter Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4565382,
+     37.7558693
+    ]
+   },
+   "properties": {
+    "osm_id": 1390260730,
+    "osm_type": "way",
+    "name": "Tracy Medical Offices",
+    "operator": "Kaiser Permanente",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0555607,
+     37.6885959
+    ]
+   },
+   "properties": {
+    "osm_id": 1469022400,
+    "osm_type": "way",
+    "name": "Woodroe Place",
+    "operator": "Bay Area Community Services",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.505399,
+     37.7824568
+    ]
+   },
+   "properties": {
+    "osm_id": 2142027,
+    "osm_type": "relation",
+    "name": "San Francisco VA Medical Center",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9644997,
+     38.2698709
+    ]
+   },
+   "properties": {
+    "osm_id": 8524811,
+    "osm_type": "relation",
+    "name": "David Grant USAF Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.270026,
+     37.8636401
+    ]
+   },
+   "properties": {
+    "osm_id": 9387378,
+    "osm_type": "relation",
+    "name": "Alta Bates Summit Medical Center - Herrick Campus",
+    "operator": "Sutter Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0598684,
+     37.891112
+    ]
+   },
+   "properties": {
+    "osm_id": 9696191,
+    "osm_type": "relation",
+    "name": "Walnut Creek Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1776047,
+     37.4343774
+    ]
+   },
+   "properties": {
+    "osm_id": 12130441,
+    "osm_type": "relation",
+    "name": "Stanford Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1744513,
+     37.436136
+    ]
+   },
+   "properties": {
+    "osm_id": 12130449,
+    "osm_type": "relation",
+    "name": "Lucile Packard Children's Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2891915,
+     37.8358458
+    ]
+   },
+   "properties": {
+    "osm_id": 20227365,
+    "osm_type": "relation",
+    "name": "Sutter Health Emeryville Campus",
+    "operator": "Sutter Health",
+    "emergency": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+  "metro": "nyc",
+  "tiers": {
+    "long_run": {
+      "existing_facilities": {
+        "n_candidates": 49,
+        "status": "Optimal",
+        "mean_dA_pct_of_base": 0.08044615224976517,
+        "share_tracts_dA_pos": 0.6721905748316934,
+        "ci_dA_vs_income": 0.6602016505538673,
+        "mean_B": 0.04586456703954592,
+        "ci_B_vs_income": -0.07886930894398313,
+        "ci_dnl_energy_vs_income": -0.07718155538493282,
+        "population_dnl_ge_40": 29804.0,
+        "rho_dnl_vs_holc": 0.04371877523107753,
+        "median_income_of_host_tracts": 102727.0,
+        "metro_median_tract_income": 91060.0
+      },
+      "greenfield_49": {
+        "n_candidates": 49,
+        "status": "Optimal",
+        "mean_dA_pct_of_base": 0.11697535789507804,
+        "share_tracts_dA_pos": 0.7853443811496634,
+        "ci_dA_vs_income": 0.6683141599488327,
+        "mean_B": 0.06468001404696451,
+        "ci_B_vs_income": 0.02477431216056436,
+        "ci_dnl_energy_vs_income": 0.21083158504187624,
+        "population_dnl_ge_40": 117130.0,
+        "rho_dnl_vs_holc": 0.0968377643239705,
+        "median_income_of_host_tracts": 104844.0,
+        "metro_median_tract_income": 91060.0
+      },
+      "greenfield_100": {
+        "n_candidates": 100,
+        "status": "Optimal",
+        "mean_dA_pct_of_base": 0.17623535885300892,
+        "share_tracts_dA_pos": 0.8327291558777835,
+        "ci_dA_vs_income": 0.6416997463030343,
+        "mean_B": 0.061111544176415955,
+        "ci_B_vs_income": 0.07245452429757278,
+        "ci_dnl_energy_vs_income": 0.23578690537785402,
+        "population_dnl_ge_40": 113678.0,
+        "rho_dnl_vs_holc": 0.035048489913957544,
+        "median_income_of_host_tracts": 105164.0,
+        "metro_median_tract_income": 91060.0
+      }
+    },
+    "public_service": {
+      "existing_facilities": {
+        "n_candidates": 49,
+        "status": "Optimal",
+        "mean_dA_pct_of_base": 0.8774878508504536,
+        "share_tracts_dA_pos": 0.9062661833247022,
+        "ci_dA_vs_income": 0.4570624548464861,
+        "mean_B": 0.0438742124081936,
+        "ci_B_vs_income": -0.08374956834253694,
+        "ci_dnl_energy_vs_income": -0.09568951296838996,
+        "population_dnl_ge_40": 29804.0,
+        "rho_dnl_vs_holc": 0.05036605730583743,
+        "median_income_of_host_tracts": 102727.0,
+        "metro_median_tract_income": 91060.0
+      },
+      "greenfield_49": {
+        "n_candidates": 49,
+        "status": "Optimal",
+        "mean_dA_pct_of_base": 1.2020028862021366,
+        "share_tracts_dA_pos": 0.9919730709476955,
+        "ci_dA_vs_income": 0.44936090587329386,
+        "mean_B": 0.06416001690808933,
+        "ci_B_vs_income": 0.03565170922736826,
+        "ci_dnl_energy_vs_income": 0.19956618186323904,
+        "population_dnl_ge_40": 115319.0,
+        "rho_dnl_vs_holc": 0.09696547822720979,
+        "median_income_of_host_tracts": 110917.0,
+        "metro_median_tract_income": 91060.0
+      },
+      "greenfield_100": {
+        "n_candidates": 100,
+        "status": "Optimal",
+        "mean_dA_pct_of_base": 1.3976094056062083,
+        "share_tracts_dA_pos": 0.9948213360952874,
+        "ci_dA_vs_income": 0.4046322136480787,
+        "mean_B": 0.07124044017817857,
+        "ci_B_vs_income": -0.04187880690684951,
+        "ci_dnl_energy_vs_income": 0.0649183520624532,
+        "population_dnl_ge_40": 116403.0,
+        "rho_dnl_vs_holc": 0.13842037400588514,
+        "median_income_of_host_tracts": 102509.5,
+        "metro_median_tract_income": 91060.0
+      }
+    }
+  }
+}

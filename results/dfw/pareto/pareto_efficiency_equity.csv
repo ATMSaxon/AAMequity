@@ -1,0 +1,6 @@
+floor_share,n_vertiports,status,objective,mean_dA,mean_B,gini_dA,ci_dA_vs_income,min_gain_value
+0.0,25,Optimal,4375561649.602365,623.689950086106,0.013809178370527387,0.7708261767831828,0.08150299133316781,392.24301686126825
+0.05,0,Infeasible,0.0,0.0,0.0,0.0,0.0,0.0
+0.1,0,Infeasible,0.0,0.0,0.0,0.0,0.0,0.0
+0.2,0,Infeasible,0.0,0.0,0.0,0.0,0.0,0.0
+0.4,0,Infeasible,0.0,0.0,0.0,0.0,0.0,0.0

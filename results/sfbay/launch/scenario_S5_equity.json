@@ -1,0 +1,39 @@
+{
+  "gini_dA": 0.991698523299854,
+  "theil_dA": 21.2582340846001,
+  "palma_dA": Infinity,
+  "ci_dA_vs_income": -0.03839031371484304,
+  "ci_B_vs_income": -0.4967056808683231,
+  "edr_dA": {
+    "high_income": 0.20689888275164145,
+    "mid_income": 2.013044366277366,
+    "low_income": 0.781492402015186
+  },
+  "edr_B": {
+    "high_income": 0.13047411991523644,
+    "mid_income": 0.7111154734430459,
+    "low_income": 2.2117449147895956
+  },
+  "min_gain": {
+    "min_group": "high_income",
+    "min_value": 0.46930225171408674,
+    "by_group": {
+      "high_income": 0.46930225171408674,
+      "mid_income": 4.566125448963207,
+      "low_income": 1.7726347241972595
+    }
+  },
+  "ebr_by_group": {
+    "high_income": 0.06899906728339447,
+    "mid_income": 1.790388000823721,
+    "low_income": 1.164429025537794
+  },
+  "theil_decomp": {
+    "total": 21.2582340846001,
+    "within": 20.82189701066025,
+    "between": 0.37845851351118975
+  },
+  "mean_dA": 2.268268660867689,
+  "mean_B": 0.01789633689312724,
+  "n_tracts": 1761
+}

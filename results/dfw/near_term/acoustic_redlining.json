@@ -1,0 +1,279 @@
+{
+  "metro": "dfw",
+  "fare_tier": "near_term",
+  "n_tracts_with_holc": 134,
+  "by_grade_pop": {
+    "A": 70067.0,
+    "B": 96625.0,
+    "C": 243649.0,
+    "D": 71439.0
+  },
+  "scenarios": {
+    "S1": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.012123883177603429,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 1.3494576828195712
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0347593880593935,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 3.8689191134862355
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 1.5675590515041672e-05,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 0.0017447830737892045
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0016308882045690473,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 0.18152720424028268
+        }
+      },
+      "spearman_B_vs_rank": -0.5108842258880248,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 2.8457327259757834e-10,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": -0.5108842258880248,
+      "p_B_vs_rank_Bpos_only": 2.8457327259757834e-10
+    },
+    "S2": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.012123883177603429,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 1.3494576828195712
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0347593880593935,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 3.8689191134862355
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 1.5675590515041672e-05,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 0.0017447830737892045
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0016308882045690473,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 0.18152720424028268
+        }
+      },
+      "spearman_B_vs_rank": -0.5108842258880248,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 2.8457327259757834e-10,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": -0.5108842258880248,
+      "p_B_vs_rank_Bpos_only": 2.8457327259757834e-10
+    },
+    "S3": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.012123883177603429,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 1.3494576828195712
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0347593880593935,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 3.8689191134862355
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 1.5675590515041672e-05,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 0.0017447830737892045
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0016308882045690473,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 0.18152720424028268
+        }
+      },
+      "spearman_B_vs_rank": -0.5108842258880248,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 2.8457327259757834e-10,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": -0.5108842258880248,
+      "p_B_vs_rank_Bpos_only": 2.8457327259757834e-10
+    },
+    "S4": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.09378916198347108,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 0.9612115630303503
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.08796079813199265,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 0.9014787490322189
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.10022913354346158,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 1.0272125323329873
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.10523227167057109,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 1.0784878999653258
+        }
+      },
+      "spearman_B_vs_rank": -0.07216561666346906,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.40731256641650687,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": -0.07216561666346906,
+      "p_B_vs_rank_Bpos_only": 0.40731256641650687
+    },
+    "S5": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0005895646511650355,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 0.11103935176029413
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.02482103267702033,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 4.674824683331812
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 8.381176011550136e-06,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 0.00157852129368898
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0016284211899799457,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 0.3066989057004398
+        }
+      },
+      "spearman_B_vs_rank": 0.062363021710151345,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.4740913245005418,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.062363021710151345,
+      "p_B_vs_rank_Bpos_only": 0.4740913245005418
+    },
+    "S6": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.012123883177603429,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 1.3494576828195712
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0347593880593935,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 3.8689191134862355
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 1.5675590515041672e-05,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 0.0017447830737892045
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0016308882045690473,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 0.18152720424028268
+        }
+      },
+      "spearman_B_vs_rank": -0.5108842258880248,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 2.8457327259757834e-10,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": -0.5108842258880248,
+      "p_B_vs_rank_Bpos_only": 2.8457327259757834e-10
+    },
+    "S7": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.012123883177603429,
+          "n_tracts": 20,
+          "pop_share": 0.14543360039852216,
+          "fsr_burden": 1.3494576828195712
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0347593880593935,
+          "n_tracts": 30,
+          "pop_share": 0.2005583461330898,
+          "fsr_burden": 3.8689191134862355
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 1.5675590515041672e-05,
+          "n_tracts": 67,
+          "pop_share": 0.5057266802274897,
+          "fsr_burden": 0.0017447830737892045
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.0016308882045690473,
+          "n_tracts": 17,
+          "pop_share": 0.14828137324089832,
+          "fsr_burden": 0.18152720424028268
+        }
+      },
+      "spearman_B_vs_rank": -0.5108842258880248,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 2.8457327259757834e-10,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": -0.5108842258880248,
+      "p_B_vs_rank_Bpos_only": 2.8457327259757834e-10
+    }
+  }
+}

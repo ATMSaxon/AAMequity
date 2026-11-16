@@ -1,0 +1,279 @@
+{
+  "metro": "la",
+  "fare_tier": "launch",
+  "n_tracts_with_holc": 1565,
+  "by_grade_pop": {
+    "A": 379594.0,
+    "B": 962218.0,
+    "C": 3280098.0,
+    "D": 1560961.0
+  },
+  "scenarios": {
+    "S1": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.016057922481465012,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.35590263530561006
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.028350644499996892,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.6283545833105715
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.041108023527244866,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 0.911105040715162
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.07095037733226103,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.572521389918564
+        }
+      },
+      "spearman_B_vs_rank": 0.0731289352100536,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.0037970096810933792,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.0731289352100536,
+      "p_B_vs_rank_Bpos_only": 0.0037970096810933792
+    },
+    "S2": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.016057922481465012,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.35590263530561006
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.028350644499996892,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.6283545833105715
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.041108023527244866,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 0.911105040715162
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.07095037733226103,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.572521389918564
+        }
+      },
+      "spearman_B_vs_rank": 0.0731289352100536,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.0037970096810933792,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.0731289352100536,
+      "p_B_vs_rank_Bpos_only": 0.0037970096810933792
+    },
+    "S3": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.016057922481465012,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.35590263530561006
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.028350644499996892,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.6283545833105715
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.041108023527244866,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 0.911105040715162
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.07095037733226103,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.572521389918564
+        }
+      },
+      "spearman_B_vs_rank": 0.0731289352100536,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.0037970096810933792,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.0731289352100536,
+      "p_B_vs_rank_Bpos_only": 0.0037970096810933792
+    },
+    "S4": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.016629377139361193,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.3181138643617528
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.02545588215744818,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.48696166163318516
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.049147164366600014,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 0.9401671796389655
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.08404761725395714,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.6078000048093857
+        }
+      },
+      "spearman_B_vs_rank": 0.11694714735836265,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 3.5066363469387674e-06,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.11694714735836265,
+      "p_B_vs_rank_Bpos_only": 3.5066363469387674e-06
+    },
+    "S5": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.019509936140515095,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.5238308534716074
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.029086288147745897,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.7809505467002561
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.03760429952494902,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 1.0096543861651717
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.04583095583393124,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.2305354990885518
+        }
+      },
+      "spearman_B_vs_rank": 0.033661361238176625,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.18320239166403182,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.033661361238176625,
+      "p_B_vs_rank_Bpos_only": 0.18320239166403182
+    },
+    "S6": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.016057922481465012,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.35590263530561006
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.028350644499996892,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.6283545833105715
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.041108023527244866,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 0.911105040715162
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.07095037733226103,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.572521389918564
+        }
+      },
+      "spearman_B_vs_rank": 0.0731289352100536,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.0037970096810933792,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.0731289352100536,
+      "p_B_vs_rank_Bpos_only": 0.0037970096810933792
+    },
+    "S7": {
+      "by_grade": {
+        "A": {
+          "mean_dA": 0.0,
+          "mean_B": 0.016057922481465012,
+          "n_tracts": 100,
+          "pop_share": 0.06139445574717635,
+          "fsr_burden": 0.35590263530561006
+        },
+        "B": {
+          "mean_dA": 0.0,
+          "mean_B": 0.028350644499996892,
+          "n_tracts": 246,
+          "pop_share": 0.1556264072143831,
+          "fsr_burden": 0.6283545833105715
+        },
+        "C": {
+          "mean_dA": 0.0,
+          "mean_B": 0.041108023527244866,
+          "n_tracts": 822,
+          "pop_share": 0.5305137370648684,
+          "fsr_burden": 0.911105040715162
+        },
+        "D": {
+          "mean_dA": 0.0,
+          "mean_B": 0.07095037733226103,
+          "n_tracts": 397,
+          "pop_share": 0.25246539997357215,
+          "fsr_burden": 1.572521389918564
+        }
+      },
+      "spearman_B_vs_rank": 0.0731289352100536,
+      "spearman_dA_vs_rank": NaN,
+      "p_B_vs_rank": 0.0037970096810933792,
+      "p_dA_vs_rank": NaN,
+      "spearman_B_vs_rank_Bpos_only": 0.0731289352100536,
+      "p_B_vs_rank_Bpos_only": 0.0037970096810933792
+    }
+  }
+}

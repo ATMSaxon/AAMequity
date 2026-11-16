@@ -1,0 +1,52 @@
+{
+  "metro": "dfw",
+  "constants": {
+    "DALY_per_HA_person_year": 0.012,
+    "HA_fraction_per_burden_unit": 0.1,
+    "DALY_per_person_per_min_saved": 1.3698630136986302e-06
+  },
+  "scenarios": {
+    "S1": {
+      "highly_annoyed_persons": 8776.407480675858,
+      "burden_daly_loss_per_year": 105.3168897681103,
+      "access_daly_gain_per_year": 39956.75197662176,
+      "net_daly_per_year": 39851.43508685365
+    },
+    "S2": {
+      "highly_annoyed_persons": 9520.903737700555,
+      "burden_daly_loss_per_year": 114.25084485240666,
+      "access_daly_gain_per_year": 2150.0526018313344,
+      "net_daly_per_year": 2035.8017569789276
+    },
+    "S3": {
+      "highly_annoyed_persons": 0.0,
+      "burden_daly_loss_per_year": 0.0,
+      "access_daly_gain_per_year": 0.0,
+      "net_daly_per_year": 0.0
+    },
+    "S4": {
+      "highly_annoyed_persons": 17789.29526705005,
+      "burden_daly_loss_per_year": 213.47154320460058,
+      "access_daly_gain_per_year": 1727.9035117863207,
+      "net_daly_per_year": 1514.4319685817202
+    },
+    "S5": {
+      "highly_annoyed_persons": 0.0,
+      "burden_daly_loss_per_year": 0.0,
+      "access_daly_gain_per_year": 0.0,
+      "net_daly_per_year": 0.0
+    },
+    "S6": {
+      "highly_annoyed_persons": 0.0,
+      "burden_daly_loss_per_year": 0.0,
+      "access_daly_gain_per_year": 0.0,
+      "net_daly_per_year": 0.0
+    },
+    "S7": {
+      "highly_annoyed_persons": 0.0,
+      "burden_daly_loss_per_year": 0.0,
+      "access_daly_gain_per_year": 0.0,
+      "net_daly_per_year": 0.0
+    }
+  }
+}

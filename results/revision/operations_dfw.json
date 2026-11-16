@@ -1,0 +1,195 @@
+{
+  "metro": "dfw",
+  "simulation": {
+    "seats": 4,
+    "pads": 2,
+    "max_hold_min": 10.0,
+    "turnaround_min_triangular": [
+      5.0,
+      7.0,
+      12.0
+    ],
+    "operating_hours": 16.0,
+    "days": 200,
+    "results": [
+      {
+        "demand_pax_per_hour": 5,
+        "mean_wait_min": 7.444698830364938,
+        "p90_wait_min": 10.0,
+        "flights_per_hour": 2.781875,
+        "load_factor": 0.45801505279712423,
+        "pad_utilisation": 0.1860880647953017,
+        "movements_per_day": 89.02,
+        "dnl_shift_db_vs_assumed_ops": 0.4639760295456009
+      },
+      {
+        "demand_pax_per_hour": 10,
+        "mean_wait_min": 5.928571688632184,
+        "p90_wait_min": 10.0,
+        "flights_per_hour": 3.9609375,
+        "load_factor": 0.632465483234714,
+        "pad_utilisation": 0.26414651995648475,
+        "movements_per_day": 126.75,
+        "dnl_shift_db_vs_assumed_ops": 1.9985798101343002
+      },
+      {
+        "demand_pax_per_hour": 20,
+        "mean_wait_min": 4.005152881887798,
+        "p90_wait_min": 10.0,
+        "flights_per_hour": 5.80125,
+        "load_factor": 0.8624622926093515,
+        "pad_utilisation": 0.3857736759102917,
+        "movements_per_day": 185.64,
+        "dnl_shift_db_vs_assumed_ops": 3.655815727550488
+      },
+      {
+        "demand_pax_per_hour": 30,
+        "mean_wait_min": 3.014935529239876,
+        "p90_wait_min": 7.457015188737036,
+        "flights_per_hour": 7.8696875,
+        "load_factor": 0.9532919032680777,
+        "pad_utilisation": 0.5246561361178604,
+        "movements_per_day": 251.83,
+        "dnl_shift_db_vs_assumed_ops": 4.98017478487513
+      },
+      {
+        "demand_pax_per_hour": 40,
+        "mean_wait_min": 2.721266194031021,
+        "p90_wait_min": 6.278930924399174,
+        "flights_per_hour": 10.1234375,
+        "load_factor": 0.9853758296033338,
+        "pad_utilisation": 0.6756583240394862,
+        "movements_per_day": 323.95,
+        "dnl_shift_db_vs_assumed_ops": 6.0738799728940185
+      },
+      {
+        "demand_pax_per_hour": 50,
+        "mean_wait_min": 3.8293030826227272,
+        "p90_wait_min": 8.215784594484594,
+        "flights_per_hour": 12.59875,
+        "load_factor": 0.9950391903958726,
+        "pad_utilisation": 0.8392372133549707,
+        "movements_per_day": 403.16,
+        "dnl_shift_db_vs_assumed_ops": 7.023874495382126
+      },
+      {
+        "demand_pax_per_hour": 60,
+        "mean_wait_min": 17.77219624077421,
+        "p90_wait_min": 38.64207119184908,
+        "flights_per_hour": 15.09,
+        "load_factor": 0.9981206510934394,
+        "pad_utilisation": 1.0049274729138726,
+        "movements_per_day": 482.88,
+        "dnl_shift_db_vs_assumed_ops": 7.8074923110355225
+      },
+      {
+        "demand_pax_per_hour": 70,
+        "mean_wait_min": 84.17237124552396,
+        "p90_wait_min": 156.64815396712495,
+        "flights_per_hour": 17.560625,
+        "load_factor": 0.9987142755454319,
+        "pad_utilisation": 1.171414607788899,
+        "movements_per_day": 561.94,
+        "dnl_shift_db_vs_assumed_ops": 8.465999601429681
+      }
+    ]
+  },
+  "accessibility_by_wait": [
+    {
+      "wait": "fixed_headway_assumption",
+      "wait_min": 1.25,
+      "fare_per_km": 0.0,
+      "mean_dA_pct_of_base": 2.2786528949187144,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": 0.07552485851666803
+    },
+    {
+      "wait": "fixed_headway_assumption",
+      "wait_min": 1.25,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 0.11294349085139305,
+      "share_tracts_dA_pos": 0.543450064850843,
+      "ci_dA_vs_income": 0.7232371841721588
+    },
+    {
+      "wait": "fixed_headway_assumption",
+      "wait_min": 1.25,
+      "fare_per_km": 0.2920444603515469,
+      "mean_dA_pct_of_base": 0.00012782626682414784,
+      "share_tracts_dA_pos": 0.020103761348897537,
+      "ci_dA_vs_income": 0.8868577574911825
+    },
+    {
+      "wait": "simulated_10_pax_per_hour",
+      "wait_min": 5.928571688632184,
+      "fare_per_km": 0.0,
+      "mean_dA_pct_of_base": 0.9456618128405286,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": 0.09018321020046803
+    },
+    {
+      "wait": "simulated_10_pax_per_hour",
+      "wait_min": 5.928571688632184,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 0.02067005778001697,
+      "share_tracts_dA_pos": 0.3203631647211414,
+      "ci_dA_vs_income": 0.7489004410241679
+    },
+    {
+      "wait": "simulated_10_pax_per_hour",
+      "wait_min": 5.928571688632184,
+      "fare_per_km": 0.2920444603515469,
+      "mean_dA_pct_of_base": 6.236392567002103e-08,
+      "share_tracts_dA_pos": 0.0006485084306095979,
+      "ci_dA_vs_income": 0.8018157635953832
+    },
+    {
+      "wait": "simulated_30_pax_per_hour",
+      "wait_min": 3.014935529239876,
+      "fare_per_km": 0.0,
+      "mean_dA_pct_of_base": 1.6722598778075364,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": 0.08189537961037079
+    },
+    {
+      "wait": "simulated_30_pax_per_hour",
+      "wait_min": 3.014935529239876,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 0.06124635967956241,
+      "share_tracts_dA_pos": 0.44487678339818415,
+      "ci_dA_vs_income": 0.7363961119520738
+    },
+    {
+      "wait": "simulated_30_pax_per_hour",
+      "wait_min": 3.014935529239876,
+      "fare_per_km": 0.2920444603515469,
+      "mean_dA_pct_of_base": 2.323576951366776e-05,
+      "share_tracts_dA_pos": 0.009079118028534372,
+      "ci_dA_vs_income": 0.8867524704678487
+    },
+    {
+      "wait": "simulated_60_pax_per_hour",
+      "wait_min": 17.77219624077421,
+      "fare_per_km": 0.0,
+      "mean_dA_pct_of_base": 0.049740392433119285,
+      "share_tracts_dA_pos": 0.8365758754863813,
+      "ci_dA_vs_income": 0.12494056655655081
+    },
+    {
+      "wait": "simulated_60_pax_per_hour",
+      "wait_min": 17.77219624077421,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 0.00010875289685207637,
+      "share_tracts_dA_pos": 0.04734111543450065,
+      "ci_dA_vs_income": 0.7737601016430306
+    },
+    {
+      "wait": "simulated_60_pax_per_hour",
+      "wait_min": 17.77219624077421,
+      "fare_per_km": 0.2920444603515469,
+      "mean_dA_pct_of_base": 0.0,
+      "share_tracts_dA_pos": 0.0,
+      "ci_dA_vs_income": 0.0
+    }
+  ]
+}

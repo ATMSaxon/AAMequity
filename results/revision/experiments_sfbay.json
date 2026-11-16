@@ -1,0 +1,654 @@
+{
+  "metro": "sfbay",
+  "n_tracts": 1761,
+  "n_tracts_with_holc": 444,
+  "holc_is_optimisation_input": false,
+  "tiers": {
+    "long_run": {
+      "fare_per_km": 0.2920444603515469,
+      "selected": [
+        5,
+        6,
+        9,
+        10,
+        12,
+        13,
+        16,
+        19,
+        22,
+        24,
+        25,
+        26,
+        29,
+        30,
+        32,
+        34,
+        35,
+        36,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48
+      ],
+      "mean_dA_pct_of_base": 0.03916342466624446,
+      "uncertainty": {
+        "ci_dA_vs_income": {
+          "estimate": 0.7492121415041716,
+          "low": 0.707765946960951,
+          "high": 0.7814133247087641
+        },
+        "ci_B_vs_income": {
+          "estimate": -0.29993630065479054,
+          "low": -0.36394729166746886,
+          "high": -0.2336848608583938
+        },
+        "rho_B_vs_holc": {
+          "estimate": 0.15309503630716387,
+          "low": 0.05560690626360457,
+          "high": 0.24502957420773408
+        },
+        "rho_dA_vs_holc": {
+          "estimate": -0.23249140459074003,
+          "low": -0.3184069374453638,
+          "high": -0.14647081294850953
+        }
+      },
+      "groups": {
+        "ci_dA_vs_minority_share": {
+          "estimate": -0.33209634158466345,
+          "low": -0.46006353785755943,
+          "high": -0.187682625911355
+        },
+        "ci_B_vs_minority_share": {
+          "estimate": 0.12659930543491094,
+          "low": 0.054708883869826405,
+          "high": 0.19320488627158366
+        },
+        "ci_dA_vs_zero_vehicle_share": {
+          "estimate": -0.07393713187284974,
+          "low": -0.18637878826162005,
+          "high": 0.041321784736197735
+        },
+        "ci_B_vs_zero_vehicle_share": {
+          "estimate": 0.5142612015706378,
+          "low": 0.45529401802220665,
+          "high": 0.5679130764806313
+        },
+        "edr_dA_minority_group": {
+          "majority_minority": 0.5653961652158884,
+          "majority_white": 1.6844372574443436
+        },
+        "edr_B_minority_group": {
+          "majority_minority": 1.1452073962607303,
+          "majority_white": 0.7713196614873455
+        },
+        "edr_dA_carless_group": {
+          "rest": 0.9770356813382981,
+          "high_carless": 1.0828198370935778
+        },
+        "edr_B_carless_group": {
+          "rest": 0.5066011297953489,
+          "high_carless": 2.7794220091821322
+        }
+      },
+      "redlining": {
+        "rho_B_vs_holc": 0.15309503630716387,
+        "rho_dnl_vs_holc": 0.15106747815622562,
+        "rho_B_vs_holc_given_candidate_density": 0.02424199009272203,
+        "rho_candidate_density_vs_holc": 0.21534634996355018,
+        "full_candidate_pool": {
+          "rho_B_vs_holc": 0.19939521016895445,
+          "rho_dnl_vs_holc": 0.19671932447836643
+        },
+        "random_networks": {
+          "n": 2000,
+          "rho_B_mean": 0.15534507508321446,
+          "rho_B_p2.5": -0.07289982441123963,
+          "rho_B_p97.5": 0.3167009951600698,
+          "share_random_rho_B_below_selected": 0.4415,
+          "rho_dnl_mean": 0.15608515536563608,
+          "rho_dnl_p2.5": -0.0731823058063332,
+          "rho_dnl_p97.5": 0.3209876919837594,
+          "share_random_rho_dnl_below_selected": 0.4315
+        },
+        "by_grade": {
+          "A": {
+            "n_tracts": 26,
+            "mean_B": 0.03609587810712566,
+            "dnl_of_mean_energy": 20.35393371503874,
+            "mean_dA": 2627.1929969029447
+          },
+          "B": {
+            "n_tracts": 76,
+            "mean_B": 0.0325574951348882,
+            "dnl_of_mean_energy": 20.541203271544223,
+            "mean_dA": 740.2523642726189
+          },
+          "C": {
+            "n_tracts": 178,
+            "mean_B": 0.0687682391297135,
+            "dnl_of_mean_energy": 23.410315428613046,
+            "mean_dA": 1170.2892129838722
+          },
+          "D": {
+            "n_tracts": 164,
+            "mean_B": 0.09846212598461754,
+            "dnl_of_mean_energy": 26.758013341243533,
+            "mean_dA": 309.8247679489741
+          }
+        }
+      },
+      "noise": {
+        "max_dnl": 42.82362061368226,
+        "population_at_or_above_dnl": {
+          "25": 655889.0,
+          "30": 319668.0,
+          "35": 115209.0,
+          "40": 20263.0,
+          "45": 0.0,
+          "50": 0.0
+        },
+        "population_total": 7685888.0,
+        "ci_dnl_energy_vs_income": -0.412544245534755
+      },
+      "network_size": [
+        {
+          "n_vertiports": 5,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.017284223339561616,
+          "share_tracts_dA_pos": 0.131175468483816,
+          "ci_dA_vs_income": 0.788801156159538,
+          "mean_B": 0.013932963556021789,
+          "ci_B_vs_income": -0.13237082363862496,
+          "population_dnl_ge_40": 6005.0,
+          "rho_B_vs_holc": 0.2562736750569655
+        },
+        {
+          "n_vertiports": 10,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.025065154960890637,
+          "share_tracts_dA_pos": 0.22032935831913686,
+          "ci_dA_vs_income": 0.7515176683916706,
+          "mean_B": 0.018222204031376574,
+          "ci_B_vs_income": -0.16379793939799545,
+          "population_dnl_ge_40": 11530.0,
+          "rho_B_vs_holc": 0.16359279792077228
+        },
+        {
+          "n_vertiports": 15,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.03302127877928607,
+          "share_tracts_dA_pos": 0.2986939239068711,
+          "ci_dA_vs_income": 0.7453776205350332,
+          "mean_B": 0.02920287035752698,
+          "ci_B_vs_income": -0.2363038050166783,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.20218611699879055
+        },
+        {
+          "n_vertiports": 20,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.036473956720468534,
+          "share_tracts_dA_pos": 0.3049403747870528,
+          "ci_dA_vs_income": 0.7497303471143115,
+          "mean_B": 0.0341431291192567,
+          "ci_B_vs_income": -0.2823185371896084,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.1429442380792923
+        },
+        {
+          "n_vertiports": 25,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.03916342466624446,
+          "share_tracts_dA_pos": 0.32367972742759793,
+          "ci_dA_vs_income": 0.7492121415041716,
+          "mean_B": 0.039441838841028275,
+          "ci_B_vs_income": -0.29993630065479054,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.15309503630716387
+        },
+        {
+          "n_vertiports": 30,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.03999458694618609,
+          "share_tracts_dA_pos": 0.3327654741624077,
+          "ci_dA_vs_income": 0.7488423254345391,
+          "mean_B": 0.04596835724030393,
+          "ci_B_vs_income": -0.33821187750909737,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.1937401746658728
+        },
+        {
+          "n_vertiports": 35,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.04051252151078505,
+          "share_tracts_dA_pos": 0.3486655309483248,
+          "ci_dA_vs_income": 0.7482884523708113,
+          "mean_B": 0.05072942058563756,
+          "ci_B_vs_income": -0.3689021815815518,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.15517316283698368
+        },
+        {
+          "n_vertiports": 40,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.04079269985772788,
+          "share_tracts_dA_pos": 0.3583191368540602,
+          "ci_dA_vs_income": 0.7483238351319698,
+          "mean_B": 0.055196508949591515,
+          "ci_B_vs_income": -0.37838110307482425,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.15481684576266755
+        },
+        {
+          "n_vertiports": 45,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.04090451035764939,
+          "share_tracts_dA_pos": 0.3583191368540602,
+          "ci_dA_vs_income": 0.7485918328791343,
+          "mean_B": 0.060357160927507245,
+          "ci_B_vs_income": -0.38502311728518407,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.17765299952062152
+        }
+      ]
+    },
+    "public_service": {
+      "fare_per_km": 0.1,
+      "selected": [
+        3,
+        5,
+        6,
+        10,
+        12,
+        13,
+        16,
+        17,
+        20,
+        22,
+        23,
+        25,
+        26,
+        29,
+        32,
+        34,
+        36,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "mean_dA_pct_of_base": 1.3584657338405504,
+      "uncertainty": {
+        "ci_dA_vs_income": {
+          "estimate": 0.23284196475981114,
+          "low": 0.2051420927412376,
+          "high": 0.26210833237286446
+        },
+        "ci_B_vs_income": {
+          "estimate": -0.2818008109044259,
+          "low": -0.345365848711114,
+          "high": -0.2113816984159137
+        },
+        "rho_B_vs_holc": {
+          "estimate": 0.20760117192926061,
+          "low": 0.11905594630248108,
+          "high": 0.29862109483605664
+        },
+        "rho_dA_vs_holc": {
+          "estimate": -0.19474225205800566,
+          "low": -0.2725571925069476,
+          "high": -0.10769930730556831
+        }
+      },
+      "groups": {
+        "ci_dA_vs_minority_share": {
+          "estimate": -0.12304483235167436,
+          "low": -0.15841953885002102,
+          "high": -0.08369860866914774
+        },
+        "ci_B_vs_minority_share": {
+          "estimate": 0.08534124798798567,
+          "low": 0.016501556490783744,
+          "high": 0.15086181923114406
+        },
+        "ci_dA_vs_zero_vehicle_share": {
+          "estimate": -0.12107792034498699,
+          "low": -0.15265582015011248,
+          "high": -0.08742951262098488
+        },
+        "ci_B_vs_zero_vehicle_share": {
+          "estimate": 0.5301974810902632,
+          "low": 0.46608191069040833,
+          "high": 0.5892026115853132
+        },
+        "edr_dA_minority_group": {
+          "majority_minority": 0.8436136329086488,
+          "majority_white": 1.2462855769481618
+        },
+        "edr_B_minority_group": {
+          "majority_minority": 1.1045195515411055,
+          "majority_white": 0.8353970455837265
+        },
+        "edr_dA_carless_group": {
+          "rest": 1.0655657460053232,
+          "high_carless": 0.7635399297896125
+        },
+        "edr_B_carless_group": {
+          "rest": 0.4970680552763892,
+          "high_carless": 2.8138026363756516
+        }
+      },
+      "redlining": {
+        "rho_B_vs_holc": 0.20760117192926061,
+        "rho_dnl_vs_holc": 0.21137640833067955,
+        "rho_B_vs_holc_given_candidate_density": 0.08749649627657745,
+        "rho_candidate_density_vs_holc": 0.21534634996355018,
+        "full_candidate_pool": {
+          "rho_B_vs_holc": 0.19939521016895445,
+          "rho_dnl_vs_holc": 0.19671932447836643
+        },
+        "random_networks": {
+          "n": 2000,
+          "rho_B_mean": 0.15663476034916007,
+          "rho_B_p2.5": -0.0667853839551015,
+          "rho_B_p97.5": 0.3140384238605689,
+          "share_random_rho_B_below_selected": 0.6915,
+          "rho_dnl_mean": 0.15725329938678834,
+          "rho_dnl_p2.5": -0.06688165752556045,
+          "rho_dnl_p97.5": 0.316613618555115,
+          "share_random_rho_dnl_below_selected": 0.699
+        },
+        "by_grade": {
+          "A": {
+            "n_tracts": 26,
+            "mean_B": 0.03697628342860924,
+            "dnl_of_mean_energy": 20.372201775405586,
+            "mean_dA": 28720.82800176379
+          },
+          "B": {
+            "n_tracts": 76,
+            "mean_B": 0.02796800730459244,
+            "dnl_of_mean_energy": 19.68225426948306,
+            "mean_dA": 27941.886959807383
+          },
+          "C": {
+            "n_tracts": 178,
+            "mean_B": 0.055968568843733385,
+            "dnl_of_mean_energy": 22.521238308568982,
+            "mean_dA": 19797.8354018398
+          },
+          "D": {
+            "n_tracts": 164,
+            "mean_B": 0.08818780228283431,
+            "dnl_of_mean_energy": 25.67486163109763,
+            "mean_dA": 13619.717647883823
+          }
+        }
+      },
+      "noise": {
+        "max_dnl": 42.82362061357864,
+        "population_at_or_above_dnl": {
+          "25": 627542.0,
+          "30": 309347.0,
+          "35": 112622.0,
+          "40": 20263.0,
+          "45": 0.0,
+          "50": 0.0
+        },
+        "population_total": 7685888.0,
+        "ci_dnl_energy_vs_income": -0.397065902325735
+      },
+      "network_size": [
+        {
+          "n_vertiports": 5,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.39390720161678294,
+          "share_tracts_dA_pos": 0.6138557637705849,
+          "ci_dA_vs_income": 0.283459947696983,
+          "mean_B": 0.013966454443981653,
+          "ci_B_vs_income": -0.15529799204601757,
+          "population_dnl_ge_40": 6005.0,
+          "rho_B_vs_holc": 0.25630612066422487
+        },
+        {
+          "n_vertiports": 10,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.6670817718816344,
+          "share_tracts_dA_pos": 0.8319136854060193,
+          "ci_dA_vs_income": 0.2728728866786939,
+          "mean_B": 0.02426610092529728,
+          "ci_B_vs_income": -0.21987979236899644,
+          "population_dnl_ge_40": 15288.0,
+          "rho_B_vs_holc": 0.22044349404581368
+        },
+        {
+          "n_vertiports": 15,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 0.9452916092402629,
+          "share_tracts_dA_pos": 0.8540601930721181,
+          "ci_dA_vs_income": 0.22595803508137544,
+          "mean_B": 0.030482903954804203,
+          "ci_B_vs_income": -0.24949450431597847,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.22707832842757264
+        },
+        {
+          "n_vertiports": 20,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 1.177221111009854,
+          "share_tracts_dA_pos": 0.9318568994889267,
+          "ci_dA_vs_income": 0.24072101704913665,
+          "mean_B": 0.03276428839405995,
+          "ci_B_vs_income": -0.2559605995383826,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.13587562638967024
+        },
+        {
+          "n_vertiports": 25,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 1.3584657338405504,
+          "share_tracts_dA_pos": 0.9517319704713231,
+          "ci_dA_vs_income": 0.23284196475981114,
+          "mean_B": 0.03799163275387565,
+          "ci_B_vs_income": -0.2818008109044259,
+          "population_dnl_ge_40": 20263.0,
+          "rho_B_vs_holc": 0.20760117192926061
+        },
+        {
+          "n_vertiports": 30,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 1.4251368809662988,
+          "share_tracts_dA_pos": 0.9642248722316865,
+          "ci_dA_vs_income": 0.23087845853117822,
+          "mean_B": 0.04771082184952072,
+          "ci_B_vs_income": -0.32822434824812224,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.16196920219535077
+        },
+        {
+          "n_vertiports": 35,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 1.5117790894679255,
+          "share_tracts_dA_pos": 0.9750141964792731,
+          "ci_dA_vs_income": 0.2239455920848306,
+          "mean_B": 0.05070514293785039,
+          "ci_B_vs_income": -0.33980202730867226,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.16803185390855044
+        },
+        {
+          "n_vertiports": 40,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 1.5271986071698596,
+          "share_tracts_dA_pos": 0.9750141964792731,
+          "ci_dA_vs_income": 0.22172727614883025,
+          "mean_B": 0.056574825723105994,
+          "ci_B_vs_income": -0.358127116912221,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.16357555205745425
+        },
+        {
+          "n_vertiports": 45,
+          "status": "Optimal",
+          "mean_dA_pct_of_base": 1.535066589321658,
+          "share_tracts_dA_pos": 0.9784213515048268,
+          "ci_dA_vs_income": 0.22015945215427918,
+          "mean_B": 0.06010859101592533,
+          "ci_B_vs_income": -0.38496457257237093,
+          "population_dnl_ge_40": 23785.0,
+          "rho_B_vs_holc": 0.17584437614299156
+        }
+      ]
+    }
+  },
+  "value_of_time_sensitivity": [
+    {
+      "vot_income_share": 0.35,
+      "fare_per_km": 0.05,
+      "mean_dA_pct_of_base": 2.544193245576266,
+      "share_tracts_dA_pos": 0.9988642816581488,
+      "ci_dA_vs_income": 0.09625772467878477
+    },
+    {
+      "vot_income_share": 0.35,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 0.6952906499210342,
+      "share_tracts_dA_pos": 0.8784781374219194,
+      "ci_dA_vs_income": 0.3985124753011987
+    },
+    {
+      "vot_income_share": 0.35,
+      "fare_per_km": 0.29,
+      "mean_dA_pct_of_base": 0.0037930015690424983,
+      "share_tracts_dA_pos": 0.1249290176036343,
+      "ci_dA_vs_income": 0.7761823785344666
+    },
+    {
+      "vot_income_share": 0.35,
+      "fare_per_km": 0.61,
+      "mean_dA_pct_of_base": 0.000286763772490576,
+      "share_tracts_dA_pos": 0.02498580352072686,
+      "ci_dA_vs_income": 0.06630581729979597
+    },
+    {
+      "vot_income_share": 0.35,
+      "fare_per_km": 1.85,
+      "mean_dA_pct_of_base": 0.00021811991048924172,
+      "share_tracts_dA_pos": 0.018739352640545145,
+      "ci_dA_vs_income": -0.1199855834911567
+    },
+    {
+      "vot_income_share": 0.5,
+      "fare_per_km": 0.05,
+      "mean_dA_pct_of_base": 3.6257969196306044,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": 0.009692572587631999
+    },
+    {
+      "vot_income_share": 0.5,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 1.5370188295837468,
+      "share_tracts_dA_pos": 0.979557069846678,
+      "ci_dA_vs_income": 0.2200195851317462
+    },
+    {
+      "vot_income_share": 0.5,
+      "fare_per_km": 0.29,
+      "mean_dA_pct_of_base": 0.04262675808036035,
+      "share_tracts_dA_pos": 0.37081203861442363,
+      "ci_dA_vs_income": 0.7459822195891117
+    },
+    {
+      "vot_income_share": 0.5,
+      "fare_per_km": 0.61,
+      "mean_dA_pct_of_base": 0.0003499507159348302,
+      "share_tracts_dA_pos": 0.031232254400908575,
+      "ci_dA_vs_income": 0.15826865501500864
+    },
+    {
+      "vot_income_share": 0.5,
+      "fare_per_km": 1.85,
+      "mean_dA_pct_of_base": 0.00022623751908078244,
+      "share_tracts_dA_pos": 0.019307211811470756,
+      "ci_dA_vs_income": -0.08390015050364978
+    },
+    {
+      "vot_income_share": 0.6,
+      "fare_per_km": 0.05,
+      "mean_dA_pct_of_base": 4.1264211913784825,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": -0.020366393770877175
+    },
+    {
+      "vot_income_share": 0.6,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 2.068316966355648,
+      "share_tracts_dA_pos": 0.9965928449744463,
+      "ci_dA_vs_income": 0.14801998295170685
+    },
+    {
+      "vot_income_share": 0.6,
+      "fare_per_km": 0.29,
+      "mean_dA_pct_of_base": 0.10799838134800738,
+      "share_tracts_dA_pos": 0.5292447473026689,
+      "ci_dA_vs_income": 0.6728987436665462
+    },
+    {
+      "vot_income_share": 0.6,
+      "fare_per_km": 0.61,
+      "mean_dA_pct_of_base": 0.0007294077387221284,
+      "share_tracts_dA_pos": 0.06132879045996593,
+      "ci_dA_vs_income": 0.5211781031793128
+    },
+    {
+      "vot_income_share": 0.6,
+      "fare_per_km": 1.85,
+      "mean_dA_pct_of_base": 0.00023472768122681184,
+      "share_tracts_dA_pos": 0.020442930153321975,
+      "ci_dA_vs_income": -0.04983412462012873
+    },
+    {
+      "vot_income_share": 1.0,
+      "fare_per_km": 0.05,
+      "mean_dA_pct_of_base": 5.25521339439694,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": -0.07275438996279478
+    },
+    {
+      "vot_income_share": 1.0,
+      "fare_per_km": 0.1,
+      "mean_dA_pct_of_base": 3.6257969196306044,
+      "share_tracts_dA_pos": 1.0,
+      "ci_dA_vs_income": 0.009692572587631999
+    },
+    {
+      "vot_income_share": 1.0,
+      "fare_per_km": 0.29,
+      "mean_dA_pct_of_base": 0.6679751510526579,
+      "share_tracts_dA_pos": 0.8750709823963657,
+      "ci_dA_vs_income": 0.40661897210368114
+    },
+    {
+      "vot_income_share": 1.0,
+      "fare_per_km": 0.61,
+      "mean_dA_pct_of_base": 0.031794360586211545,
+      "share_tracts_dA_pos": 0.33957978421351503,
+      "ci_dA_vs_income": 0.7628291319693313
+    },
+    {
+      "vot_income_share": 1.0,
+      "fare_per_km": 1.85,
+      "mean_dA_pct_of_base": 0.0002786659110319649,
+      "share_tracts_dA_pos": 0.02441794434980125,
+      "ci_dA_vs_income": 0.05485726231451739
+    }
+  ]
+}

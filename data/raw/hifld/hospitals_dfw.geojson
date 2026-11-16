@@ -1,0 +1,3082 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1230555,
+     32.834508
+    ]
+   },
+   "properties": {
+    "osm_id": 356814953,
+    "osm_type": "node",
+    "name": "Harris Methodist Springwood Hospital",
+    "operator": "Texas Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7691985,
+     33.021349
+    ]
+   },
+   "properties": {
+    "osm_id": 356844348,
+    "osm_type": "node",
+    "name": "Plano Specialty Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4523518,
+     32.7427207
+    ]
+   },
+   "properties": {
+    "osm_id": 1689923978,
+    "osm_type": "node",
+    "name": "Forney Medical Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8390046,
+     33.1509841
+    ]
+   },
+   "properties": {
+    "osm_id": 3597338224,
+    "osm_type": "node",
+    "name": "Medical City Frisco A Medical Center Of Plano Facility",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8378454,
+     33.1506258
+    ]
+   },
+   "properties": {
+    "osm_id": 3597338227,
+    "osm_type": "node",
+    "name": "Haven Behavioral Hospital Of Frisco",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7800903,
+     32.790245
+    ]
+   },
+   "properties": {
+    "osm_id": 5477969014,
+    "osm_type": "node",
+    "name": "Select Specialty Hospital - Dallas Downtown",
+    "operator": "Select Specialty Hospital",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7899585,
+     33.0147813
+    ]
+   },
+   "properties": {
+    "osm_id": 5703281373,
+    "osm_type": "node",
+    "name": "Baylor Scott & White The Heart Hospital - Plano",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7712045,
+     32.8749243
+    ]
+   },
+   "properties": {
+    "osm_id": 5704846598,
+    "osm_type": "node",
+    "name": "North Central Surgical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1164531,
+     32.7487164
+    ]
+   },
+   "properties": {
+    "osm_id": 5708269480,
+    "osm_type": "node",
+    "name": "Texas Health Heart & Vascular Hospital Arlington",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7938154,
+     33.0413529
+    ]
+   },
+   "properties": {
+    "osm_id": 6801636969,
+    "osm_type": "node",
+    "name": "YAKER Hair Restoration + Med Spa",
+    "operator": "Joseph R.Yaker, MD",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.070895,
+     33.0399719
+    ]
+   },
+   "properties": {
+    "osm_id": 8057284183,
+    "osm_type": "node",
+    "name": "Uber/Lyft Pickup",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7738864,
+     33.0567737
+    ]
+   },
+   "properties": {
+    "osm_id": 9710971199,
+    "osm_type": "node",
+    "name": "Epic Strides",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1797587,
+     32.5809117
+    ]
+   },
+   "properties": {
+    "osm_id": 10156267621,
+    "osm_type": "node",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7074413,
+     33.1427336
+    ]
+   },
+   "properties": {
+    "osm_id": 10916167600,
+    "osm_type": "node",
+    "name": "Victory Medical Center Craig Ranch",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8834977,
+     32.6447004
+    ]
+   },
+   "properties": {
+    "osm_id": 10916930197,
+    "osm_type": "node",
+    "name": "Vibra Specialty Hospital of Desoto",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8016974,
+     33.0708126
+    ]
+   },
+   "properties": {
+    "osm_id": 10916970556,
+    "osm_type": "node",
+    "name": "Eating Recovery Center Dallas / Plano",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4128976,
+     32.6398134
+    ]
+   },
+   "properties": {
+    "osm_id": 10916973443,
+    "osm_type": "node",
+    "name": "Mesa Springs",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7665543,
+     32.8884379
+    ]
+   },
+   "properties": {
+    "osm_id": 10916979299,
+    "osm_type": "node",
+    "name": "First Baptist Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7718686,
+     33.0013974
+    ]
+   },
+   "properties": {
+    "osm_id": 10916989845,
+    "osm_type": "node",
+    "name": "Legent Hospital For Special Surgery",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8540749,
+     33.0316346
+    ]
+   },
+   "properties": {
+    "osm_id": 10917000060,
+    "osm_type": "node",
+    "name": "Texas Surgical Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1402637,
+     32.5905674
+    ]
+   },
+   "properties": {
+    "osm_id": 10917011336,
+    "osm_type": "node",
+    "name": "Trusted Medical Centers Mansfield",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9820021,
+     32.4689565
+    ]
+   },
+   "properties": {
+    "osm_id": 10917037807,
+    "osm_type": "node",
+    "name": "Methodist Midlothian Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7549376,
+     32.9979828
+    ]
+   },
+   "properties": {
+    "osm_id": 10917040211,
+    "osm_type": "node",
+    "name": "Encompass Health Rehabilitation Hospital Of Richardson",
+    "operator": "Encompass Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6243528,
+     33.0122339
+    ]
+   },
+   "properties": {
+    "osm_id": 10917052252,
+    "osm_type": "node",
+    "name": "Baylor Scott And White Emergency Hospital Murphy",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7525799,
+     32.8621865
+    ]
+   },
+   "properties": {
+    "osm_id": 11793344262,
+    "osm_type": "node",
+    "name": "Baylor Scott & White Outpatient Rehabilitation",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4678499,
+     32.6790736
+    ]
+   },
+   "properties": {
+    "osm_id": 11905438182,
+    "osm_type": "node",
+    "name": "Texas Health Adult Care",
+    "operator": "Texas Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0695359,
+     33.0289771
+    ]
+   },
+   "properties": {
+    "osm_id": 12179638243,
+    "osm_type": "node",
+    "name": "Bricolage Behavioral Health",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1814604,
+     33.0930832
+    ]
+   },
+   "properties": {
+    "osm_id": 12402105853,
+    "osm_type": "node",
+    "name": "Roots Adolescent Renewal Ranch",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.5453033,
+     33.0078989
+    ]
+   },
+   "properties": {
+    "osm_id": 12957907298,
+    "osm_type": "node",
+    "name": "Texas Health Breeze Urgent Care",
+    "operator": "Texas Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.114063,
+     32.7506923
+    ]
+   },
+   "properties": {
+    "osm_id": 13156149501,
+    "osm_type": "node",
+    "name": "Kindred Hospital Tarrant County",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7710689,
+     32.9788881
+    ]
+   },
+   "properties": {
+    "osm_id": 13191762946,
+    "osm_type": "node",
+    "name": "Texas Health Family Care",
+    "operator": "Texas Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4504787,
+     32.7443556
+    ]
+   },
+   "properties": {
+    "osm_id": 13251475177,
+    "osm_type": "node",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.2265574,
+     33.0048589
+    ]
+   },
+   "properties": {
+    "osm_id": 13253411068,
+    "osm_type": "node",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7858893,
+     33.2424456
+    ]
+   },
+   "properties": {
+    "osm_id": 13279245885,
+    "osm_type": "node",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8121376,
+     33.2097611
+    ]
+   },
+   "properties": {
+    "osm_id": 13307514523,
+    "osm_type": "node",
+    "name": "Baylor Scott & White Medical Center",
+    "operator": "Baylor Scott & White Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8733778,
+     32.7638897
+    ]
+   },
+   "properties": {
+    "osm_id": 13740257202,
+    "osm_type": "node",
+    "name": "Metrocare hillside adult mental health clinic and primary care",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8375444,
+     32.8094769
+    ]
+   },
+   "properties": {
+    "osm_id": 28542840,
+    "osm_type": "way",
+    "name": "Children's Medical Center of Dallas",
+    "operator": "Children's Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7734557,
+     32.9114905
+    ]
+   },
+   "properties": {
+    "osm_id": 127629512,
+    "osm_type": "way",
+    "name": "Medical City Dallas",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4209301,
+     32.6788191
+    ]
+   },
+   "properties": {
+    "osm_id": 152379826,
+    "osm_type": "way",
+    "name": "Lifecare Hospitals of Fort Worth",
+    "operator": "LifeCare Health Partners",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4207105,
+     32.6577483
+    ]
+   },
+   "properties": {
+    "osm_id": 152383323,
+    "osm_type": "way",
+    "name": "Harris Methodist Southwest Hospital",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4128034,
+     32.6620086
+    ]
+   },
+   "properties": {
+    "osm_id": 152384302,
+    "osm_type": "way",
+    "name": "Encompass Health Rehabilitation Hosptial of City View",
+    "operator": "Encompass Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7950223,
+     32.8043273
+    ]
+   },
+   "properties": {
+    "osm_id": 221394564,
+    "osm_type": "way",
+    "name": "Baylor Medical Center at Uptown",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3388702,
+     32.7359701
+    ]
+   },
+   "properties": {
+    "osm_id": 286024686,
+    "osm_type": "way",
+    "name": "Texas Health Harris Methodist Hospital",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9610244,
+     32.8349982
+    ]
+   },
+   "properties": {
+    "osm_id": 291275007,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 Irving",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4183749,
+     32.6466068
+    ]
+   },
+   "properties": {
+    "osm_id": 334115413,
+    "osm_type": "way",
+    "name": "Texas Health",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8855268,
+     33.028195
+    ]
+   },
+   "properties": {
+    "osm_id": 335658221,
+    "osm_type": "way",
+    "name": "Carrollton Regional Medical Center",
+    "operator": "CRMC",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3461258,
+     32.7297941
+    ]
+   },
+   "properties": {
+    "osm_id": 345405988,
+    "osm_type": "way",
+    "name": "Baylor Scott & White All Saints Medical Center \u2013 Fort Worth",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6735894,
+     33.1154359
+    ]
+   },
+   "properties": {
+    "osm_id": 374960117,
+    "osm_type": "way",
+    "name": "Texas Health Allen",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8362655,
+     33.0425753
+    ]
+   },
+   "properties": {
+    "osm_id": 422842310,
+    "osm_type": "way",
+    "name": "Texas Health Presbyterian Hospital Plano",
+    "operator": "Texas Health Resources",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.096285,
+     33.1662862
+    ]
+   },
+   "properties": {
+    "osm_id": 423967375,
+    "osm_type": "way",
+    "name": "Denton State Supported Living Center",
+    "operator": "Texas Department of Aging and Disability Services",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8702649,
+     32.9149892
+    ]
+   },
+   "properties": {
+    "osm_id": 429031918,
+    "osm_type": "way",
+    "name": "Dallas Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7704825,
+     33.1134998
+    ]
+   },
+   "properties": {
+    "osm_id": 448675797,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 Centennial",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7891774,
+     32.6947267
+    ]
+   },
+   "properties": {
+    "osm_id": 449158450,
+    "osm_type": "way",
+    "name": "Dallas VA Medical Center",
+    "operator": "United States Department of Veterans Affairs",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8763718,
+     32.6454928
+    ]
+   },
+   "properties": {
+    "osm_id": 452935990,
+    "osm_type": "way",
+    "name": "Methodist Charlton Medical Center",
+    "operator": "Methodist Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7669628,
+     32.9135592
+    ]
+   },
+   "properties": {
+    "osm_id": 460754385,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7805086,
+     32.7917069
+    ]
+   },
+   "properties": {
+    "osm_id": 463996234,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Institute for Rehabilitation",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7055247,
+     32.8345038
+    ]
+   },
+   "properties": {
+    "osm_id": 466475400,
+    "osm_type": "way",
+    "name": "City Hospital at White Rock",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7674727,
+     32.8870137
+    ]
+   },
+   "properties": {
+    "osm_id": 468140047,
+    "osm_type": "way",
+    "name": "Kindred Hospital Dallas Central",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7705259,
+     32.9009997
+    ]
+   },
+   "properties": {
+    "osm_id": 468140220,
+    "osm_type": "way",
+    "name": "Encompass Health Rehabilitation Hospital of Dallas",
+    "operator": "Encompass Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6387445,
+     33.1596242
+    ]
+   },
+   "properties": {
+    "osm_id": 489609879,
+    "osm_type": "way",
+    "name": "Medical City McKinney",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8576907,
+     32.4278343
+    ]
+   },
+   "properties": {
+    "osm_id": 506155449,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 Waxahachie",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7739376,
+     32.9173838
+    ]
+   },
+   "properties": {
+    "osm_id": 525728178,
+    "osm_type": "way",
+    "name": "The T. Boone Pickens Center for Hospice and Palliative Care",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0944777,
+     32.5684074
+    ]
+   },
+   "properties": {
+    "osm_id": 537009056,
+    "osm_type": "way",
+    "name": "Methodist Mansfield Medical Center",
+    "operator": "Methodist Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0873218,
+     33.1766195
+    ]
+   },
+   "properties": {
+    "osm_id": 542160110,
+    "osm_type": "way",
+    "name": "The Heart Hospital Baylor Denton",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.086855,
+     33.1759195
+    ]
+   },
+   "properties": {
+    "osm_id": 542160111,
+    "osm_type": "way",
+    "name": "Mayhill Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0869608,
+     33.1743292
+    ]
+   },
+   "properties": {
+    "osm_id": 542160115,
+    "osm_type": "way",
+    "name": "Atrium Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6751787,
+     33.1160275
+    ]
+   },
+   "properties": {
+    "osm_id": 545939690,
+    "osm_type": "way",
+    "name": "Spine Team Texas",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7614764,
+     32.8796934
+    ]
+   },
+   "properties": {
+    "osm_id": 547734061,
+    "osm_type": "way",
+    "name": "Texas Health Presbyterian Hospital Dallas",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.778612,
+     32.7900273
+    ]
+   },
+   "properties": {
+    "osm_id": 548448654,
+    "osm_type": "way",
+    "name": "Baylor University Medical Center",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8747384,
+     32.5892281
+    ]
+   },
+   "properties": {
+    "osm_id": 548608647,
+    "osm_type": "way",
+    "name": "City Hospital Emergency Cate Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.327826,
+     32.7270663
+    ]
+   },
+   "properties": {
+    "osm_id": 549348878,
+    "osm_type": "way",
+    "name": "John Peter Smith Hospital",
+    "operator": "JPS Health Network",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6821176,
+     33.220563
+    ]
+   },
+   "properties": {
+    "osm_id": 549573747,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 McKinney",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.957036,
+     32.9022415
+    ]
+   },
+   "properties": {
+    "osm_id": 562549265,
+    "osm_type": "way",
+    "name": "Medical City Las Colinas",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6413359,
+     32.3066513
+    ]
+   },
+   "properties": {
+    "osm_id": 564112921,
+    "osm_type": "way",
+    "name": "Ennis Regional Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.7854048,
+     32.7483807
+    ]
+   },
+   "properties": {
+    "osm_id": 564150360,
+    "osm_type": "way",
+    "name": "Medical City Weatherford",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5973865,
+     33.217393
+    ]
+   },
+   "properties": {
+    "osm_id": 565036917,
+    "osm_type": "way",
+    "name": "Wise Health System",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5939399,
+     33.2171506
+    ]
+   },
+   "properties": {
+    "osm_id": 565036957,
+    "osm_type": "way",
+    "name": "Wise Health System",
+    "operator": "Wise Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.5330082,
+     32.8802235
+    ]
+   },
+   "properties": {
+    "osm_id": 565051448,
+    "osm_type": "way",
+    "name": "Texas Health Harris Methodist Hospital Azle",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.7468157,
+     32.2421857
+    ]
+   },
+   "properties": {
+    "osm_id": 565154521,
+    "osm_type": "way",
+    "name": "Glen Rose Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4386631,
+     32.3321179
+    ]
+   },
+   "properties": {
+    "osm_id": 568821383,
+    "osm_type": "way",
+    "name": "Texas Health Harris Methodist Hospital Cleburne",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.3181258,
+     32.5920664
+    ]
+   },
+   "properties": {
+    "osm_id": 569026265,
+    "osm_type": "way",
+    "name": "Texas Health Presbyterian Hospital Kaufman",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1654784,
+     33.2172908
+    ]
+   },
+   "properties": {
+    "osm_id": 569148204,
+    "osm_type": "way",
+    "name": "Texas Health Presbyterian Hospital Denton",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0911249,
+     33.1767504
+    ]
+   },
+   "properties": {
+    "osm_id": 569148795,
+    "osm_type": "way",
+    "name": "Medical City Denton",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0671057,
+     33.045283
+    ]
+   },
+   "properties": {
+    "osm_id": 569156743,
+    "osm_type": "way",
+    "name": "Texas Health Presbyterian Hospital Flower Mound",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0050154,
+     33.0444589
+    ]
+   },
+   "properties": {
+    "osm_id": 569157213,
+    "osm_type": "way",
+    "name": "Medical City Lewisville",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0943007,
+     32.9339224
+    ]
+   },
+   "properties": {
+    "osm_id": 569159339,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 Grapevine",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1243229,
+     32.8348717
+    ]
+   },
+   "properties": {
+    "osm_id": 569161153,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.2139192,
+     32.8277937
+    ]
+   },
+   "properties": {
+    "osm_id": 569162415,
+    "osm_type": "way",
+    "name": "Medical City North Hills",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1854435,
+     32.8635328
+    ]
+   },
+   "properties": {
+    "osm_id": 569164317,
+    "osm_type": "way",
+    "name": "Cook Children's Northeast",
+    "operator": "Cook Children's Health Care System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3099852,
+     32.9312952
+    ]
+   },
+   "properties": {
+    "osm_id": 569338553,
+    "osm_type": "way",
+    "name": "Texas Health Harris Methodist Hospital Alliance",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4242258,
+     32.6659935
+    ]
+   },
+   "properties": {
+    "osm_id": 569394192,
+    "osm_type": "way",
+    "name": "Kindred Hospital - Tarrant County",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3451476,
+     32.7352568
+    ]
+   },
+   "properties": {
+    "osm_id": 569458572,
+    "osm_type": "way",
+    "name": "Medical City Fort Worth",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3417519,
+     32.7365644
+    ]
+   },
+   "properties": {
+    "osm_id": 569458598,
+    "osm_type": "way",
+    "name": "Cook Children's Medical Center",
+    "operator": "Cook Children's Health Care System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3468924,
+     32.7269784
+    ]
+   },
+   "properties": {
+    "osm_id": 569467090,
+    "osm_type": "way",
+    "name": "Baylor Surgical Hospital at Fort Worth",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1157713,
+     32.7485594
+    ]
+   },
+   "properties": {
+    "osm_id": 569473324,
+    "osm_type": "way",
+    "name": "Texas Health Arlington Memorial Hospital",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1124989,
+     32.7509058
+    ]
+   },
+   "properties": {
+    "osm_id": 569473330,
+    "osm_type": "way",
+    "name": "Millwood Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0493846,
+     32.732828
+    ]
+   },
+   "properties": {
+    "osm_id": 569475359,
+    "osm_type": "way",
+    "name": "Texas General Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1180188,
+     32.6797715
+    ]
+   },
+   "properties": {
+    "osm_id": 569483569,
+    "osm_type": "way",
+    "name": "USMD Hospital at Arlington",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1129397,
+     32.6924339
+    ]
+   },
+   "properties": {
+    "osm_id": 569483595,
+    "osm_type": "way",
+    "name": "Medical City Arlington",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8710265,
+     32.646535
+    ]
+   },
+   "properties": {
+    "osm_id": 569496712,
+    "osm_type": "way",
+    "name": "Methodist Rehabilitation Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8251192,
+     32.7613266
+    ]
+   },
+   "properties": {
+    "osm_id": 569499049,
+    "osm_type": "way",
+    "name": "Methodist Dallas Medical Center",
+    "operator": "Methodist Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9518961,
+     32.9117801
+    ]
+   },
+   "properties": {
+    "osm_id": 569609081,
+    "osm_type": "way",
+    "name": "Baylor Surgical Hospital at Las Colinas",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8697373,
+     32.8260914
+    ]
+   },
+   "properties": {
+    "osm_id": 569655463,
+    "osm_type": "way",
+    "name": "Our Children's House",
+    "operator": "Children's Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7667225,
+     33.0217847
+    ]
+   },
+   "properties": {
+    "osm_id": 569682921,
+    "osm_type": "way",
+    "name": "Medical City Plano",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7268542,
+     32.9741577
+    ]
+   },
+   "properties": {
+    "osm_id": 569687114,
+    "osm_type": "way",
+    "name": "Methodist Campus for Continuing Care",
+    "operator": "Methodist Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7916687,
+     33.0141943
+    ]
+   },
+   "properties": {
+    "osm_id": 569688424,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center - Plano",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6672742,
+     32.9957675
+    ]
+   },
+   "properties": {
+    "osm_id": 569709191,
+    "osm_type": "way",
+    "name": "Methodist Richardson Medical Center",
+    "operator": "Methodist Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.5079993,
+     32.9176156
+    ]
+   },
+   "properties": {
+    "osm_id": 569714245,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 Lake Pointe",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6011618,
+     32.7785285
+    ]
+   },
+   "properties": {
+    "osm_id": 569716705,
+    "osm_type": "way",
+    "name": "Dallas Regional Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6696855,
+     32.9136572
+    ]
+   },
+   "properties": {
+    "osm_id": 569724400,
+    "osm_type": "way",
+    "name": "Sundance Behavioral Hospital",
+    "operator": "Sundance Behavioral Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7717218,
+     32.9128378
+    ]
+   },
+   "properties": {
+    "osm_id": 569738421,
+    "osm_type": "way",
+    "name": "Medical City Green Oaks Hospital",
+    "operator": "HCA",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8145813,
+     32.8021131
+    ]
+   },
+   "properties": {
+    "osm_id": 569748512,
+    "osm_type": "way",
+    "name": "Texas Scottish Rite Hospital for Children",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8355255,
+     32.8131073
+    ]
+   },
+   "properties": {
+    "osm_id": 569788827,
+    "osm_type": "way",
+    "name": "Parkland Memorial Hospital",
+    "operator": "Parkland Health & Hospital System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8615225,
+     32.8328231
+    ]
+   },
+   "properties": {
+    "osm_id": 569790891,
+    "osm_type": "way",
+    "name": "Promise Hospital of Dallas",
+    "operator": "Promise Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8017133,
+     33.0792186
+    ]
+   },
+   "properties": {
+    "osm_id": 578523907,
+    "osm_type": "way",
+    "name": "Children\u2019s Medical Center Plano",
+    "operator": "Children's Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9686727,
+     32.8996337
+    ]
+   },
+   "properties": {
+    "osm_id": 584522857,
+    "osm_type": "way",
+    "name": "Texas Center for Proton Therapy",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0870433,
+     33.1760874
+    ]
+   },
+   "properties": {
+    "osm_id": 585013015,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3165781,
+     32.5861726
+    ]
+   },
+   "properties": {
+    "osm_id": 597399631,
+    "osm_type": "way",
+    "name": "Texas Health Huguley Hospital Fort Worth South",
+    "operator": "AdventHealth",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8373343,
+     33.1052773
+    ]
+   },
+   "properties": {
+    "osm_id": 597488098,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Medical Center \u2013 Frisco",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1753852,
+     32.9887316
+    ]
+   },
+   "properties": {
+    "osm_id": 597776069,
+    "osm_type": "way",
+    "name": "Baylor Medical Center at Trophy Club",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1281153,
+     32.9398586
+    ]
+   },
+   "properties": {
+    "osm_id": 597778531,
+    "osm_type": "way",
+    "name": "Texas Health Harris Methodist Hospital Southlake",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7620517,
+     32.876935
+    ]
+   },
+   "properties": {
+    "osm_id": 597784768,
+    "osm_type": "way",
+    "name": "Texas Institute for Surgery At Texas Health Presbyterian Dallas",
+    "operator": "Texas Institute for Surgery",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4658791,
+     32.884824
+    ]
+   },
+   "properties": {
+    "osm_id": 599698237,
+    "osm_type": "way",
+    "name": "Texas Health Presbyterian Hospital Rockwall",
+    "operator": "Texas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.5684858,
+     32.7787
+    ]
+   },
+   "properties": {
+    "osm_id": 599758241,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Me\u200bdical Center \u2013 Sunnyvale",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1170941,
+     32.6830825
+    ]
+   },
+   "properties": {
+    "osm_id": 599777602,
+    "osm_type": "way",
+    "name": "Baylor Orthopedic and Spine Hospital",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7227625,
+     33.1768369
+    ]
+   },
+   "properties": {
+    "osm_id": 599796474,
+    "osm_type": "way",
+    "name": "Methodist McKinney Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4445825,
+     32.9141707
+    ]
+   },
+   "properties": {
+    "osm_id": 600493986,
+    "osm_type": "way",
+    "name": "Baylor Emergency Medical Center",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1881693,
+     32.8433361
+    ]
+   },
+   "properties": {
+    "osm_id": 600703814,
+    "osm_type": "way",
+    "name": "Saint Camillus Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3138207,
+     32.8996416
+    ]
+   },
+   "properties": {
+    "osm_id": 602296767,
+    "osm_type": "way",
+    "name": "Medical City Alliance",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.320993,
+     32.5756518
+    ]
+   },
+   "properties": {
+    "osm_id": 602304875,
+    "osm_type": "way",
+    "name": "Baylor Emergency Medical Center",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8983975,
+     32.9857359
+    ]
+   },
+   "properties": {
+    "osm_id": 602560524,
+    "osm_type": "way",
+    "name": "Texas Health Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3129209,
+     32.8967894
+    ]
+   },
+   "properties": {
+    "osm_id": 602603641,
+    "osm_type": "way",
+    "name": "Wise Health Surgical Hospital",
+    "operator": "Wise Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8985234,
+     32.9856091
+    ]
+   },
+   "properties": {
+    "osm_id": 633451124,
+    "osm_type": "way",
+    "name": "Legent Orthopedic Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.068554,
+     32.7677885
+    ]
+   },
+   "properties": {
+    "osm_id": 640671837,
+    "osm_type": "way",
+    "name": "Greenhouse Outpatient Treatment Facility",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0591212,
+     32.7647662
+    ]
+   },
+   "properties": {
+    "osm_id": 642270411,
+    "osm_type": "way",
+    "name": "Greenhouse Treatment Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8648184,
+     33.0456128
+    ]
+   },
+   "properties": {
+    "osm_id": 648870478,
+    "osm_type": "way",
+    "name": "Carrollton Springs",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8684875,
+     33.0457071
+    ]
+   },
+   "properties": {
+    "osm_id": 648870480,
+    "osm_type": "way",
+    "name": "Carrollton Springs",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1446122,
+     32.755953
+    ]
+   },
+   "properties": {
+    "osm_id": 659542028,
+    "osm_type": "way",
+    "name": "Kindred Rehabilitation Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0927897,
+     32.833265
+    ]
+   },
+   "properties": {
+    "osm_id": 659562491,
+    "osm_type": "way",
+    "name": "Action Behavior Centers - ABA Therapy for Autism",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1133363,
+     32.8456538
+    ]
+   },
+   "properties": {
+    "osm_id": 666138362,
+    "osm_type": "way",
+    "name": "Reliant Rehabilitation Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1299017,
+     33.1936725
+    ]
+   },
+   "properties": {
+    "osm_id": 670363196,
+    "osm_type": "way",
+    "name": "Denton Surgical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6623139,
+     32.7177119
+    ]
+   },
+   "properties": {
+    "osm_id": 673172607,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1564979,
+     33.2310754
+    ]
+   },
+   "properties": {
+    "osm_id": 693285034,
+    "osm_type": "way",
+    "name": "University Behavioral Health of Denton",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0869709,
+     33.1762278
+    ]
+   },
+   "properties": {
+    "osm_id": 693285828,
+    "osm_type": "way",
+    "name": "Mayhill Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9571744,
+     32.8987031
+    ]
+   },
+   "properties": {
+    "osm_id": 693298467,
+    "osm_type": "way",
+    "name": "Tuscan Surgery Center at Las Colinas",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.662154,
+     32.919575
+    ]
+   },
+   "properties": {
+    "osm_id": 693299620,
+    "osm_type": "way",
+    "name": "Garland Behavioral Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8648216,
+     32.6282522
+    ]
+   },
+   "properties": {
+    "osm_id": 693300893,
+    "osm_type": "way",
+    "name": "Hickory Trail Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7557549,
+     32.999224
+    ]
+   },
+   "properties": {
+    "osm_id": 705249276,
+    "osm_type": "way",
+    "name": "Eminent Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9306315,
+     32.6038053
+    ]
+   },
+   "properties": {
+    "osm_id": 707003802,
+    "osm_type": "way",
+    "name": "City Hospital Emergency Care Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.077214,
+     33.035322
+    ]
+   },
+   "properties": {
+    "osm_id": 707940437,
+    "osm_type": "way",
+    "name": "ClearSky Rehabilitation Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8127482,
+     32.6028705
+    ]
+   },
+   "properties": {
+    "osm_id": 742612127,
+    "osm_type": "way",
+    "name": "Crescent Medical Center Lancaster",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.5983755,
+     32.7787165
+    ]
+   },
+   "properties": {
+    "osm_id": 750920061,
+    "osm_type": "way",
+    "name": "Mesquite Specialty Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4020483,
+     32.707541
+    ]
+   },
+   "properties": {
+    "osm_id": 783235190,
+    "osm_type": "way",
+    "name": "Texas Health Hospital Clearfork",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6124813,
+     32.8353331
+    ]
+   },
+   "properties": {
+    "osm_id": 830145020,
+    "osm_type": "way",
+    "name": "Christian Care Center of Mesquite",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.073987,
+     33.0542597
+    ]
+   },
+   "properties": {
+    "osm_id": 913897165,
+    "osm_type": "way",
+    "name": "Texas Health Orthopedic Surgery Center",
+    "operator": "Texas Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1380246,
+     33.2355229
+    ]
+   },
+   "properties": {
+    "osm_id": 918813224,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1429345,
+     33.2365945
+    ]
+   },
+   "properties": {
+    "osm_id": 918813225,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.867916,
+     33.039534
+    ]
+   },
+   "properties": {
+    "osm_id": 975291416,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1678882,
+     33.2198923
+    ]
+   },
+   "properties": {
+    "osm_id": 1021119336,
+    "osm_type": "way",
+    "name": "Select Rehabilitation Hospital - Denton",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8701995,
+     33.220475
+    ]
+   },
+   "properties": {
+    "osm_id": 1080314260,
+    "osm_type": "way",
+    "name": "Cook Children\u2019s Pediatric Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3083315,
+     32.9289222
+    ]
+   },
+   "properties": {
+    "osm_id": 1111094800,
+    "osm_type": "way",
+    "name": "Cook Children's Urgent Care and Pediatric Specialties - Alliance",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8371453,
+     33.1816149
+    ]
+   },
+   "properties": {
+    "osm_id": 1116604043,
+    "osm_type": "way",
+    "name": "Texas Health Frisco",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1443185,
+     32.5991666
+    ]
+   },
+   "properties": {
+    "osm_id": 1117468962,
+    "osm_type": "way",
+    "name": "Kindred Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.5640897,
+     33.0082802
+    ]
+   },
+   "properties": {
+    "osm_id": 1117876921,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Emergency Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.5792827,
+     32.9526603
+    ]
+   },
+   "properties": {
+    "osm_id": 1117889177,
+    "osm_type": "way",
+    "name": "Medical City Sachse",
+    "operator": "HCA",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1453483,
+     32.9574378
+    ]
+   },
+   "properties": {
+    "osm_id": 1119711331,
+    "osm_type": "way",
+    "name": "Methodist Hospital Southlake",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0979659,
+     32.8897884
+    ]
+   },
+   "properties": {
+    "osm_id": 1119921781,
+    "osm_type": "way",
+    "name": "Sagecrest Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8208918,
+     33.1253592
+    ]
+   },
+   "properties": {
+    "osm_id": 1124439153,
+    "osm_type": "way",
+    "name": "Scottish Rite for Children Orthopedic and Sports Medicine Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0610613,
+     32.6607544
+    ]
+   },
+   "properties": {
+    "osm_id": 1125744254,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Emergency Hospital - Grand Prairie",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8305637,
+     33.2203315
+    ]
+   },
+   "properties": {
+    "osm_id": 1128793219,
+    "osm_type": "way",
+    "name": "Texas Health Neighborhood Care & Wellness Prosper",
+    "operator": "Texas Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1511166,
+     32.8887524
+    ]
+   },
+   "properties": {
+    "osm_id": 1132527860,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Emergency Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.6621909,
+     32.7446591
+    ]
+   },
+   "properties": {
+    "osm_id": 1149479431,
+    "osm_type": "way",
+    "name": "Texas Health Neighborhood Care & Wellness Willow Park",
+    "operator": "Texas Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7809864,
+     32.7881498
+    ]
+   },
+   "properties": {
+    "osm_id": 1202925976,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Heart and Vascular Hospital",
+    "operator": "Baylor Scott & White Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8305497,
+     33.2218435
+    ]
+   },
+   "properties": {
+    "osm_id": 1222543466,
+    "osm_type": "way",
+    "name": "Encompass Health Rehabilitation Hospital of Prosper",
+    "operator": "Encompass Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0993184,
+     32.5374268
+    ]
+   },
+   "properties": {
+    "osm_id": 1320008057,
+    "osm_type": "way",
+    "name": "Texas Health Hospital Mansfield",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1448836,
+     32.5967186
+    ]
+   },
+   "properties": {
+    "osm_id": 1388098877,
+    "osm_type": "way",
+    "name": "Baylor Scott & White Emergency Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8099748,
+     33.3053434
+    ]
+   },
+   "properties": {
+    "osm_id": 1426145140,
+    "osm_type": "way",
+    "name": "Methodist Celina Medical Center",
+    "operator": "Methodist Health System",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1765819,
+     32.6295629
+    ]
+   },
+   "properties": {
+    "osm_id": 1464274694,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.34117,
+     32.7406262
+    ]
+   },
+   "properties": {
+    "osm_id": 7296704,
+    "osm_type": "relation",
+    "name": "Texas Rehabilitation Hospital of Fort Worth",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.748326,
+     33.0183406
+    ]
+   },
+   "properties": {
+    "osm_id": 8898032,
+    "osm_type": "relation",
+    "name": "Encompass Health Rehabilitation Hospital of Plano",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8454698,
+     32.8192635
+    ]
+   },
+   "properties": {
+    "osm_id": 16736109,
+    "osm_type": "relation",
+    "name": "Unknown",
+    "operator": "University of Texas Southwestern Medical Center",
+    "emergency": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS and editor files
+.DS_Store
+*.swp
+# Local working material
+.aris/
+.claude/
+paper/
+paper-overleaf/
+Reviewer_Comments/
+references/
+RESEARCH_BRIEF.md
+figures/
+cache/
+*.log
+# Large downloads, fetched by scripts/1_download_data.py
+data/cache/
+data/raw/osm/
+data/raw/lodes/
+data/raw/tiger/
+data/raw/gtfs/
+data/raw/la_county/
+data/processed/network_*.npz
+data/processed/network_*.npy
+data/processed/*.graphml
+# Outputs of the first-submission pipeline
+results/master/
+results/la/sensitivity/
+scripts/4_build_master_tables.py
+scripts/5_build_paper_tables.py
+scripts/6_regen_tab2_lowincome.py
+scripts/7_make_figures.py
+scripts/8_regen_paper_figures.py
+scripts/19_revision_figures.py
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.toc

@@ -1,0 +1,283 @@
+{
+  "metro": "nyc",
+  "n_candidates": 49,
+  "scenarios": {
+    "S1": {
+      "status": "Optimal",
+      "mean_dA": 0.0,
+      "mean_A_base": 3132607.871264277,
+      "ci_dA_vs_income": 0.0,
+      "ci_B_vs_income": -0.11002298269153075,
+      "share_tracts_dA_pos": 0.0,
+      "share_od_aam_cheaper": 0.0
+    },
+    "S2": {
+      "status": "Optimal",
+      "mean_dA": 0.0,
+      "mean_A_base": 3132607.871264277,
+      "ci_dA_vs_income": 0.0,
+      "ci_B_vs_income": -0.11002298269153075,
+      "share_tracts_dA_pos": 0.0,
+      "share_od_aam_cheaper": 0.0
+    }
+  },
+  "fare_sweep": {
+    "high": [
+      {
+        "fare": 0,
+        "share_od_aam_cheaper": 0.35728510086862636,
+        "mean_dA": 135849.75061114752,
+        "mean_dA_pct_of_base": 4.33663440155759,
+        "share_tracts_dA_pos": 0.9997410668047644,
+        "ci_dA_vs_income": 0.12403752543829509
+      },
+      {
+        "fare": 5,
+        "share_od_aam_cheaper": 0.25508386029568536,
+        "mean_dA": 78977.83363448283,
+        "mean_dA_pct_of_base": 2.5211528822025357,
+        "share_tracts_dA_pos": 0.9981874676333506,
+        "ci_dA_vs_income": 0.13458697061477973
+      },
+      {
+        "fare": 10,
+        "share_od_aam_cheaper": 0.1709694587558709,
+        "mean_dA": 42845.352111166896,
+        "mean_dA_pct_of_base": 1.3677215237882647,
+        "share_tracts_dA_pos": 0.9976696012428793,
+        "ci_dA_vs_income": 0.14868602253508126
+      },
+      {
+        "fare": 15,
+        "share_od_aam_cheaper": 0.1089050089292395,
+        "mean_dA": 21070.547599590343,
+        "mean_dA_pct_of_base": 0.6726200171069149,
+        "share_tracts_dA_pos": 0.9738477472812015,
+        "ci_dA_vs_income": 0.16775627331205153
+      },
+      {
+        "fare": 20,
+        "share_od_aam_cheaper": 0.06113384580025376,
+        "mean_dA": 9014.247703919518,
+        "mean_dA_pct_of_base": 0.28775538064014033,
+        "share_tracts_dA_pos": 0.7928534438114966,
+        "ci_dA_vs_income": 0.18880589347036908
+      },
+      {
+        "fare": 30,
+        "share_od_aam_cheaper": 0.010133661020376473,
+        "mean_dA": 983.654171822108,
+        "mean_dA_pct_of_base": 0.0314004884187793,
+        "share_tracts_dA_pos": 0.49611600207146556,
+        "ci_dA_vs_income": 0.2545497159183476
+      },
+      {
+        "fare": 45,
+        "share_od_aam_cheaper": 0.00020013350279087343,
+        "mean_dA": 9.889019473877,
+        "mean_dA_pct_of_base": 0.0003156800940388983,
+        "share_tracts_dA_pos": 0.09295701708959088,
+        "ci_dA_vs_income": 0.4482593814222532
+      },
+      {
+        "fare": 60,
+        "share_od_aam_cheaper": 1.3409279918986494e-06,
+        "mean_dA": 0.011121097273749972,
+        "mean_dA_pct_of_base": 3.550108322131506e-07,
+        "share_tracts_dA_pos": 0.0020714655618850335,
+        "ci_dA_vs_income": 0.8630826089034115
+      },
+      {
+        "fare": 80,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 100,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      }
+    ],
+    "mid": [
+      {
+        "fare": 0,
+        "share_od_aam_cheaper": 0.35728510086862636,
+        "mean_dA": 135849.75061114752,
+        "mean_dA_pct_of_base": 4.33663440155759,
+        "share_tracts_dA_pos": 0.9997410668047644,
+        "ci_dA_vs_income": 0.12403752543829509
+      },
+      {
+        "fare": 5,
+        "share_od_aam_cheaper": 0.1343024532813983,
+        "mean_dA": 29379.31780259311,
+        "mean_dA_pct_of_base": 0.9378549441854024,
+        "share_tracts_dA_pos": 0.9950802692905231,
+        "ci_dA_vs_income": 0.15893882456454148
+      },
+      {
+        "fare": 10,
+        "share_od_aam_cheaper": 0.02538195663385237,
+        "mean_dA": 2918.028769026133,
+        "mean_dA_pct_of_base": 0.09315014482960031,
+        "share_tracts_dA_pos": 0.6944588296219575,
+        "ci_dA_vs_income": 0.2197296795352256
+      },
+      {
+        "fare": 15,
+        "share_od_aam_cheaper": 0.0012557790644130852,
+        "mean_dA": 89.89049222982614,
+        "mean_dA_pct_of_base": 0.002869509875602387,
+        "share_tracts_dA_pos": 0.2589331952356292,
+        "ci_dA_vs_income": 0.34536010366666725
+      },
+      {
+        "fare": 20,
+        "share_od_aam_cheaper": 3.0640204614884137e-05,
+        "mean_dA": 1.091341727753419,
+        "mean_dA_pct_of_base": 3.4838121226866755e-05,
+        "share_tracts_dA_pos": 0.01993785603314345,
+        "ci_dA_vs_income": 0.5321139020132764
+      },
+      {
+        "fare": 30,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 45,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 60,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 80,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 100,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      }
+    ],
+    "low": [
+      {
+        "fare": 0,
+        "share_od_aam_cheaper": 0.35728510086862636,
+        "mean_dA": 135849.75061114752,
+        "mean_dA_pct_of_base": 4.33663440155759,
+        "share_tracts_dA_pos": 0.9997410668047644,
+        "ci_dA_vs_income": 0.12403752543829509
+      },
+      {
+        "fare": 5,
+        "share_od_aam_cheaper": 0.050841955276833245,
+        "mean_dA": 7080.275505373283,
+        "mean_dA_pct_of_base": 0.22601856971379508,
+        "share_tracts_dA_pos": 0.7742102537545313,
+        "ci_dA_vs_income": 0.194563732062264
+      },
+      {
+        "fare": 10,
+        "share_od_aam_cheaper": 0.00038900321044979823,
+        "mean_dA": 22.779588440565163,
+        "mean_dA_pct_of_base": 0.000727176505221882,
+        "share_tracts_dA_pos": 0.13542206110823407,
+        "ci_dA_vs_income": 0.4029899735298756
+      },
+      {
+        "fare": 15,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 20,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 30,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 45,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 60,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 80,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      },
+      {
+        "fare": 100,
+        "share_od_aam_cheaper": 0.0,
+        "mean_dA": 0.0,
+        "mean_dA_pct_of_base": 0.0,
+        "share_tracts_dA_pos": 0.0,
+        "ci_dA_vs_income": 0.0
+      }
+    ]
+  },
+  "ground_minutes_p50_of_eligible_pairs": 50.185910657445795,
+  "aam_time_minutes_p50_of_eligible_pairs": 51.91082349552579,
+  "share_eligible_pairs_aam_faster_door_to_door": 0.4517467482495726,
+  "time_saving_minutes_percentiles_eligible": {
+    "50": -1.673085410792595,
+    "75": 7.733626828804191,
+    "90": 16.854004245335233,
+    "95": 21.5470600407707,
+    "99": 29.240724542780658,
+    "99.9": 37.55840290564146
+  }
+}

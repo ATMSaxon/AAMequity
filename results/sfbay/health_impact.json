@@ -1,0 +1,52 @@
+{
+  "metro": "sfbay",
+  "constants": {
+    "DALY_per_HA_person_year": 0.012,
+    "HA_fraction_per_burden_unit": 0.1,
+    "DALY_per_person_per_min_saved": 1.3698630136986302e-06
+  },
+  "scenarios": {
+    "S1": {
+      "highly_annoyed_persons": 34324.860938389036,
+      "burden_daly_loss_per_year": 411.89833126066844,
+      "access_daly_gain_per_year": 122636.63417178877,
+      "net_daly_per_year": 122224.7358405281
+    },
+    "S2": {
+      "highly_annoyed_persons": 32725.793155124346,
+      "burden_daly_loss_per_year": 392.70951786149215,
+      "access_daly_gain_per_year": 10371.303551234065,
+      "net_daly_per_year": 9978.594033372572
+    },
+    "S3": {
+      "highly_annoyed_persons": 11281.26840631216,
+      "burden_daly_loss_per_year": 135.37522087574592,
+      "access_daly_gain_per_year": 4211.801899235141,
+      "net_daly_per_year": 4076.426678359395
+    },
+    "S4": {
+      "highly_annoyed_persons": 0.0,
+      "burden_daly_loss_per_year": 0.0,
+      "access_daly_gain_per_year": 0.0,
+      "net_daly_per_year": 0.0
+    },
+    "S5": {
+      "highly_annoyed_persons": 0.0,
+      "burden_daly_loss_per_year": 0.0,
+      "access_daly_gain_per_year": 0.0,
+      "net_daly_per_year": 0.0
+    },
+    "S6": {
+      "highly_annoyed_persons": 11281.26840631216,
+      "burden_daly_loss_per_year": 135.37522087574592,
+      "access_daly_gain_per_year": 15728.403552808406,
+      "net_daly_per_year": 15593.02833193266
+    },
+    "S7": {
+      "highly_annoyed_persons": 11281.26840631216,
+      "burden_daly_loss_per_year": 135.37522087574592,
+      "access_daly_gain_per_year": 4211.801899235141,
+      "net_daly_per_year": 4076.426678359395
+    }
+  }
+}

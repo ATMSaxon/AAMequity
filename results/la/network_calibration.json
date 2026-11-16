@@ -1,0 +1,14 @@
+{
+  "metro": "la",
+  "n_pairs_attempted": 91,
+  "n_pairs_converged": 86,
+  "euclid_22kmh_min_p50": 69.25592527156394,
+  "network_congested_min_p50": 34.62867280934414,
+  "pearson_r": 0.8323586479786242,
+  "spearman_r": 0.8454832775130902,
+  "ols_intercept_a_min": 10.10580015817394,
+  "ols_slope_b": 0.31721425168728934,
+  "rmse_min": 45.869794388487506,
+  "mean_bias_min_network_minus_euclid": -39.929201340407424,
+  "interpretation": "If pearson r > 0.85 and ols_slope_b in [0.8, 1.2] and rmse < 10 min, the Euclidean \u00d7 22 km/h \u00d7 1.6 approximation is defensible relative to OSMnx network shortest paths for the metro's central-trip range (5-50 km)."
+}

@@ -1,0 +1,14 @@
+{
+  "metro": "sfbay",
+  "n_pairs_attempted": 49,
+  "n_pairs_converged": 41,
+  "euclid_22kmh_min_p50": 65.33669039332368,
+  "network_congested_min_p50": 31.738530116193335,
+  "pearson_r": 0.6058120010277828,
+  "spearman_r": 0.6711970828501191,
+  "ols_intercept_a_min": 4.305834826387834,
+  "ols_slope_b": 0.45434298421030017,
+  "rmse_min": 42.70882080869392,
+  "mean_bias_min_network_minus_euclid": -34.67245656867894,
+  "interpretation": "If pearson r > 0.85 and ols_slope_b in [0.8, 1.2] and rmse < 10 min, the Euclidean \u00d7 22 km/h \u00d7 1.6 approximation is defensible relative to OSMnx network shortest paths for the metro's central-trip range (5-50 km)."
+}

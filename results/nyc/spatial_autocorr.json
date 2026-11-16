@@ -1,0 +1,49 @@
+{
+  "metro": "nyc",
+  "k": 8,
+  "n_tracts": 3862,
+  "scenarios": {
+    "S1": {
+      "morans_I_B": 0.8047993680256543,
+      "p_B": 0.01,
+      "morans_I_dA": 0.999194088467965,
+      "p_dA": 0.01
+    },
+    "S2": {
+      "morans_I_B": 0.8378654904588408,
+      "p_B": 0.01,
+      "morans_I_dA": 0.9943586482437157,
+      "p_dA": 0.01
+    },
+    "S3": {
+      "morans_I_B": 0.0,
+      "p_B": 1.0,
+      "morans_I_dA": 0.0,
+      "p_dA": 1.0
+    },
+    "S4": {
+      "morans_I_B": 0.0,
+      "p_B": 1.0,
+      "morans_I_dA": 0.0,
+      "p_dA": 1.0
+    },
+    "S5": {
+      "morans_I_B": 0.0,
+      "p_B": 1.0,
+      "morans_I_dA": 0.0,
+      "p_dA": 1.0
+    },
+    "S6": {
+      "morans_I_B": 0.0,
+      "p_B": 1.0,
+      "morans_I_dA": 0.0,
+      "p_dA": 1.0
+    },
+    "S7": {
+      "morans_I_B": 0.0,
+      "p_B": 1.0,
+      "morans_I_dA": 0.0,
+      "p_dA": 1.0
+    }
+  }
+}

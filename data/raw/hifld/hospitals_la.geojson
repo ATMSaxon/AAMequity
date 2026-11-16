@@ -1,0 +1,3490 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3365343,
+     34.274213
+    ]
+   },
+   "properties": {
+    "osm_id": 358808225,
+    "osm_type": "node",
+    "name": "Lakeview Terrace Sanitarium",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1984023,
+     33.795573
+    ]
+   },
+   "properties": {
+    "osm_id": 358808301,
+    "osm_type": "node",
+    "name": "Tarzana Treatment Centers Long Beach",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1864606,
+     34.0191797
+    ]
+   },
+   "properties": {
+    "osm_id": 358826153,
+    "osm_type": "node",
+    "name": "Los Angeles Community Hospital",
+    "operator": "Alta Los Angeles Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1858169,
+     33.8084999
+    ]
+   },
+   "properties": {
+    "osm_id": 358857876,
+    "osm_type": "node",
+    "name": "Jonathan Jaques Children's Cancer Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1860441,
+     33.8086158
+    ]
+   },
+   "properties": {
+    "osm_id": 358857879,
+    "osm_type": "node",
+    "name": "Miller Children's & Women's Hospital Long Beach",
+    "operator": "MemorialCare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1193286,
+     33.7557648
+    ]
+   },
+   "properties": {
+    "osm_id": 1544314389,
+    "osm_type": "node",
+    "name": "Naples Medical Group",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9874346,
+     33.6783187
+    ]
+   },
+   "properties": {
+    "osm_id": 1873934985,
+    "osm_type": "node",
+    "name": "Hoag Health Center Huntington Beach",
+    "operator": "Hoag",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4471116,
+     34.0663274
+    ]
+   },
+   "properties": {
+    "osm_id": 1894122907,
+    "osm_type": "node",
+    "name": "Mattel Children's Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4465012,
+     34.0661034
+    ]
+   },
+   "properties": {
+    "osm_id": 1894122910,
+    "osm_type": "node",
+    "name": "Resnick Neuropsychiatric Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.561841,
+     34.2751983
+    ]
+   },
+   "properties": {
+    "osm_id": 2351670047,
+    "osm_type": "node",
+    "name": "Nu Vela Esthetica",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4442777,
+     34.065767
+    ]
+   },
+   "properties": {
+    "osm_id": 2392101217,
+    "osm_type": "node",
+    "name": "Neurological Rehabilitation & Research Unit",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2661911,
+     34.0073173
+    ]
+   },
+   "properties": {
+    "osm_id": 2556689683,
+    "osm_type": "node",
+    "name": "Kedren Community Health Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8652823,
+     34.127666
+    ]
+   },
+   "properties": {
+    "osm_id": 4342033522,
+    "osm_type": "node",
+    "name": "Emergency Room",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5895399,
+     34.1707705
+    ]
+   },
+   "properties": {
+    "osm_id": 6322407377,
+    "osm_type": "node",
+    "name": "Kaiser Permanente",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1889308,
+     33.8076912
+    ]
+   },
+   "properties": {
+    "osm_id": 6415540957,
+    "osm_type": "node",
+    "name": "Todd Cancer Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1046952,
+     34.102044
+    ]
+   },
+   "properties": {
+    "osm_id": 8519665340,
+    "osm_type": "node",
+    "name": "EndoCare Center, Endodontic Office of Dr. John Yu",
+    "operator": "Dr. John Yu",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4682968,
+     34.0723695
+    ]
+   },
+   "properties": {
+    "osm_id": 8831156390,
+    "osm_type": "node",
+    "name": "Covid Testing (PCR 30 mins)",
+    "operator": "911 Covid Testing, Inc.",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4117451,
+     34.0591305
+    ]
+   },
+   "properties": {
+    "osm_id": 9008836961,
+    "osm_type": "node",
+    "name": "California Rehabilitation Institute",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2485451,
+     34.0421489
+    ]
+   },
+   "properties": {
+    "osm_id": 9211554934,
+    "osm_type": "node",
+    "name": "Joshua House Health Center",
+    "operator": "Los Angeles Christian Health Center",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.273426,
+     33.9886634
+    ]
+   },
+   "properties": {
+    "osm_id": 9438017617,
+    "osm_type": "node",
+    "name": "Hubert H. Humphrey Comprehensive Health Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8708029,
+     33.6124787
+    ]
+   },
+   "properties": {
+    "osm_id": 10282194562,
+    "osm_type": "node",
+    "name": "Newport Children's Medical Group",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4444286,
+     34.3274884
+    ]
+   },
+   "properties": {
+    "osm_id": 10597504460,
+    "osm_type": "node",
+    "name": "Olive House Crisis Residential",
+    "operator": "Telecare corporation",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4442932,
+     34.3279907
+    ]
+   },
+   "properties": {
+    "osm_id": 10597504461,
+    "osm_type": "node",
+    "name": "STARS Crisis Residential",
+    "operator": "STARS Behavioral",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8664316,
+     34.1000019
+    ]
+   },
+   "properties": {
+    "osm_id": 10866240304,
+    "osm_type": "node",
+    "name": "Aurora Charter Oak",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3561104,
+     33.8242398
+    ]
+   },
+   "properties": {
+    "osm_id": 10866365486,
+    "osm_type": "node",
+    "name": "Star View Adolescent - PHF",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4474908,
+     34.1769007
+    ]
+   },
+   "properties": {
+    "osm_id": 10866397638,
+    "osm_type": "node",
+    "name": "Van Nuys Behavioral Health Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1297319,
+     33.8743136
+    ]
+   },
+   "properties": {
+    "osm_id": 10866444268,
+    "osm_type": "node",
+    "name": "Bellflower Behavioral Health Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3784511,
+     33.9901306
+    ]
+   },
+   "properties": {
+    "osm_id": 10866445651,
+    "osm_type": "node",
+    "name": "Kindred Hospital - Los Angeles",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2434019,
+     34.0668973
+    ]
+   },
+   "properties": {
+    "osm_id": 10866447068,
+    "osm_type": "node",
+    "name": "Kaiser Foundation Hospital Mental Health Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1056885,
+     34.0695661
+    ]
+   },
+   "properties": {
+    "osm_id": 10866448571,
+    "osm_type": "node",
+    "name": "L.A. Downtown Medical Center - Ingleside Campus",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5398562,
+     34.1794458
+    ]
+   },
+   "properties": {
+    "osm_id": 10866448572,
+    "osm_type": "node",
+    "name": "Tarzana Treatment Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0740196,
+     34.0884364
+    ]
+   },
+   "properties": {
+    "osm_id": 10866464472,
+    "osm_type": "node",
+    "name": "BHC Alhambra Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.6366359,
+     34.1579783
+    ]
+   },
+   "properties": {
+    "osm_id": 10866465076,
+    "osm_type": "node",
+    "name": "Motion Picture And Television Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3520439,
+     33.9117288
+    ]
+   },
+   "properties": {
+    "osm_id": 10866467674,
+    "osm_type": "node",
+    "name": "College Medical Center Hawthorne Campus",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9075358,
+     33.6222852
+    ]
+   },
+   "properties": {
+    "osm_id": 10866483723,
+    "osm_type": "node",
+    "name": "Newport Bay Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.995256,
+     33.7635332
+    ]
+   },
+   "properties": {
+    "osm_id": 10866488570,
+    "osm_type": "node",
+    "name": "Kindred Hospital Westminster",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.972411,
+     34.0140749
+    ]
+   },
+   "properties": {
+    "osm_id": 10935552370,
+    "osm_type": "node",
+    "name": "SoCal K9 Clinic City of Industry",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3863064,
+     34.0769655
+    ]
+   },
+   "properties": {
+    "osm_id": 11014639805,
+    "osm_type": "node",
+    "name": "Cedars Sinai Transplant Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7010718,
+     34.1403458
+    ]
+   },
+   "properties": {
+    "osm_id": 11403065224,
+    "osm_type": "node",
+    "name": "Balance Treatment Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4583982,
+     34.15277
+    ]
+   },
+   "properties": {
+    "osm_id": 12229143092,
+    "osm_type": "node",
+    "name": "Seeking Integrity",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4054419,
+     34.0832832
+    ]
+   },
+   "properties": {
+    "osm_id": 12378876558,
+    "osm_type": "node",
+    "name": "Bridges to Recovery",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2256917,
+     33.9828948
+    ]
+   },
+   "properties": {
+    "osm_id": 12545765303,
+    "osm_type": "node",
+    "name": "New Horizon Hydration",
+    "operator": "Dignity Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.807211,
+     33.7081964
+    ]
+   },
+   "properties": {
+    "osm_id": 12598684061,
+    "osm_type": "node",
+    "name": "Veterinary Surgical Specialists",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8686677,
+     33.6825009
+    ]
+   },
+   "properties": {
+    "osm_id": 12652114725,
+    "osm_type": "node",
+    "name": "SoCal Youth Center of Orange County",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3389038,
+     34.1504024
+    ]
+   },
+   "properties": {
+    "osm_id": 12846826238,
+    "osm_type": "node",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5530596,
+     34.2006817
+    ]
+   },
+   "properties": {
+    "osm_id": 12874692038,
+    "osm_type": "node",
+    "name": "Joyce Eisenberg-Keeper Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3475542,
+     34.1524505
+    ]
+   },
+   "properties": {
+    "osm_id": 13300106501,
+    "osm_type": "node",
+    "name": "UCLA Health Burbank Laboratory",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2136937,
+     34.0591901
+    ]
+   },
+   "properties": {
+    "osm_id": 13469512069,
+    "osm_type": "node",
+    "name": "Keck Medicine of USC",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.439447,
+     33.9820552
+    ]
+   },
+   "properties": {
+    "osm_id": 26821226,
+    "osm_type": "way",
+    "name": "Marina Del Rey Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.934843,
+     33.7144654
+    ]
+   },
+   "properties": {
+    "osm_id": 28663398,
+    "osm_type": "way",
+    "name": "Fountain Valley Regional Hospital and Medical Center",
+    "operator": "TH Medical",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0421411,
+     34.1341303
+    ]
+   },
+   "properties": {
+    "osm_id": 30134999,
+    "osm_type": "way",
+    "name": "USC Arcadia Hospital",
+    "operator": "Keck Medicine of USC",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7403818,
+     33.5006573
+    ]
+   },
+   "properties": {
+    "osm_id": 30705580,
+    "osm_type": "way",
+    "name": "Mission Hospital Laguna Beach",
+    "operator": "Saint Joseph Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7737925,
+     33.6573191
+    ]
+   },
+   "properties": {
+    "osm_id": 40114966,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Orange County-Irvine Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9858474,
+     34.0651278
+    ]
+   },
+   "properties": {
+    "osm_id": 44499761,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Baldwin Park Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2947559,
+     33.8298087
+    ]
+   },
+   "properties": {
+    "osm_id": 49836233,
+    "osm_type": "way",
+    "name": "Harbor-UCLA Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9326588,
+     33.6235827
+    ]
+   },
+   "properties": {
+    "osm_id": 53683196,
+    "osm_type": "way",
+    "name": "Hoag Memorial Hospital Presbyterian",
+    "operator": "Hoag",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.844489,
+     33.8525617
+    ]
+   },
+   "properties": {
+    "osm_id": 54138599,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Orange County \u2013 Anaheim Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1446744,
+     33.7889068
+    ]
+   },
+   "properties": {
+    "osm_id": 56123369,
+    "osm_type": "way",
+    "name": "Community Medical Center Long Beach",
+    "operator": "MemorialCare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1059161,
+     34.1009751
+    ]
+   },
+   "properties": {
+    "osm_id": 59546380,
+    "osm_type": "way",
+    "name": "San Gabriel Valley Medical Center",
+    "operator": "AHMC Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.6653875,
+     33.5615717
+    ]
+   },
+   "properties": {
+    "osm_id": 61161082,
+    "osm_type": "way",
+    "name": "Mission Hospital",
+    "operator": "Saint Joseph Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.685015,
+     34.0255222
+    ]
+   },
+   "properties": {
+    "osm_id": 97942027,
+    "osm_type": "way",
+    "name": "Chino Valley Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8940162,
+     33.9344768
+    ]
+   },
+   "properties": {
+    "osm_id": 120759701,
+    "osm_type": "way",
+    "name": "Kindred Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5897904,
+     34.1709273
+    ]
+   },
+   "properties": {
+    "osm_id": 137885931,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Woodland Hills Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2031875,
+     33.9299777
+    ]
+   },
+   "properties": {
+    "osm_id": 160184291,
+    "osm_type": "way",
+    "name": "St. Francis Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8876498,
+     33.7873452
+    ]
+   },
+   "properties": {
+    "osm_id": 170963630,
+    "osm_type": "way",
+    "name": "UCI Medical Center",
+    "operator": "UC Irvine Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4595235,
+     34.2804837
+    ]
+   },
+   "properties": {
+    "osm_id": 172229836,
+    "osm_type": "way",
+    "name": "Providence Holy Cross Medical Center",
+    "operator": "Providence Health & Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2096671,
+     34.0593762
+    ]
+   },
+   "properties": {
+    "osm_id": 172998715,
+    "osm_type": "way",
+    "name": "Los Angeles General Medical Center",
+    "operator": "Los Angeles County",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1522405,
+     34.1336537
+    ]
+   },
+   "properties": {
+    "osm_id": 181582600,
+    "osm_type": "way",
+    "name": "Huntington Hospital",
+    "operator": "Cedars Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4863612,
+     34.0270921
+    ]
+   },
+   "properties": {
+    "osm_id": 185919917,
+    "osm_type": "way",
+    "name": "UCLA Medical Center - Santa Monica",
+    "operator": "UCLA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2426945,
+     33.9233235
+    ]
+   },
+   "properties": {
+    "osm_id": 185933411,
+    "osm_type": "way",
+    "name": "Martin Luther King, Jr. Community Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9563173,
+     33.7005031
+    ]
+   },
+   "properties": {
+    "osm_id": 190539243,
+    "osm_type": "way",
+    "name": "Orange Coast Memorial Medical Center",
+    "operator": "MemorialCare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8940529,
+     33.9349363
+    ]
+   },
+   "properties": {
+    "osm_id": 190556865,
+    "osm_type": "way",
+    "name": "Kindred Hospital - Brea",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9128741,
+     33.7753826
+    ]
+   },
+   "properties": {
+    "osm_id": 190984998,
+    "osm_type": "way",
+    "name": "Garden Grove Hospital And Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1595487,
+     34.686645
+    ]
+   },
+   "properties": {
+    "osm_id": 196880889,
+    "osm_type": "way",
+    "name": "Antelope Valley Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2172401,
+     34.0496818
+    ]
+   },
+   "properties": {
+    "osm_id": 203432884,
+    "osm_type": "way",
+    "name": "White Memorial Medical Center",
+    "operator": "Adventist Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8268069,
+     33.789025
+    ]
+   },
+   "properties": {
+    "osm_id": 203833044,
+    "osm_type": "way",
+    "name": "Chapman Global Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9345871,
+     33.8482106
+    ]
+   },
+   "properties": {
+    "osm_id": 237072249,
+    "osm_type": "way",
+    "name": "Anaheim Regional Medical Center",
+    "operator": "AHMC Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1578705,
+     33.9291815
+    ]
+   },
+   "properties": {
+    "osm_id": 241725421,
+    "osm_type": "way",
+    "name": "Rancho Los Amigos National Rehabilitation Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1614684,
+     33.9222195
+    ]
+   },
+   "properties": {
+    "osm_id": 241725422,
+    "osm_type": "way",
+    "name": "Rancho Los Amigos South Campus",
+    "operator": "Los Angeles County Health Services",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.294756,
+     33.7886602
+    ]
+   },
+   "properties": {
+    "osm_id": 259787702,
+    "osm_type": "way",
+    "name": "Kaiser Permanente South Bay Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1659446,
+     34.1962016
+    ]
+   },
+   "properties": {
+    "osm_id": 272245253,
+    "osm_type": "way",
+    "name": "Hathaway-Sycamores",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0434166,
+     34.0479864
+    ]
+   },
+   "properties": {
+    "osm_id": 285340183,
+    "osm_type": "way",
+    "name": "Greater El Monte Community Hospital",
+    "operator": "AHMC",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3569029,
+     33.839098
+    ]
+   },
+   "properties": {
+    "osm_id": 285842342,
+    "osm_type": "way",
+    "name": "Providence Little Company of Mary Medical Center Torrance",
+    "operator": "Providence Health & Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2900905,
+     34.0963169
+    ]
+   },
+   "properties": {
+    "osm_id": 299402562,
+    "osm_type": "way",
+    "name": "CHA Hollywood Presbyterian Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2900813,
+     34.0973659
+    ]
+   },
+   "properties": {
+    "osm_id": 299402563,
+    "osm_type": "way",
+    "name": "Children's Hospital Los Angeles",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9873688,
+     33.7038731
+    ]
+   },
+   "properties": {
+    "osm_id": 319346388,
+    "osm_type": "way",
+    "name": "Huntington Beach Hospital And Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1009082,
+     34.0151355
+    ]
+   },
+   "properties": {
+    "osm_id": 319902860,
+    "osm_type": "way",
+    "name": "Beverly Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1306052,
+     33.9350593
+    ]
+   },
+   "properties": {
+    "osm_id": 351686198,
+    "osm_type": "way",
+    "name": "PIH Health Hospital - Downey",
+    "operator": "PIH Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7095321,
+     33.6085697
+    ]
+   },
+   "properties": {
+    "osm_id": 356682449,
+    "osm_type": "way",
+    "name": "Saddleback Medical Center",
+    "operator": "MemorialCare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9951367,
+     33.8257213
+    ]
+   },
+   "properties": {
+    "osm_id": 374374613,
+    "osm_type": "way",
+    "name": "West Anaheim Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.6289125,
+     34.2026646
+    ]
+   },
+   "properties": {
+    "osm_id": 380825423,
+    "osm_type": "way",
+    "name": "UCLA West Hills Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9725543,
+     34.1291697
+    ]
+   },
+   "properties": {
+    "osm_id": 381382888,
+    "osm_type": "way",
+    "name": "Helford Clinical Research Hospital",
+    "operator": "City of Hope",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5536497,
+     34.3981375
+    ]
+   },
+   "properties": {
+    "osm_id": 383211031,
+    "osm_type": "way",
+    "name": "Henry Mayo Newhall Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2653682,
+     34.0541171
+    ]
+   },
+   "properties": {
+    "osm_id": 398272919,
+    "osm_type": "way",
+    "name": "Good Samaritan Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4565609,
+     34.2205635
+    ]
+   },
+   "properties": {
+    "osm_id": 418123317,
+    "osm_type": "way",
+    "name": "Mission Community Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4438518,
+     34.0649633
+    ]
+   },
+   "properties": {
+    "osm_id": 422876579,
+    "osm_type": "way",
+    "name": "Jules Stein Eye Institute",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2651082,
+     34.0367369
+    ]
+   },
+   "properties": {
+    "osm_id": 428383276,
+    "osm_type": "way",
+    "name": "USC-Eisner Family Medicine Center at California Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2051215,
+     34.061431
+    ]
+   },
+   "properties": {
+    "osm_id": 428955320,
+    "osm_type": "way",
+    "name": "Norris Cancer Center and Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3306717,
+     33.3391704
+    ]
+   },
+   "properties": {
+    "osm_id": 438223693,
+    "osm_type": "way",
+    "name": "Catalina Island Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8285166,
+     33.7302659
+    ]
+   },
+   "properties": {
+    "osm_id": 442006645,
+    "osm_type": "way",
+    "name": "Foothill Regional Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2950943,
+     34.098594
+    ]
+   },
+   "properties": {
+    "osm_id": 442117665,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Los Angeles Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1709439,
+     33.8989226
+    ]
+   },
+   "properties": {
+    "osm_id": 454968974,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2238792,
+     33.989714
+    ]
+   },
+   "properties": {
+    "osm_id": 464183836,
+    "osm_type": "way",
+    "name": "Community Hospital of Huntington Park",
+    "operator": "Avanti Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1217053,
+     34.0971761
+    ]
+   },
+   "properties": {
+    "osm_id": 471613246,
+    "osm_type": "way",
+    "name": "AHMC Healthcare",
+    "operator": "AHMC Healthcare",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3806962,
+     34.0752152
+    ]
+   },
+   "properties": {
+    "osm_id": 534711293,
+    "osm_type": "way",
+    "name": "Cedars-Sinai Medical Center",
+    "operator": "Cedars-Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3285481,
+     34.1560682
+    ]
+   },
+   "properties": {
+    "osm_id": 534717712,
+    "osm_type": "way",
+    "name": "Providence Saint Joseph Medical Center",
+    "operator": "Providence Health & Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1450257,
+     34.5831063
+    ]
+   },
+   "properties": {
+    "osm_id": 570564167,
+    "osm_type": "way",
+    "name": "Palmdale Regional Medical Center",
+    "operator": "Universal Health Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.6880594,
+     34.0091927
+    ]
+   },
+   "properties": {
+    "osm_id": 570752098,
+    "osm_type": "way",
+    "name": "Canyon Ridge Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.6959029,
+     34.0786272
+    ]
+   },
+   "properties": {
+    "osm_id": 570810425,
+    "osm_type": "way",
+    "name": "Montclair Hospital Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7467068,
+     34.0975563
+    ]
+   },
+   "properties": {
+    "osm_id": 570811088,
+    "osm_type": "way",
+    "name": "Casa Colina",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.7505944,
+     34.0776118
+    ]
+   },
+   "properties": {
+    "osm_id": 570811848,
+    "osm_type": "way",
+    "name": "Pomona Valley Hospital Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8714548,
+     34.1330531
+    ]
+   },
+   "properties": {
+    "osm_id": 570816611,
+    "osm_type": "way",
+    "name": "Foothill Presbyterian Hospital",
+    "operator": "Citrus Valley Health Partners.",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.834389,
+     34.0974936
+    ]
+   },
+   "properties": {
+    "osm_id": 570817838,
+    "osm_type": "way",
+    "name": "San Dimas Community Hospital",
+    "operator": "Prime Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.772569,
+     33.660688
+    ]
+   },
+   "properties": {
+    "osm_id": 570974320,
+    "osm_type": "way",
+    "name": "Hoag Hospital Irvine",
+    "operator": "Hoag",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9120058,
+     33.6518325
+    ]
+   },
+   "properties": {
+    "osm_id": 570997696,
+    "osm_type": "way",
+    "name": "College Hospital Costa Mesa",
+    "operator": "College Hospitals",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8843724,
+     33.7112045
+    ]
+   },
+   "properties": {
+    "osm_id": 571018512,
+    "osm_type": "way",
+    "name": "South Coast Global Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8329236,
+     33.7544195
+    ]
+   },
+   "properties": {
+    "osm_id": 571022773,
+    "osm_type": "way",
+    "name": "Orange County Global Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.891511,
+     33.7622868
+    ]
+   },
+   "properties": {
+    "osm_id": 571031162,
+    "osm_type": "way",
+    "name": "Kindred Hospital - Santa Ana",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8660904,
+     33.7810367
+    ]
+   },
+   "properties": {
+    "osm_id": 571039716,
+    "osm_type": "way",
+    "name": "Children's Hospital of Orange County",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8643349,
+     33.7821972
+    ]
+   },
+   "properties": {
+    "osm_id": 571039717,
+    "osm_type": "way",
+    "name": "Saint Joseph Hospital",
+    "operator": "Saint Joseph Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8431092,
+     33.8866614
+    ]
+   },
+   "properties": {
+    "osm_id": 571053792,
+    "osm_type": "way",
+    "name": "Placentia-Linda Hospital",
+    "operator": "TH Medical",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9270652,
+     33.8946857
+    ]
+   },
+   "properties": {
+    "osm_id": 571062802,
+    "osm_type": "way",
+    "name": "Saint Jude Medical Center",
+    "operator": "Saint Joseph Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9097407,
+     33.8205277
+    ]
+   },
+   "properties": {
+    "osm_id": 571065301,
+    "osm_type": "way",
+    "name": "Anaheim Global Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0388334,
+     33.8474962
+    ]
+   },
+   "properties": {
+    "osm_id": 571086105,
+    "osm_type": "way",
+    "name": "La Palma Intercommunity Hospital",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4585757,
+     34.0570501
+    ]
+   },
+   "properties": {
+    "osm_id": 571142033,
+    "osm_type": "way",
+    "name": "West Los Angeles Veterans Affairs Medical Center",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1871833,
+     33.7799789
+    ]
+   },
+   "properties": {
+    "osm_id": 571350168,
+    "osm_type": "way",
+    "name": "Saint Mary Medical Center Long Beach",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1944252,
+     33.7885544
+    ]
+   },
+   "properties": {
+    "osm_id": 571356353,
+    "osm_type": "way",
+    "name": "College Medical Center South Campus",
+    "operator": "College Medical Center",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1930642,
+     33.8071125
+    ]
+   },
+   "properties": {
+    "osm_id": 571365380,
+    "osm_type": "way",
+    "name": "College Medical Center",
+    "operator": "College Medical Center",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1872206,
+     33.8088915
+    ]
+   },
+   "properties": {
+    "osm_id": 571388052,
+    "osm_type": "way",
+    "name": "Long Beach Memorial Hospital",
+    "operator": "MemorialCare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3054872,
+     33.7393363
+    ]
+   },
+   "properties": {
+    "osm_id": 571394496,
+    "osm_type": "way",
+    "name": "Providence Little Company of Mary Medical Center San Pedro",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3437253,
+     33.8104463
+    ]
+   },
+   "properties": {
+    "osm_id": 571401800,
+    "osm_type": "way",
+    "name": "Torrance Memorial",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2974258,
+     33.890009
+    ]
+   },
+   "properties": {
+    "osm_id": 571436511,
+    "osm_type": "way",
+    "name": "Kindred Hospital South Bay",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.295056,
+     33.8930237
+    ]
+   },
+   "properties": {
+    "osm_id": 571436512,
+    "osm_type": "way",
+    "name": "Memorial Hospital of Gardena",
+    "operator": "Avanti Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0984753,
+     33.9122842
+    ]
+   },
+   "properties": {
+    "osm_id": 571453779,
+    "osm_type": "way",
+    "name": "Coast Plaza Hospital",
+    "operator": "Avanti Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0638767,
+     33.910391
+    ]
+   },
+   "properties": {
+    "osm_id": 571460037,
+    "osm_type": "way",
+    "name": "Los Angeles Community Hospital at Norwalk",
+    "operator": "Alta Los Angeles Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0683155,
+     33.9244238
+    ]
+   },
+   "properties": {
+    "osm_id": 571463932,
+    "osm_type": "way",
+    "name": "Metropolitan State Hospital",
+    "operator": "California Department of State Hospitals",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0494583,
+     33.9699172
+    ]
+   },
+   "properties": {
+    "osm_id": 571646691,
+    "osm_type": "way",
+    "name": "PIH Health Whittier Hospital",
+    "operator": "PIH Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9677413,
+     34.0628967
+    ]
+   },
+   "properties": {
+    "osm_id": 571725250,
+    "osm_type": "way",
+    "name": "Kindred Hospital Baldwin Park",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9454551,
+     34.0640007
+    ]
+   },
+   "properties": {
+    "osm_id": 571729228,
+    "osm_type": "way",
+    "name": "Queen of the Valley Hospital",
+    "operator": "Citrus Valley Health Partners",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9447948,
+     34.0711997
+    ]
+   },
+   "properties": {
+    "osm_id": 571733424,
+    "osm_type": "way",
+    "name": "West Covina Medical Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9172678,
+     34.0872636
+    ]
+   },
+   "properties": {
+    "osm_id": 571741432,
+    "osm_type": "way",
+    "name": "Kindred Hospital - San Gabriel Valley",
+    "operator": "Kindred Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8934243,
+     34.0887542
+    ]
+   },
+   "properties": {
+    "osm_id": 571744649,
+    "osm_type": "way",
+    "name": "Inter-Community Hospital",
+    "operator": "Citrus Valley Health Partners",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9925877,
+     34.1486625
+    ]
+   },
+   "properties": {
+    "osm_id": 571765396,
+    "osm_type": "way",
+    "name": "Monrovia Memorial Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9718076,
+     34.1278819
+    ]
+   },
+   "properties": {
+    "osm_id": 571802586,
+    "osm_type": "way",
+    "name": "City of Hope",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2155999,
+     34.2044065
+    ]
+   },
+   "properties": {
+    "osm_id": 571841991,
+    "osm_type": "way",
+    "name": "USC Verdugo Hills Hospital",
+    "operator": "Keck Medicine of USC",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0912498,
+     34.1408821
+    ]
+   },
+   "properties": {
+    "osm_id": 571991516,
+    "osm_type": "way",
+    "name": "Las Encinas Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1441828,
+     34.090164
+    ]
+   },
+   "properties": {
+    "osm_id": 572047613,
+    "osm_type": "way",
+    "name": "Alhambra Hospital Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1237291,
+     34.0685331
+    ]
+   },
+   "properties": {
+    "osm_id": 572072002,
+    "osm_type": "way",
+    "name": "Garfield Medical Center",
+    "operator": "AHMC Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1382038,
+     34.0499363
+    ]
+   },
+   "properties": {
+    "osm_id": 572083309,
+    "osm_type": "way",
+    "name": "Monterey Park Hospital",
+    "operator": "AHMC Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3483046,
+     33.9504601
+    ]
+   },
+   "properties": {
+    "osm_id": 572213965,
+    "osm_type": "way",
+    "name": "Centinela Hospital Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3978024,
+     34.0229282
+    ]
+   },
+   "properties": {
+    "osm_id": 572362421,
+    "osm_type": "way",
+    "name": "Southern California Hospital Culver City",
+    "operator": "Prospect Medical Group",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4795292,
+     34.0305404
+    ]
+   },
+   "properties": {
+    "osm_id": 572407998,
+    "osm_type": "way",
+    "name": "Providence Saint John's Health Center",
+    "operator": "Providence Health & Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3606191,
+     34.0573535
+    ]
+   },
+   "properties": {
+    "osm_id": 574224209,
+    "osm_type": "way",
+    "name": "Olympia Medical Center",
+    "operator": "Alecto Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3253222,
+     34.0966428
+    ]
+   },
+   "properties": {
+    "osm_id": 574228538,
+    "osm_type": "way",
+    "name": "Southern California Hospital Hollywood",
+    "operator": "Prospect Medical Group",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2660024,
+     34.0376936
+    ]
+   },
+   "properties": {
+    "osm_id": 574464500,
+    "osm_type": "way",
+    "name": "California Hospital Medical Center",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2734281,
+     34.0640789
+    ]
+   },
+   "properties": {
+    "osm_id": 574480663,
+    "osm_type": "way",
+    "name": "Saint Vincent Medical Center",
+    "operator": "Verity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2636209,
+     34.0695724
+    ]
+   },
+   "properties": {
+    "osm_id": 574492275,
+    "osm_type": "way",
+    "name": "Silver Lake Medical Center",
+    "operator": "Success Healthcare",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2567741,
+     34.0852797
+    ]
+   },
+   "properties": {
+    "osm_id": 574583421,
+    "osm_type": "way",
+    "name": "Gateways Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2019552,
+     34.0622206
+    ]
+   },
+   "properties": {
+    "osm_id": 574903704,
+    "osm_type": "way",
+    "name": "Keck Hospital of USC",
+    "operator": "Keck Medicine of USC",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2303397,
+     34.1512042
+    ]
+   },
+   "properties": {
+    "osm_id": 575564321,
+    "osm_type": "way",
+    "name": "Glendale Adventist Medical Center",
+    "operator": "Adventist Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.256659,
+     34.1276157
+    ]
+   },
+   "properties": {
+    "osm_id": 575583532,
+    "osm_type": "way",
+    "name": "Glendale Memorial Hospital",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4494499,
+     34.1603303
+    ]
+   },
+   "properties": {
+    "osm_id": 575653273,
+    "osm_type": "way",
+    "name": "Sherman Oaks Hospital",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4868745,
+     34.1574993
+    ]
+   },
+   "properties": {
+    "osm_id": 575662823,
+    "osm_type": "way",
+    "name": "Encino Hospital Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5328659,
+     34.1708894
+    ]
+   },
+   "properties": {
+    "osm_id": 575679961,
+    "osm_type": "way",
+    "name": "Providence Tarzana Medical Center",
+    "operator": "Providence Health & Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.5338775,
+     34.2199668
+    ]
+   },
+   "properties": {
+    "osm_id": 575744232,
+    "osm_type": "way",
+    "name": "Northridge Hospital Medical Center",
+    "operator": "Dignity Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.463974,
+     34.194853
+    ]
+   },
+   "properties": {
+    "osm_id": 575745853,
+    "osm_type": "way",
+    "name": "Valley Presbyterian Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4307025,
+     34.2184926
+    ]
+   },
+   "properties": {
+    "osm_id": 575925131,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Panorama City Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3964691,
+     34.2401984
+    ]
+   },
+   "properties": {
+    "osm_id": 575947591,
+    "osm_type": "way",
+    "name": "Pacifica Hospital of the Valley",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7461178,
+     34.288963
+    ]
+   },
+   "properties": {
+    "osm_id": 576068018,
+    "osm_type": "way",
+    "name": "Adventist Health Simi Valley",
+    "operator": "Adventist Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8833608,
+     34.2076907
+    ]
+   },
+   "properties": {
+    "osm_id": 576092818,
+    "osm_type": "way",
+    "name": "Los Robles Hospital & Medical Center",
+    "operator": "HCA",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0671435,
+     33.8040465
+    ]
+   },
+   "properties": {
+    "osm_id": 586931790,
+    "osm_type": "way",
+    "name": "Los Alamitos Medical Center",
+    "operator": "TH Medical",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1493,
+     33.859699
+    ]
+   },
+   "properties": {
+    "osm_id": 586952902,
+    "osm_type": "way",
+    "name": "Lakewood Regional Medical Center",
+    "operator": "TH Medical",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1280685,
+     33.919245
+    ]
+   },
+   "properties": {
+    "osm_id": 586969342,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Downey Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8652697,
+     34.1277134
+    ]
+   },
+   "properties": {
+    "osm_id": 587007267,
+    "osm_type": "way",
+    "name": "Glendora Community Hospital",
+    "operator": "Prime Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8349606,
+     33.7830387
+    ]
+   },
+   "properties": {
+    "osm_id": 587040903,
+    "osm_type": "way",
+    "name": "Nexus Children's Hospital",
+    "operator": "Nexus Health Systems",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0039318,
+     33.9501542
+    ]
+   },
+   "properties": {
+    "osm_id": 587057728,
+    "osm_type": "way",
+    "name": "Whitter Hospital Medical Center",
+    "operator": "AHMC Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3747968,
+     34.0387124
+    ]
+   },
+   "properties": {
+    "osm_id": 587065742,
+    "osm_type": "way",
+    "name": "Kaiser Permanente West Los Angeles Medical Center",
+    "operator": "Kaiser Permanente",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1843725,
+     34.0233405
+    ]
+   },
+   "properties": {
+    "osm_id": 587066427,
+    "osm_type": "way",
+    "name": "East Los Angeles Doctors Hospital",
+    "operator": "Avanti Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4896733,
+     34.023876
+    ]
+   },
+   "properties": {
+    "osm_id": 635582390,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1188274,
+     33.7784908
+    ]
+   },
+   "properties": {
+    "osm_id": 665764610,
+    "osm_type": "way",
+    "name": "Tibor Rubin VA Medical Center",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3098161,
+     34.0034534
+    ]
+   },
+   "properties": {
+    "osm_id": 670261658,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4650798,
+     34.1925696
+    ]
+   },
+   "properties": {
+    "osm_id": 803156175,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4653028,
+     34.1905759
+    ]
+   },
+   "properties": {
+    "osm_id": 803156176,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.155205,
+     34.6646493
+    ]
+   },
+   "properties": {
+    "osm_id": 850735443,
+    "osm_type": "way",
+    "name": "Kaiser Permanente",
+    "operator": "Kaiser Permanente",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3081275,
+     33.7400082
+    ]
+   },
+   "properties": {
+    "osm_id": 866162351,
+    "osm_type": "way",
+    "name": "Los Palos Convalescent Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3081324,
+     33.739543
+    ]
+   },
+   "properties": {
+    "osm_id": 866162352,
+    "osm_type": "way",
+    "name": "Seacrest Convalescent Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8780087,
+     33.6559392
+    ]
+   },
+   "properties": {
+    "osm_id": 872846795,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4742859,
+     34.2995024
+    ]
+   },
+   "properties": {
+    "osm_id": 918098372,
+    "osm_type": "way",
+    "name": "Kaiser Permanente Sylmar Medical Office",
+    "operator": "Kaiser Permanente",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2474945,
+     34.0753467
+    ]
+   },
+   "properties": {
+    "osm_id": 951238266,
+    "osm_type": "way",
+    "name": "Barlow Respiratory Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9622629,
+     34.094717
+    ]
+   },
+   "properties": {
+    "osm_id": 1158554080,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4444328,
+     34.2761907
+    ]
+   },
+   "properties": {
+    "osm_id": 1210494871,
+    "osm_type": "way",
+    "name": "San Fernando Community Health Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1577476,
+     33.8651827
+    ]
+   },
+   "properties": {
+    "osm_id": 1230820645,
+    "osm_type": "way",
+    "name": "La Casa Psychiatric Health Facility",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0133461,
+     33.91638
+    ]
+   },
+   "properties": {
+    "osm_id": 1243259027,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0103058,
+     33.9197763
+    ]
+   },
+   "properties": {
+    "osm_id": 1244763559,
+    "osm_type": "way",
+    "name": "Mirada Hills Rehabilitation and Convalescent Hospital",
+    "operator": "Kaiser Permanente",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7009135,
+     34.2831599
+    ]
+   },
+   "properties": {
+    "osm_id": 1256718330,
+    "osm_type": "way",
+    "name": "New Breath Recovery",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1624464,
+     33.8844783
+    ]
+   },
+   "properties": {
+    "osm_id": 1318546956,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9381125,
+     34.1804714
+    ]
+   },
+   "properties": {
+    "osm_id": 1329295437,
+    "osm_type": "way",
+    "name": "Mary Health of the Sick Convalescent and Nursing Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1024583,
+     33.8845373
+    ]
+   },
+   "properties": {
+    "osm_id": 1359746684,
+    "osm_type": "way",
+    "name": "College Hospital Cerritos",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1843896,
+     34.023345
+    ]
+   },
+   "properties": {
+    "osm_id": 1493317409,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1878768,
+     34.0243641
+    ]
+   },
+   "properties": {
+    "osm_id": 1494456504,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4805894,
+     34.2465035
+    ]
+   },
+   "properties": {
+    "osm_id": 6678658,
+    "osm_type": "relation",
+    "name": "Veterans Affairs Sepulveda Ambulatory Care Center",
+    "operator": "Veterans Health Administration",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.738006,
+     34.1416391
+    ]
+   },
+   "properties": {
+    "osm_id": 6818634,
+    "osm_type": "relation",
+    "name": "Behavioral Neuroscience Institute",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.083175,
+     34.1495965
+    ]
+   },
+   "properties": {
+    "osm_id": 8032981,
+    "osm_type": "relation",
+    "name": "Kaiser Permanente",
+    "operator": "Kaiser Permanente",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8553587,
+     33.6626202
+    ]
+   },
+   "properties": {
+    "osm_id": 16180887,
+    "osm_type": "relation",
+    "name": "UCI Health Medical Campus",
+    "operator": "University of California - Irvine",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4485166,
+     34.3265743
+    ]
+   },
+   "properties": {
+    "osm_id": 17027769,
+    "osm_type": "relation",
+    "name": "Olive View\u2013UCLA Medical Center",
+    "operator": "Los Angeles County",
+    "emergency": "yes"
+   }
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+  "metro": "sfbay",
+  "tiers": {
+    "public_service": {
+      "0.25": {
+        "none": {
+          "mean_dA_pct_of_base": 1.537018829583747,
+          "low_income_dA_pct_of_base": 0.698225707063725,
+          "ci_dA_vs_income": 0.22001958513174616
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 1.8397604157034824,
+          "low_income_dA_pct_of_base": 1.6829315595314587,
+          "ci_dA_vs_income": 0.08138519009029713
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 2.392003755809909,
+          "low_income_dA_pct_of_base": 1.6829315595314587,
+          "ci_dA_vs_income": 0.11179364326986907
+        }
+      },
+      "0.5": {
+        "none": {
+          "mean_dA_pct_of_base": 1.537018829583747,
+          "low_income_dA_pct_of_base": 0.698225707063725,
+          "ci_dA_vs_income": 0.22001958513174616
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 2.384747251843768,
+          "low_income_dA_pct_of_base": 3.4555711692511655,
+          "ci_dA_vs_income": -0.08979684565834664
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 3.6257969196306044,
+          "low_income_dA_pct_of_base": 3.4555711692511655,
+          "ci_dA_vs_income": 0.009692572587631993
+        },
+        "change_in_ci_interval": {
+          "means_tested": {
+            "estimate": -0.3098164307900928,
+            "low": -0.3277022092336643,
+            "high": -0.29002766860359597
+          },
+          "universal": {
+            "estimate": -0.21032701254411418,
+            "low": -0.22410508190555053,
+            "high": -0.19847925239921402
+          }
+        }
+      },
+      "0.75": {
+        "none": {
+          "mean_dA_pct_of_base": 1.537018829583747,
+          "low_income_dA_pct_of_base": 0.698225707063725,
+          "ci_dA_vs_income": 0.22001958513174616
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 3.1938420725463894,
+          "low_income_dA_pct_of_base": 6.08725588544373,
+          "ci_dA_vs_income": -0.2432713102316015
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 5.25521339439694,
+          "low_income_dA_pct_of_base": 6.08725588544373,
+          "ci_dA_vs_income": -0.07275438996279478
+        }
+      }
+    },
+    "long_run": {
+      "0.25": {
+        "none": {
+          "mean_dA_pct_of_base": 0.04092176808555252,
+          "low_income_dA_pct_of_base": 0.0004209844273248241,
+          "ci_dA_vs_income": 0.7486073220106672
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 0.04130411701688079,
+          "low_income_dA_pct_of_base": 0.0016646233841968439,
+          "ci_dA_vs_income": 0.7369908025983688
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 0.16547175880881634,
+          "low_income_dA_pct_of_base": 0.0016646233841968439,
+          "ci_dA_vs_income": 0.6286166039295551
+        }
+      },
+      "0.5": {
+        "none": {
+          "mean_dA_pct_of_base": 0.04092176808555252,
+          "low_income_dA_pct_of_base": 0.0004209844273248241,
+          "ci_dA_vs_income": 0.7486073220106672
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 0.0655106477402511,
+          "low_income_dA_pct_of_base": 0.08039947040919526,
+          "ci_dA_vs_income": 0.27568520610311326
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 0.6553214613641958,
+          "low_income_dA_pct_of_base": 0.08039947040919526,
+          "ci_dA_vs_income": 0.41043709970866965
+        }
+      },
+      "0.75": {
+        "none": {
+          "mean_dA_pct_of_base": 0.04092176808555252,
+          "low_income_dA_pct_of_base": 0.0004209844273248241,
+          "ci_dA_vs_income": 0.7486073220106672
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 0.5921762669575981,
+          "low_income_dA_pct_of_base": 1.7934469713618784,
+          "ci_dA_vs_income": -0.5069497768538694
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 2.4757354332478396,
+          "low_income_dA_pct_of_base": 1.7934469713618784,
+          "ci_dA_vs_income": 0.10312950381754091
+        }
+      }
+    },
+    "near_term": {
+      "0.25": {
+        "none": {
+          "mean_dA_pct_of_base": 0.0003507269325806771,
+          "low_income_dA_pct_of_base": 0.00029622566921004817,
+          "ci_dA_vs_income": 0.1596435137365383
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 0.0003559173959333635,
+          "low_income_dA_pct_of_base": 0.00031310831723313184,
+          "ci_dA_vs_income": 0.14934956055543488
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 0.0016395435647300698,
+          "low_income_dA_pct_of_base": 0.00031310831723313184,
+          "ci_dA_vs_income": 0.7035254542169345
+        }
+      },
+      "0.5": {
+        "none": {
+          "mean_dA_pct_of_base": 0.0003507269325806771,
+          "low_income_dA_pct_of_base": 0.00029622566921004817,
+          "ci_dA_vs_income": 0.1596435137365383
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 0.0003770767664045004,
+          "low_income_dA_pct_of_base": 0.000381931884568281,
+          "ci_dA_vs_income": 0.10777749069756438
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 0.03211799677298874,
+          "low_income_dA_pct_of_base": 0.000381931884568281,
+          "ci_dA_vs_income": 0.7623482086006623
+        }
+      },
+      "0.75": {
+        "none": {
+          "mean_dA_pct_of_base": 0.0003507269325806771,
+          "low_income_dA_pct_of_base": 0.00029622566921004817,
+          "ci_dA_vs_income": 0.1596435137365383
+        },
+        "means_tested": {
+          "mean_dA_pct_of_base": 0.01801884294367022,
+          "low_income_dA_pct_of_base": 0.05776403992356822,
+          "ci_dA_vs_income": -0.4939523667146491
+        },
+        "universal": {
+          "mean_dA_pct_of_base": 0.5833741487040616,
+          "low_income_dA_pct_of_base": 0.05776403992356822,
+          "ci_dA_vs_income": 0.4331612182165377
+        }
+      }
+    }
+  },
+  "model_variants": {
+    "baseline": {
+      "none": {
+        "mean_dA_pct_of_base": 1.537018829583747,
+        "low_income_dA_pct_of_base": 0.698225707063725,
+        "ci_dA_vs_income": 0.22001958513174616
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 2.384747251843768,
+        "low_income_dA_pct_of_base": 3.4555711692511655,
+        "ci_dA_vs_income": -0.08979684565834664
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 3.6257969196306044,
+        "low_income_dA_pct_of_base": 3.4555711692511655,
+        "ci_dA_vs_income": 0.009692572587631993
+      }
+    },
+    "terminal_-3min": {
+      "none": {
+        "mean_dA_pct_of_base": 0.8494485945255108,
+        "low_income_dA_pct_of_base": 0.29225079787418434,
+        "ci_dA_vs_income": 0.2636814266974413
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 1.4127046261744762,
+        "low_income_dA_pct_of_base": 2.12430372303147,
+        "ci_dA_vs_income": -0.09534332034146345
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 2.329206127091491,
+        "low_income_dA_pct_of_base": 2.12430372303147,
+        "ci_dA_vs_income": 0.022727916368201158
+      }
+    },
+    "terminal_+3min": {
+      "none": {
+        "mean_dA_pct_of_base": 2.5859627995212806,
+        "low_income_dA_pct_of_base": 1.4263243639538323,
+        "ci_dA_vs_income": 0.18130616927906273
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 3.770234878552277,
+        "low_income_dA_pct_of_base": 5.278342438453889,
+        "ci_dA_vs_income": -0.08478712801542036
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 5.3514303893936415,
+        "low_income_dA_pct_of_base": 5.278342438453889,
+        "ci_dA_vs_income": -0.0009859228884697834
+      }
+    },
+    "congestion_-20%": {
+      "none": {
+        "mean_dA_pct_of_base": 1.5224032085742942,
+        "low_income_dA_pct_of_base": 0.7038834841433932,
+        "ci_dA_vs_income": 0.21382351227865923
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 2.380629492130896,
+        "low_income_dA_pct_of_base": 3.494291173522816,
+        "ci_dA_vs_income": -0.09800469040016298
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 3.629984975298757,
+        "low_income_dA_pct_of_base": 3.494291173522816,
+        "ci_dA_vs_income": 0.0043775585752290295
+      }
+    },
+    "congestion_+20%": {
+      "none": {
+        "mean_dA_pct_of_base": 1.5808988200319543,
+        "low_income_dA_pct_of_base": 0.7255340612670282,
+        "ci_dA_vs_income": 0.2206158258406565
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 2.4191914110854604,
+        "low_income_dA_pct_of_base": 3.453120015271209,
+        "ci_dA_vs_income": -0.08210746452474083
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 3.6494250635881498,
+        "low_income_dA_pct_of_base": 3.453120015271209,
+        "ci_dA_vs_income": 0.014003182059921553
+      }
+    },
+    "security_4min": {
+      "none": {
+        "mean_dA_pct_of_base": 3.0338412476216012,
+        "low_income_dA_pct_of_base": 1.7674855578596314,
+        "ci_dA_vs_income": 0.16925693902428113
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 4.337154901857699,
+        "low_income_dA_pct_of_base": 6.006680441445301,
+        "ci_dA_vs_income": -0.08301458841406499
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 6.0321687564757305,
+        "low_income_dA_pct_of_base": 6.006680441445301,
+        "ci_dA_vs_income": -0.0037470669499331927
+      }
+    },
+    "security_12min": {
+      "none": {
+        "mean_dA_pct_of_base": 0.6853540946960971,
+        "low_income_dA_pct_of_base": 0.20987657379213354,
+        "ci_dA_vs_income": 0.2806112431561322
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 1.1672314060492077,
+        "low_income_dA_pct_of_base": 1.7772443568001635,
+        "ci_dA_vs_income": -0.09588652048281172
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 1.9845845091193823,
+        "low_income_dA_pct_of_base": 1.7772443568001635,
+        "ci_dA_vs_income": 0.027572304659472194
+      }
+    },
+    "wait_3min": {
+      "none": {
+        "mean_dA_pct_of_base": 1.0972159818117635,
+        "low_income_dA_pct_of_base": 0.4296267668588464,
+        "ci_dA_vs_income": 0.24466108018037971
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 1.7713393225792347,
+        "low_income_dA_pct_of_base": 2.6222994268887385,
+        "ci_dA_vs_income": -0.09324750248179167
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 2.820115562285101,
+        "low_income_dA_pct_of_base": 2.6222994268887385,
+        "ci_dA_vs_income": 0.017196607694012548
+      }
+    },
+    "wait_6min": {
+      "none": {
+        "mean_dA_pct_of_base": 0.5797983065272948,
+        "low_income_dA_pct_of_base": 0.16192720708611644,
+        "ci_dA_vs_income": 0.2938196034076049
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 1.0048984110440062,
+        "low_income_dA_pct_of_base": 1.5446198399928277,
+        "ci_dA_vs_income": -0.09577189973123627
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 1.7532004957519363,
+        "low_income_dA_pct_of_base": 1.5446198399928277,
+        "ci_dA_vs_income": 0.03189143498340329
+      }
+    },
+    "vot_share_0.35": {
+      "none": {
+        "mean_dA_pct_of_base": 0.6952906499210343,
+        "low_income_dA_pct_of_base": 0.09496505799524735,
+        "ci_dA_vs_income": 0.3985124753011987
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 1.2456968594454372,
+        "low_income_dA_pct_of_base": 1.8852318749858366,
+        "ci_dA_vs_income": -0.04594693455440038
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 2.5441932455762664,
+        "low_income_dA_pct_of_base": 1.8852318749858366,
+        "ci_dA_vs_income": 0.09625772467878477
+      }
+    },
+    "vot_share_1.0": {
+      "none": {
+        "mean_dA_pct_of_base": 3.6257969196306044,
+        "low_income_dA_pct_of_base": 3.4555711692511655,
+        "ci_dA_vs_income": 0.009692572587631993
+      },
+      "means_tested": {
+        "mean_dA_pct_of_base": 4.434891740333225,
+        "low_income_dA_pct_of_base": 6.08725588544373,
+        "ci_dA_vs_income": -0.11898465527864538
+      },
+      "universal": {
+        "mean_dA_pct_of_base": 5.25521339439694,
+        "low_income_dA_pct_of_base": 6.08725588544373,
+        "ci_dA_vs_income": -0.07275438996279478
+      }
+    }
+  }
+}

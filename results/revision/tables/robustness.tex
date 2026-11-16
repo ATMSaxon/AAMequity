@@ -1,0 +1,16 @@
+\begin{table}[!htbp]
+\centering
+\caption{Robustness at the public-service fare, full candidate network. Ranges over the main specification and 18 variants: calibrated ground times perturbed (congestion multipliers $\pm$20\%, free flow, terminal time $\pm$3~min) and one accessibility parameter changed at a time (distance decay, trip-length limits, cruise speed, security time, passenger wait, opportunity measure). Burden concentration over 500 random draws of the component weights (95\% range), for the network selected under the uniform value of time. Last column: realised gain of the surrogate-optimal network relative to a greedy network built on the realised objective. VOT: value of time.}
+\label{tab:robustness}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{llllll}
+\toprule
+Metro & CI (gain), uniform VOT & CI (gain), income VOT & Gain (\%) & CI (burden) & Surrogate/greedy (\%) \\
+\midrule
+LA & $-0.12$ to $-0.06$ & $+0.27$ to $+0.45$ & 0.53--3.22 & $-0.58$ to $-0.37$ & 99 \\
+DFW & $+0.06$ to $+0.24$ & $+0.67$ to $+0.76$ & 0.020--0.38 & $-0.26$ to $-0.07$ & 102 \\
+SF Bay & $-0.20$ to $-0.11$ & $+0.14$ to $+0.29$ & 0.47--3.03 & $-0.37$ to $-0.19$ & 93 \\
+NYC & $+0.02$ to $+0.13$ & $+0.38$ to $+0.51$ & 0.46--2.39 & $-0.11$ to $-0.09$ & 100 \\
+\bottomrule
+\end{tabular}
+\end{table}

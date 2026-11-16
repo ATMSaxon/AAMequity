@@ -1,0 +1,14 @@
+{
+  "metro": "dfw",
+  "n_pairs_attempted": 76,
+  "n_pairs_converged": 75,
+  "euclid_22kmh_min_p50": 76.26669383593432,
+  "network_congested_min_p50": 34.77815865523916,
+  "pearson_r": 0.8235219220238039,
+  "spearman_r": 0.8143385490753912,
+  "ols_intercept_a_min": 8.231163784628505,
+  "ols_slope_b": 0.3518129214484689,
+  "rmse_min": 45.76613044007897,
+  "mean_bias_min_network_minus_euclid": -41.25618929361161,
+  "interpretation": "If pearson r > 0.85 and ols_slope_b in [0.8, 1.2] and rmse < 10 min, the Euclidean \u00d7 22 km/h \u00d7 1.6 approximation is defensible relative to OSMnx network shortest paths for the metro's central-trip range (5-50 km)."
+}

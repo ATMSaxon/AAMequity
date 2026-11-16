@@ -1,0 +1,3422 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8798439,
+     40.8800853
+    ]
+   },
+   "properties": {
+    "osm_id": 357571909,
+    "osm_type": "node",
+    "name": "Montefiore Medical Center West Campus Moses Division Hospital",
+    "operator": "Montefiore Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9677045,
+     41.0492869
+    ]
+   },
+   "properties": {
+    "osm_id": 357582607,
+    "osm_type": "node",
+    "name": "Rockland Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8388275,
+     40.8464723
+    ]
+   },
+   "properties": {
+    "osm_id": 357607640,
+    "osm_type": "node",
+    "name": "New York City Children's Center Bronx Campus",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9690438,
+     41.0466794
+    ]
+   },
+   "properties": {
+    "osm_id": 357607671,
+    "osm_type": "node",
+    "name": "Rockland Children's Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9322574,
+     40.7865276
+    ]
+   },
+   "properties": {
+    "osm_id": 357607688,
+    "osm_type": "node",
+    "name": "Kirby Forensic Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8813965,
+     40.8803581
+    ]
+   },
+   "properties": {
+    "osm_id": 357611253,
+    "osm_type": "node",
+    "name": "North Central Bronx Hospital",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9279094,
+     40.7851459
+    ]
+   },
+   "properties": {
+    "osm_id": 357616245,
+    "osm_type": "node",
+    "name": "George Rosenfeld Center for Recovery",
+    "operator": "Odyssey House",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7083333,
+     40.7538889
+    ]
+   },
+   "properties": {
+    "osm_id": 357616936,
+    "osm_type": "node",
+    "name": "Cohen\u2019s Children\u2019s Medical Center",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0008333,
+     40.7377778
+    ]
+   },
+   "properties": {
+    "osm_id": 357620244,
+    "osm_type": "node",
+    "name": "Lenox Health Greenwich Village",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9529748,
+     40.7697091
+    ]
+   },
+   "properties": {
+    "osm_id": 357642730,
+    "osm_type": "node",
+    "name": "Gracie Square Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9553606,
+     40.7620381
+    ]
+   },
+   "properties": {
+    "osm_id": 357642735,
+    "osm_type": "node",
+    "name": "Rockefeller University Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9845807,
+     40.7318799
+    ]
+   },
+   "properties": {
+    "osm_id": 357642745,
+    "osm_type": "node",
+    "name": "New York Eye and Ear Infirmary of Mount Sinai",
+    "operator": "Mount Sinai",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.963647,
+     40.764233
+    ]
+   },
+   "properties": {
+    "osm_id": 357642750,
+    "osm_type": "node",
+    "name": "Manhattan Eye Ear and Throat Hospital",
+    "operator": "Northwell Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8605021,
+     40.7536455
+    ]
+   },
+   "properties": {
+    "osm_id": 357652216,
+    "osm_type": "node",
+    "name": "Plaza del Sol Family Health Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1718258,
+     40.7957041
+    ]
+   },
+   "properties": {
+    "osm_id": 357744420,
+    "osm_type": "node",
+    "name": "Essex County Isolation Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5347476,
+     41.0651481
+    ]
+   },
+   "properties": {
+    "osm_id": 359268386,
+    "osm_type": "node",
+    "name": "Tully Health Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9717941,
+     40.7464784
+    ]
+   },
+   "properties": {
+    "osm_id": 1581175993,
+    "osm_type": "node",
+    "name": "NYU Langone Outpatient Surgery Center",
+    "operator": "NYU Langone Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9893444,
+     40.7401034
+    ]
+   },
+   "properties": {
+    "osm_id": 2555136030,
+    "osm_type": "node",
+    "name": "Aimee Raupp Wellness & Fertility Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9687909,
+     40.7609528
+    ]
+   },
+   "properties": {
+    "osm_id": 2717876703,
+    "osm_type": "node",
+    "name": "MRHS Primary Care",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1083017,
+     40.9967602
+    ]
+   },
+   "properties": {
+    "osm_id": 2805194404,
+    "osm_type": "node",
+    "name": "Valley Pediatric Associates",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.878898,
+     40.8803725
+    ]
+   },
+   "properties": {
+    "osm_id": 2810045562,
+    "osm_type": "node",
+    "name": "Children's Hospital at Montefiore",
+    "operator": "Montefiore Medical Center",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8610822,
+     40.8937765
+    ]
+   },
+   "properties": {
+    "osm_id": 2822777418,
+    "osm_type": "node",
+    "name": "Montefiore Medical Center - Wakefield Campus",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7833843,
+     40.7571143
+    ]
+   },
+   "properties": {
+    "osm_id": 2837699748,
+    "osm_type": "node",
+    "name": "Quest Diagnostics",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7088257,
+     40.7543321
+    ]
+   },
+   "properties": {
+    "osm_id": 5366311662,
+    "osm_type": "node",
+    "name": "Katz Women's Hospital",
+    "operator": "Northwell Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8049373,
+     41.0860492
+    ]
+   },
+   "properties": {
+    "osm_id": 5408870771,
+    "osm_type": "node",
+    "name": "Maria Fareri Children's Hospital",
+    "operator": "Westchester Medical Center Health Network",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9526899,
+     40.765164
+    ]
+   },
+   "properties": {
+    "osm_id": 5421562461,
+    "osm_type": "node",
+    "name": "Hospital for Special Surgery",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9342033,
+     40.804048
+    ]
+   },
+   "properties": {
+    "osm_id": 5599581921,
+    "osm_type": "node",
+    "name": "New York Proton Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9605551,
+     40.6064031
+    ]
+   },
+   "properties": {
+    "osm_id": 5784468453,
+    "osm_type": "node",
+    "name": "cardiology",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9945286,
+     40.6016008
+    ]
+   },
+   "properties": {
+    "osm_id": 6157505285,
+    "osm_type": "node",
+    "name": "Cohen Children's Northwell Health",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1184489,
+     40.8640182
+    ]
+   },
+   "properties": {
+    "osm_id": 7011939647,
+    "osm_type": "node",
+    "name": "North Hudson Community Action Corporation",
+    "operator": "North Hudson",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7261034,
+     41.0099869
+    ]
+   },
+   "properties": {
+    "osm_id": 7096368072,
+    "osm_type": "node",
+    "name": "Hospital For Special Surgery",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.839837,
+     40.9116455
+    ]
+   },
+   "properties": {
+    "osm_id": 7278441828,
+    "osm_type": "node",
+    "name": "Westchester Women's Medical Healthcare",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9582489,
+     40.718289
+    ]
+   },
+   "properties": {
+    "osm_id": 8105845200,
+    "osm_type": "node",
+    "name": "Mount Sinai Doctors - Williamsburg",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2460139,
+     40.9576992
+    ]
+   },
+   "properties": {
+    "osm_id": 8653216794,
+    "osm_type": "node",
+    "name": "Comprehensive Health Care",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2269647,
+     40.9295208
+    ]
+   },
+   "properties": {
+    "osm_id": 8696653777,
+    "osm_type": "node",
+    "name": "University Spine Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2046105,
+     40.9368051
+    ]
+   },
+   "properties": {
+    "osm_id": 8754960311,
+    "osm_type": "node",
+    "name": "Fresenius Medical Care at Preakness Healthcare Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2046405,
+     40.9369693
+    ]
+   },
+   "properties": {
+    "osm_id": 8754960317,
+    "osm_type": "node",
+    "name": "Ancelmo Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2030421,
+     40.9358328
+    ]
+   },
+   "properties": {
+    "osm_id": 8763501318,
+    "osm_type": "node",
+    "name": "Preakness healthcare",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2492247,
+     40.8890355
+    ]
+   },
+   "properties": {
+    "osm_id": 9058036347,
+    "osm_type": "node",
+    "name": "Willowbrook Pediatrics",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8399746,
+     40.8465453
+    ]
+   },
+   "properties": {
+    "osm_id": 9703695879,
+    "osm_type": "node",
+    "name": "Bronx Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9942217,
+     40.6978843
+    ]
+   },
+   "properties": {
+    "osm_id": 9885158918,
+    "osm_type": "node",
+    "name": "Downtown Pain Physicians Of Brooklyn",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9927766,
+     40.768828
+    ]
+   },
+   "properties": {
+    "osm_id": 10363943866,
+    "osm_type": "node",
+    "name": "Mount Sinai",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.172031,
+     40.9813734
+    ]
+   },
+   "properties": {
+    "osm_id": 10897760902,
+    "osm_type": "node",
+    "name": "Cristian Health - Ramapo Ridge Psychiatric Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0574789,
+     40.7852797
+    ]
+   },
+   "properties": {
+    "osm_id": 10897792586,
+    "osm_type": "node",
+    "name": "Hudson County Meadowview Psychiatric Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4214498,
+     40.6854471
+    ]
+   },
+   "properties": {
+    "osm_id": 10900676795,
+    "osm_type": "node",
+    "name": "Brunswick Hospital Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955956,
+     40.7645657
+    ]
+   },
+   "properties": {
+    "osm_id": 12095092700,
+    "osm_type": "node",
+    "name": "New York Presbyterian Alexandra Cohen Hospital for Women and Newborns",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0910445,
+     40.5880082
+    ]
+   },
+   "properties": {
+    "osm_id": 12168864134,
+    "osm_type": "node",
+    "name": "Staten Island University Hospital",
+    "operator": "Northwell Health",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8071084,
+     40.9883643
+    ]
+   },
+   "properties": {
+    "osm_id": 12212003598,
+    "osm_type": "node",
+    "name": "Westchester Medical Weight Loss Doctor",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0058746,
+     40.7100546
+    ]
+   },
+   "properties": {
+    "osm_id": 12723835209,
+    "osm_type": "node",
+    "name": "Liberty Endoscopy Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.011705,
+     40.6555782
+    ]
+   },
+   "properties": {
+    "osm_id": 12766117165,
+    "osm_type": "node",
+    "name": "Hospital for Special Surgery",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9637818,
+     40.7616923
+    ]
+   },
+   "properties": {
+    "osm_id": 12771176929,
+    "osm_type": "node",
+    "name": "Micheal's Optical",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0113157,
+     40.9825689
+    ]
+   },
+   "properties": {
+    "osm_id": 12823932119,
+    "osm_type": "node",
+    "name": "Smile Loft Dentistry - Westwood",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1401627,
+     40.9206244
+    ]
+   },
+   "properties": {
+    "osm_id": 13002614940,
+    "osm_type": "node",
+    "name": "Simple Smiles Dentistry of Paterson",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9818704,
+     40.7561643
+    ]
+   },
+   "properties": {
+    "osm_id": 13287358562,
+    "osm_type": "node",
+    "name": "Manhattan Gastroenterology \u2013 Midtown Manhattan",
+    "operator": "Dr. Shawn Khodadadian, MD",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2499855,
+     40.8034411
+    ]
+   },
+   "properties": {
+    "osm_id": 13619239388,
+    "osm_type": "node",
+    "name": "Urgent Care West Orange",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0714488,
+     40.9646966
+    ]
+   },
+   "properties": {
+    "osm_id": 13666004401,
+    "osm_type": "node",
+    "name": "The Valley Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.071905,
+     40.9653342
+    ]
+   },
+   "properties": {
+    "osm_id": 13695439901,
+    "osm_type": "node",
+    "name": "Emergency Room at Valley Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0262738,
+     41.0510961
+    ]
+   },
+   "properties": {
+    "osm_id": 13733485701,
+    "osm_type": "node",
+    "name": "Valley medical group center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0340099,
+     40.7413556
+    ]
+   },
+   "properties": {
+    "osm_id": 27080832,
+    "osm_type": "way",
+    "name": "Hoboken University Medical Center",
+    "operator": "CarePoint Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0848903,
+     40.5852396
+    ]
+   },
+   "properties": {
+    "osm_id": 33991436,
+    "osm_type": "way",
+    "name": "Staten Island University Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0800209,
+     40.5826208
+    ]
+   },
+   "properties": {
+    "osm_id": 33992484,
+    "osm_type": "way",
+    "name": "Staten Island Children and Youth Day Treatment Center and South Beach Psychiatric Center",
+    "operator": "New York State Office of Mental Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1004261,
+     40.9836228
+    ]
+   },
+   "properties": {
+    "osm_id": 68611610,
+    "osm_type": "way",
+    "name": "The Valley Hospital",
+    "operator": "Valley Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6424118,
+     40.7408293
+    ]
+   },
+   "properties": {
+    "osm_id": 88646092,
+    "osm_type": "way",
+    "name": "NYU Winthrop Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9420005,
+     40.8419985
+    ]
+   },
+   "properties": {
+    "osm_id": 137285662,
+    "osm_type": "way",
+    "name": "Columbia University Irving Medical Center",
+    "operator": "Columbia University",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9768987,
+     40.7370721
+    ]
+   },
+   "properties": {
+    "osm_id": 146967028,
+    "osm_type": "way",
+    "name": "Veteran Affairs New York Harbor Healthcare System",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9752246,
+     40.7389726
+    ]
+   },
+   "properties": {
+    "osm_id": 150365209,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals/Bellevue",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9736761,
+     40.7420343
+    ]
+   },
+   "properties": {
+    "osm_id": 150368085,
+    "osm_type": "way",
+    "name": "NYU Langone Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0241204,
+     40.6078957
+    ]
+   },
+   "properties": {
+    "osm_id": 167481919,
+    "osm_type": "way",
+    "name": "VA New York Harbor Healthcare System Brooklyn Campus",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9245464,
+     40.816706
+    ]
+   },
+   "properties": {
+    "osm_id": 182930790,
+    "osm_type": "way",
+    "name": "Lincoln Hospital",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5080883,
+     40.8109721
+    ]
+   },
+   "properties": {
+    "osm_id": 198466612,
+    "osm_type": "way",
+    "name": "Syosset Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9648962,
+     40.5857482
+    ]
+   },
+   "properties": {
+    "osm_id": 219041270,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals: South Brooklyn Health",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0553081,
+     40.8837197
+    ]
+   },
+   "properties": {
+    "osm_id": 245391851,
+    "osm_type": "way",
+    "name": "Hackensack University Medical Center",
+    "operator": "Hackensack Meridian Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0100249,
+     40.8829907
+    ]
+   },
+   "properties": {
+    "osm_id": 245394269,
+    "osm_type": "way",
+    "name": "Holy Name Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9685644,
+     40.9043293
+    ]
+   },
+   "properties": {
+    "osm_id": 245395693,
+    "osm_type": "way",
+    "name": "Englewood Hospital Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.165469,
+     40.9035987
+    ]
+   },
+   "properties": {
+    "osm_id": 245395812,
+    "osm_type": "way",
+    "name": "St. Joseph\u2019s Regional Medical Center",
+    "operator": "St. Joseph\u2019s Healthcare System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9829907,
+     40.7344007
+    ]
+   },
+   "properties": {
+    "osm_id": 249663131,
+    "osm_type": "way",
+    "name": "NYU Langone Orthopedic Hospital",
+    "operator": "NYU Langone Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9484847,
+     40.6139043
+    ]
+   },
+   "properties": {
+    "osm_id": 249749008,
+    "osm_type": "way",
+    "name": "Maimonides Midwood Community Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9429014,
+     40.6186464
+    ]
+   },
+   "properties": {
+    "osm_id": 249831230,
+    "osm_type": "way",
+    "name": "Mount Sinai Brooklyn",
+    "operator": "Mount Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.979708,
+     40.7516073
+    ]
+   },
+   "properties": {
+    "osm_id": 265875652,
+    "osm_type": "way",
+    "name": "Manhattan Restorative Health Sciences",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9538776,
+     40.7900542
+    ]
+   },
+   "properties": {
+    "osm_id": 266941944,
+    "osm_type": "way",
+    "name": "Mount Sinai Kravis Children's Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2492063,
+     40.8890675
+    ]
+   },
+   "properties": {
+    "osm_id": 274201776,
+    "osm_type": "way",
+    "name": "St Joseph Hospital",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9414477,
+     40.8397497
+    ]
+   },
+   "properties": {
+    "osm_id": 275048181,
+    "osm_type": "way",
+    "name": "Morgan Stanley Children's Hospital",
+    "operator": "NewYork-Presbyterian Hospital",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9038508,
+     40.8704051
+    ]
+   },
+   "properties": {
+    "osm_id": 276330982,
+    "osm_type": "way",
+    "name": "Fordham Nursing and Rehabilitation Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987839,
+     40.7131856
+    ]
+   },
+   "properties": {
+    "osm_id": 278254355,
+    "osm_type": "way",
+    "name": "Gouverneur Health Medical Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.903003,
+     40.7416906
+    ]
+   },
+   "properties": {
+    "osm_id": 280336215,
+    "osm_type": "way",
+    "name": "Queens Blvd Extended Care",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8891495,
+     40.7482978
+    ]
+   },
+   "properties": {
+    "osm_id": 280533350,
+    "osm_type": "way",
+    "name": "Rest Medical Care",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7813201,
+     40.69376
+    ]
+   },
+   "properties": {
+    "osm_id": 282906069,
+    "osm_type": "way",
+    "name": "Jamaica Hospital Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9299445,
+     40.7887991
+    ]
+   },
+   "properties": {
+    "osm_id": 299598608,
+    "osm_type": "way",
+    "name": "Manhattan Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4162159,
+     40.8794013
+    ]
+   },
+   "properties": {
+    "osm_id": 312657250,
+    "osm_type": "way",
+    "name": "Huntington Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6217962,
+     40.8706335
+    ]
+   },
+   "properties": {
+    "osm_id": 328442653,
+    "osm_type": "way",
+    "name": "Glen Cove Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8860581,
+     40.7449815
+    ]
+   },
+   "properties": {
+    "osm_id": 361757084,
+    "osm_type": "way",
+    "name": "Elmhurst Hospital",
+    "operator": "NYC Health + Hospitals/",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.979145,
+     40.6678372
+    ]
+   },
+   "properties": {
+    "osm_id": 362875270,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian Brooklyn Methodist Hospital",
+    "operator": "NewYork-Presbyterian Hospital",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6304088,
+     40.6517899
+    ]
+   },
+   "properties": {
+    "osm_id": 364529078,
+    "osm_type": "way",
+    "name": "Mount Sinai South Nassau",
+    "operator": "Mount Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9530515,
+     40.7897421
+    ]
+   },
+   "properties": {
+    "osm_id": 395304938,
+    "osm_type": "way",
+    "name": "The Mount Sinai Hospital",
+    "operator": "Mount Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0508589,
+     40.7152504
+    ]
+   },
+   "properties": {
+    "osm_id": 405835399,
+    "osm_type": "way",
+    "name": "Jersey City Medical Center",
+    "operator": "RWJBarnabas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1742477,
+     40.7440252
+    ]
+   },
+   "properties": {
+    "osm_id": 414494633,
+    "osm_type": "way",
+    "name": "Saint Michael's Medical Center",
+    "operator": "Prime Healthcare Services",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2353624,
+     40.7524397
+    ]
+   },
+   "properties": {
+    "osm_id": 425525335,
+    "osm_type": "way",
+    "name": "VA New Jersey Health Care System",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2777203,
+     40.7848135
+    ]
+   },
+   "properties": {
+    "osm_id": 427302931,
+    "osm_type": "way",
+    "name": "Kessler Institute for Rehabilitation",
+    "operator": "Kessler Institute",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2125408,
+     40.7101311
+    ]
+   },
+   "properties": {
+    "osm_id": 431043330,
+    "osm_type": "way",
+    "name": "Newark Beth Israel Medical Center",
+    "operator": "RWJBarnabas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6304492,
+     41.0342252
+    ]
+   },
+   "properties": {
+    "osm_id": 442101087,
+    "osm_type": "way",
+    "name": "Greenwich Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5524007,
+     41.0544503
+    ]
+   },
+   "properties": {
+    "osm_id": 442146105,
+    "osm_type": "way",
+    "name": "Stamford Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1768918,
+     40.7857786
+    ]
+   },
+   "properties": {
+    "osm_id": 445321962,
+    "osm_type": "way",
+    "name": "Clara Maass Medical Center",
+    "operator": "RWJBarnabas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1866481,
+     40.7726544
+    ]
+   },
+   "properties": {
+    "osm_id": 446140444,
+    "osm_type": "way",
+    "name": "Columbus Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1054784,
+     40.6360988
+    ]
+   },
+   "properties": {
+    "osm_id": 447327109,
+    "osm_type": "way",
+    "name": "Richmond University Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0757452,
+     40.6223928
+    ]
+   },
+   "properties": {
+    "osm_id": 447778011,
+    "osm_type": "way",
+    "name": "Bayley Seton Hospital",
+    "operator": "Richmond University Medical Center",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0735619,
+     40.7914091
+    ]
+   },
+   "properties": {
+    "osm_id": 451720059,
+    "osm_type": "way",
+    "name": "Hudson Regional Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95394,
+     40.7647343
+    ]
+   },
+   "properties": {
+    "osm_id": 458061825,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian / Weill Cornell Medical Center",
+    "operator": "NewYork-Presbyterian",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9957172,
+     40.7941183
+    ]
+   },
+   "properties": {
+    "osm_id": 458950443,
+    "osm_type": "way",
+    "name": "Palisades Medical Center",
+    "operator": "Hackensack Meridian Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.214259,
+     40.6589363
+    ]
+   },
+   "properties": {
+    "osm_id": 469743982,
+    "osm_type": "way",
+    "name": "Trinitas Regional Medical Center Williamson Campus",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1920688,
+     40.4058435
+    ]
+   },
+   "properties": {
+    "osm_id": 474443154,
+    "osm_type": "way",
+    "name": "Bayshore Community Hospital",
+    "operator": "Meridian Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8168335,
+     40.7555008
+    ]
+   },
+   "properties": {
+    "osm_id": 475327562,
+    "osm_type": "way",
+    "name": "Flushing Hospital Medical Center",
+    "operator": "Flushing Hospital Medical Center",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8915125,
+     40.9402051
+    ]
+   },
+   "properties": {
+    "osm_id": 475717961,
+    "osm_type": "way",
+    "name": "Park Care Pavilion",
+    "operator": "St. John's Riverside Hospital",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2035788,
+     40.9473814
+    ]
+   },
+   "properties": {
+    "osm_id": 484360687,
+    "osm_type": "way",
+    "name": "St. Joseph's Wayne Hospital",
+    "operator": "St. Joseph\u2019s Healthcare System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0622618,
+     40.9554586
+    ]
+   },
+   "properties": {
+    "osm_id": 484379234,
+    "osm_type": "way",
+    "name": "New Bridge Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0148985,
+     40.9850453
+    ]
+   },
+   "properties": {
+    "osm_id": 484382405,
+    "osm_type": "way",
+    "name": "Hackensack University Medical Center at Pascack Valley",
+    "operator": "Hackensack University Medical Center",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1379855,
+     40.859386
+    ]
+   },
+   "properties": {
+    "osm_id": 484426637,
+    "osm_type": "way",
+    "name": "St. Mary's General Hospital",
+    "operator": "Prime Healthcare",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2045728,
+     40.8112526
+    ]
+   },
+   "properties": {
+    "osm_id": 484447465,
+    "osm_type": "way",
+    "name": "Mountainside Hospital",
+    "operator": "Hackensack University Medical Center",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0499478,
+     40.7340193
+    ]
+   },
+   "properties": {
+    "osm_id": 484453822,
+    "osm_type": "way",
+    "name": "Christ Hospital",
+    "operator": "CarePoint Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8515684,
+     40.7290451
+    ]
+   },
+   "properties": {
+    "osm_id": 484551768,
+    "osm_type": "way",
+    "name": "Long Island Jewish Forest Hills",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2135441,
+     40.7545101
+    ]
+   },
+   "properties": {
+    "osm_id": 484561010,
+    "osm_type": "way",
+    "name": "East Orange General Hospital",
+    "operator": "Prospect Medical Holdings",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1126258,
+     40.6681264
+    ]
+   },
+   "properties": {
+    "osm_id": 484604257,
+    "osm_type": "way",
+    "name": "Bayonne Medical Center",
+    "operator": "CarePoint Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1976156,
+     40.6592513
+    ]
+   },
+   "properties": {
+    "osm_id": 484615941,
+    "osm_type": "way",
+    "name": "Trinitas Regional Medical Center New Point Campus",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9781584,
+     40.6682014
+    ]
+   },
+   "properties": {
+    "osm_id": 484631988,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian Brooklyn Center for Community Health",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2909063,
+     40.6131367
+    ]
+   },
+   "properties": {
+    "osm_id": 484637464,
+    "osm_type": "way",
+    "name": "Robert Wood Johnson University Hospital At Rahway",
+    "operator": "RWJ Barnabas Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2812233,
+     40.5191084
+    ]
+   },
+   "properties": {
+    "osm_id": 484641349,
+    "osm_type": "way",
+    "name": "Raritan Bay Medical Center",
+    "operator": "Hackensack Meridian Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7689092,
+     40.6896683
+    ]
+   },
+   "properties": {
+    "osm_id": 496513558,
+    "osm_type": "way",
+    "name": "Saint Albans Community Living Center",
+    "operator": "Veterans Health Administration",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9987799,
+     40.6394641
+    ]
+   },
+   "properties": {
+    "osm_id": 526963278,
+    "osm_type": "way",
+    "name": "Maimonides Medical Center",
+    "operator": "Maimonides Medical Center",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8396848,
+     40.8478138
+    ]
+   },
+   "properties": {
+    "osm_id": 527868089,
+    "osm_type": "way",
+    "name": "Bronx Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8434977,
+     40.8479992
+    ]
+   },
+   "properties": {
+    "osm_id": 527873169,
+    "osm_type": "way",
+    "name": "Calvary Hospital - Bronx Campus",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8468256,
+     40.854608
+    ]
+   },
+   "properties": {
+    "osm_id": 527885410,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals/Jacobi",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8460931,
+     40.8495644
+    ]
+   },
+   "properties": {
+    "osm_id": 527886111,
+    "osm_type": "way",
+    "name": "Jack D. Weiler Hospital",
+    "operator": "Montefiore Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4788338,
+     40.7749408
+    ]
+   },
+   "properties": {
+    "osm_id": 555011040,
+    "osm_type": "way",
+    "name": "Plainview Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7105414,
+     40.7514281
+    ]
+   },
+   "properties": {
+    "osm_id": 556302082,
+    "osm_type": "way",
+    "name": "Zucker Hillside Hospital",
+    "operator": "Northwell Health",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9260731,
+     41.0958876
+    ]
+   },
+   "properties": {
+    "osm_id": 560823207,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8063817,
+     41.0873495
+    ]
+   },
+   "properties": {
+    "osm_id": 560862638,
+    "osm_type": "way",
+    "name": "Westchester Medical Center",
+    "operator": "Westchester Medical Center Health Network",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7997835,
+     41.0748082
+    ]
+   },
+   "properties": {
+    "osm_id": 560862653,
+    "osm_type": "way",
+    "name": "Blythedale Children's Hospital",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7518934,
+     41.0163707
+    ]
+   },
+   "properties": {
+    "osm_id": 560874727,
+    "osm_type": "way",
+    "name": "Burke Rehabilitation Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7524331,
+     41.0262802
+    ]
+   },
+   "properties": {
+    "osm_id": 560874728,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian Westchester Division",
+    "operator": "NewYork-Presbyterian Hospital",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.769414,
+     41.0258201
+    ]
+   },
+   "properties": {
+    "osm_id": 560885677,
+    "osm_type": "way",
+    "name": "White Plains Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7080291,
+     40.9891017
+    ]
+   },
+   "properties": {
+    "osm_id": 560890000,
+    "osm_type": "way",
+    "name": "Saint Vincent's Hospital Westchester",
+    "operator": "Saint Joseph\u2019s Medical Center",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8620516,
+     41.0141328
+    ]
+   },
+   "properties": {
+    "osm_id": 560893985,
+    "osm_type": "way",
+    "name": "Saint John's Riverside Hospital - Dobbs Ferry Pavilion",
+    "operator": "Saint John's Riverside Hospital",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.886498,
+     40.9689517
+    ]
+   },
+   "properties": {
+    "osm_id": 560996515,
+    "osm_type": "way",
+    "name": "Saint John's Riverside Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8371184,
+     40.9422919
+    ]
+   },
+   "properties": {
+    "osm_id": 560998303,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian - Lawrence Hospital",
+    "operator": "NewYork-Presbyterian Hospital",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7880528,
+     40.9132653
+    ]
+   },
+   "properties": {
+    "osm_id": 561003881,
+    "osm_type": "way",
+    "name": "Montefiore New Rochelle",
+    "operator": "Montefiore Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8400461,
+     40.9127048
+    ]
+   },
+   "properties": {
+    "osm_id": 561008240,
+    "osm_type": "way",
+    "name": "Montefiore Mount Vernon Hospital",
+    "operator": "Montefiore Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8612154,
+     40.8935036
+    ]
+   },
+   "properties": {
+    "osm_id": 561010161,
+    "osm_type": "way",
+    "name": "Montefiore Medical Center - Wakefield Campus",
+    "operator": "Montefiore Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8978879,
+     40.9287868
+    ]
+   },
+   "properties": {
+    "osm_id": 561031798,
+    "osm_type": "way",
+    "name": "Saint Joseph's Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.670303,
+     40.8046318
+    ]
+   },
+   "properties": {
+    "osm_id": 561371073,
+    "osm_type": "way",
+    "name": "Saint Francis Hospital",
+    "operator": "Catholic Health Services of Long Island",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6310627,
+     40.687128
+    ]
+   },
+   "properties": {
+    "osm_id": 561391794,
+    "osm_type": "way",
+    "name": "Mercy Medical Center",
+    "operator": "Catholic Health Services of Long Island",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.686295,
+     40.6810658
+    ]
+   },
+   "properties": {
+    "osm_id": 561406297,
+    "osm_type": "way",
+    "name": "Long Island Jewish Valley Stream",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7534181,
+     40.5985557
+    ]
+   },
+   "properties": {
+    "osm_id": 561419820,
+    "osm_type": "way",
+    "name": "Saint John's Episcopal Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.934432,
+     40.6572512
+    ]
+   },
+   "properties": {
+    "osm_id": 561823610,
+    "osm_type": "way",
+    "name": "Kingsboro Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9437023,
+     40.656643
+    ]
+   },
+   "properties": {
+    "osm_id": 561823611,
+    "osm_type": "way",
+    "name": "Kings County Hospital Center",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9332091,
+     40.6593422
+    ]
+   },
+   "properties": {
+    "osm_id": 561823612,
+    "osm_type": "way",
+    "name": "Kingsbrook Jewish Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9122214,
+     40.6554831
+    ]
+   },
+   "properties": {
+    "osm_id": 561836782,
+    "osm_type": "way",
+    "name": "Brookdale Hospital Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8164398,
+     40.700327
+    ]
+   },
+   "properties": {
+    "osm_id": 561921179,
+    "osm_type": "way",
+    "name": "Jamaica Hospital Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8059538,
+     40.7177045
+    ]
+   },
+   "properties": {
+    "osm_id": 561925067,
+    "osm_type": "way",
+    "name": "Queens Hospital Center",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7306799,
+     40.7410898
+    ]
+   },
+   "properties": {
+    "osm_id": 561930692,
+    "osm_type": "way",
+    "name": "Creedmoor Psychiatric Center",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7260227,
+     40.7458874
+    ]
+   },
+   "properties": {
+    "osm_id": 561930693,
+    "osm_type": "way",
+    "name": "New York City Children's Center - Queens Campus",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7690078,
+     40.7766004
+    ]
+   },
+   "properties": {
+    "osm_id": 561932876,
+    "osm_type": "way",
+    "name": "Saint Mary's Hospital for Children",
+    "operator": "Saint Mary's Healthcare System for Children",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8251962,
+     40.7471842
+    ]
+   },
+   "properties": {
+    "osm_id": 562015906,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian/Queens",
+    "operator": "NewYork-Presbyterian Healthcare System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9248337,
+     40.7680618
+    ]
+   },
+   "properties": {
+    "osm_id": 562041963,
+    "osm_type": "way",
+    "name": "Mount Sinai Queens",
+    "operator": "Mount Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9427774,
+     40.699481
+    ]
+   },
+   "properties": {
+    "osm_id": 562058708,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals/Woodhull",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9207119,
+     40.6744641
+    ]
+   },
+   "properties": {
+    "osm_id": 562110355,
+    "osm_type": "way",
+    "name": "New York City Children's Center - Brooklyn Campus",
+    "operator": null,
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9372099,
+     40.6784084
+    ]
+   },
+   "properties": {
+    "osm_id": 562110647,
+    "osm_type": "way",
+    "name": "Interfaith Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9779176,
+     40.6905839
+    ]
+   },
+   "properties": {
+    "osm_id": 562256746,
+    "osm_type": "way",
+    "name": "Brooklyn Hospital Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9824426,
+     40.7332252
+    ]
+   },
+   "properties": {
+    "osm_id": 562303098,
+    "osm_type": "way",
+    "name": "Mount Sinai Beth Israel",
+    "operator": "Mount Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.956963,
+     40.7644584
+    ]
+   },
+   "properties": {
+    "osm_id": 562360129,
+    "osm_type": "way",
+    "name": "Memorial Sloan Kettering Cancer Center",
+    "operator": "Memorial Sloan Kettering Cancer Center",
+    "emergency": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9608622,
+     40.7736422
+    ]
+   },
+   "properties": {
+    "osm_id": 562361553,
+    "osm_type": "way",
+    "name": "Lenox Hill Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9449502,
+     40.7850572
+    ]
+   },
+   "properties": {
+    "osm_id": 562367949,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals/Metropolitan",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9614667,
+     40.8052353
+    ]
+   },
+   "properties": {
+    "osm_id": 562510587,
+    "osm_type": "way",
+    "name": "Mount Sinai Morningside",
+    "operator": "Mount Sinai",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9388249,
+     40.8144044
+    ]
+   },
+   "properties": {
+    "osm_id": 562540012,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals/Harlem",
+    "operator": "NYC Health + Hospitals",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9128055,
+     40.873262
+    ]
+   },
+   "properties": {
+    "osm_id": 562562103,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian/Allen Hospital",
+    "operator": "NewYork-Presbyterian",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9053409,
+     40.8673297
+    ]
+   },
+   "properties": {
+    "osm_id": 562564541,
+    "osm_type": "way",
+    "name": "James J Peters Veterans Affairs Medical Center",
+    "operator": "Veterans Health Administration",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8914963,
+     40.8527986
+    ]
+   },
+   "properties": {
+    "osm_id": 562586515,
+    "osm_type": "way",
+    "name": "Saint Barnabas Hospital",
+    "operator": "SBH Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9105978,
+     40.843486
+    ]
+   },
+   "properties": {
+    "osm_id": 562630644,
+    "osm_type": "way",
+    "name": "BronxCare Hospital Center",
+    "operator": "Bronx-Lebanon Hospital System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9030982,
+     40.8314339
+    ]
+   },
+   "properties": {
+    "osm_id": 562640493,
+    "osm_type": "way",
+    "name": "Bronx-Lebanon Hospital Center Fulton Division",
+    "operator": "BronxCare Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8484706,
+     40.8407134
+    ]
+   },
+   "properties": {
+    "osm_id": 562846734,
+    "osm_type": "way",
+    "name": "Montefiore Westchester Square Campus",
+    "operator": "Montefiore Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1904339,
+     40.7403602
+    ]
+   },
+   "properties": {
+    "osm_id": 591394791,
+    "osm_type": "way",
+    "name": "University Hospital",
+    "operator": "University Hospital Newark",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0743368,
+     40.8982195
+    ]
+   },
+   "properties": {
+    "osm_id": 661135814,
+    "osm_type": "way",
+    "name": "Unknown",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5541056,
+     40.7274666
+    ]
+   },
+   "properties": {
+    "osm_id": 662724581,
+    "osm_type": "way",
+    "name": "Nassau University Medical Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9444402,
+     40.6551408
+    ]
+   },
+   "properties": {
+    "osm_id": 721524163,
+    "osm_type": "way",
+    "name": "University Hospital of Brooklyn",
+    "operator": "State University of New York",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0211159,
+     40.6466837
+    ]
+   },
+   "properties": {
+    "osm_id": 723006150,
+    "osm_type": "way",
+    "name": "NYU Langone Hospital \u2013 Brooklyn",
+    "operator": "NYU Langone",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0707907,
+     41.0572557
+    ]
+   },
+   "properties": {
+    "osm_id": 729721157,
+    "osm_type": "way",
+    "name": "Memorial Sloan Kettering Bergan County",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0714492,
+     40.9646959
+    ]
+   },
+   "properties": {
+    "osm_id": 738974469,
+    "osm_type": "way",
+    "name": "The Valley Hospital",
+    "operator": "The Valley Hospital",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8352419,
+     40.8387239
+    ]
+   },
+   "properties": {
+    "osm_id": 793953305,
+    "osm_type": "way",
+    "name": "Montefiore Family Medical Association",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0049658,
+     40.7103064
+    ]
+   },
+   "properties": {
+    "osm_id": 799488173,
+    "osm_type": "way",
+    "name": "NewYork-Presbyterian Lower Manhattan Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9869586,
+     40.7697294
+    ]
+   },
+   "properties": {
+    "osm_id": 818557074,
+    "osm_type": "way",
+    "name": "Mount Sinai West",
+    "operator": "Mount Sinai Health System",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7302024,
+     40.7366737
+    ]
+   },
+   "properties": {
+    "osm_id": 836178213,
+    "osm_type": "way",
+    "name": "Creedmor Psychiatric Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8655193,
+     40.655925
+    ]
+   },
+   "properties": {
+    "osm_id": 845192544,
+    "osm_type": "way",
+    "name": "Brooklyn Developmental Disabilities Services Offices",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.592426,
+     40.7193669
+    ]
+   },
+   "properties": {
+    "osm_id": 1051639009,
+    "osm_type": "way",
+    "name": "Memorial Sloan Kettering Cancer Center \u2013 Nassau",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8406188,
+     40.9121259
+    ]
+   },
+   "properties": {
+    "osm_id": 1148889600,
+    "osm_type": "way",
+    "name": "Montefiore School of Nursing",
+    "operator": "Montefiore Health System",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0928348,
+     40.8956941
+    ]
+   },
+   "properties": {
+    "osm_id": 1172887525,
+    "osm_type": "way",
+    "name": "Kessler Institute For Rehabilitation - Saddle Brook",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9424054,
+     40.7704067
+    ]
+   },
+   "properties": {
+    "osm_id": 1265948117,
+    "osm_type": "way",
+    "name": "NYC Health + Hospitals/Coler",
+    "operator": "NYC Health + Hospitals/",
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0905932,
+     40.5954576
+    ]
+   },
+   "properties": {
+    "osm_id": 1307534086,
+    "osm_type": "way",
+    "name": "Carmel Richmond",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9176829,
+     40.7041664
+    ]
+   },
+   "properties": {
+    "osm_id": 3364740,
+    "osm_type": "relation",
+    "name": "Wyckoff Heights Medical Center",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2348099,
+     40.8519669
+    ]
+   },
+   "properties": {
+    "osm_id": 8635611,
+    "osm_type": "relation",
+    "name": "Essex County Hospital Center",
+    "operator": null,
+    "emergency": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9262575,
+     41.0958923
+    ]
+   },
+   "properties": {
+    "osm_id": 9187886,
+    "osm_type": "relation",
+    "name": "Montefiore Nyack Hospital",
+    "operator": null,
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1967381,
+     40.5170482
+    ]
+   },
+   "properties": {
+    "osm_id": 15507604,
+    "osm_type": "relation",
+    "name": "Staten Island University Hospital South",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7077115,
+     40.7556671
+    ]
+   },
+   "properties": {
+    "osm_id": 16312917,
+    "osm_type": "relation",
+    "name": "Long Island Jewish Medical Center",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7005247,
+     40.7750872
+    ]
+   },
+   "properties": {
+    "osm_id": 16342377,
+    "osm_type": "relation",
+    "name": "North Shore University Hospital",
+    "operator": "Northwell Health",
+    "emergency": "yes"
+   }
+  }
+ ]
+}
